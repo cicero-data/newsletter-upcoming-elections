@@ -1,0 +1,235 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="icon" href="/favicon.ico"/>
+<title>Upcoming Elections in DemocraCreate and style clusters</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.css" rel="stylesheet" />
+<style>
+
+	html {
+  		box-sizing: border-box;
+	}
+
+	body {
+	  margin: 0;
+	  padding: 0;
+	  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+	    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+	  background-color: #fff;
+	  line-height: 1.35;
+	  font-size: 14px;
+	}
+
+	html,
+	body {
+	  height: 100%;
+	}
+
+	
+
+	#map {
+	  position: absolute;
+	  top: 13vh;
+	  bottom: 0;
+	  left: 0;
+	  right: 0;
+	}
+
+	.App-header {
+	  background-color: #4b87e0;
+	  min-height: 13vh;
+	  display: flex;
+	  flex-direction: row;
+	  align-items: center;
+	  justify-content: space-between;
+	  padding: 0px 40px;
+	  color: #fff;
+	}
+
+	a { text-decoration: none;
+		color: #fff;
+	}
+
+	.header-title {
+		font-size: calc(10px + 2vmin);
+	}
+
+	.header-subtitle {
+		font-size: calc(3px + 2vmin);
+	}
+	
+	.mapboxgl-popup {
+	max-width: 400px;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+	    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+	font-size: 14px;
+	}
+
+</style>
+</head>
+<body>
+
+<div class='App-header'>
+	<div class="header-left">
+		<div class="header-title">
+	        Upcoming Cicero Elections
+	    </div>
+	    <div class="header-subtitle">
+	        August-September 2020
+	    </div>
+	</div>
+	<div class="header-right">
+	    <div class="header-subtitle">
+	        <a href="https://cicerodata.com" target="_blank">Click to learn more at cicerodata.com</a>
+	    </div>
+	</div>
+</div>
+
+<div id="map"></div>
+ 
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoibHVrZW1ja2luc3RyeSIsImEiOiJjajU0ODRsNmMwMHg2MndxeWsxMXhpY3k5In0.yM_-IJxaryqd9i5Rt6k8LA';
+	var map = new mapboxgl.Map({
+		container: 'map',
+		style: 'mapbox://styles/lukemckinstry/ckd7svdqa02c91inxvb2j8n4y',
+		center: [-103.59179687498357, 40.66995747013945],
+		zoom: 3,
+		minZoom: 2,
+        maxZoom: 11,
+	});
+
+	var nav = new mapboxgl.NavigationControl({
+        showCompass: false,
+        showZoom: true
+      });
+
+    map.addControl(nav, "top-left");
+ 
+	map.on('load', function() {
+
+		map.addSource('elections', {
+			type: 'geojson',
+			data:
+			'https://gist.githubusercontent.com/lukemckinstry/7d8e6545bdd3ba185aff254871dd2de4/raw/6e0977d21190e9aa73d0d2d9446b4d2060d3a5da/8-2020-upcoming-elections.geojson',
+			cluster: true,
+			clusterMaxZoom: 14, // Max zoom to cluster points on
+			clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
+		});
+	 
+		map.addLayer({
+			id: 'clusters',
+			type: 'circle',
+			source: 'elections',
+			filter: ['has', 'point_count'],
+			paint: {
+			'circle-color': [
+				'step',
+				['get', 'point_count'],
+				'#8f5db5',
+				4,
+				'#dcb522'
+			],
+			'circle-radius': [
+				'step',
+				['get', 'point_count'],
+				30,
+				4,
+				40
+				]
+			}
+		});
+	 
+		map.addLayer({
+			id: 'election-count',
+			type: 'symbol',
+			source: 'elections',
+			filter: ['has', 'point_count'],
+			layout: {
+				'text-field': '{point_count_abbreviated} \n elections in the area',
+				'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+				'text-size': 12
+			}
+		});
+	 
+		map.addLayer({
+			id: 'unclustered-election-point',
+			type: 'circle',
+			source: 'elections',
+			filter: ['!', ['has', 'point_count']],
+			paint: {
+			//'circle-color': '#5bce22',
+			'circle-color': '#54c6bd',
+			'circle-radius': 10,
+			}
+		});
+
+		map.addLayer({
+			id: 'unclustered-election-label',
+			type: 'symbol',
+			source: 'elections',
+			filter: ['!', ['has', 'point_count']],
+			layout: {
+				'text-field': '{name_formal} \n {next_election_display}',
+				'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+				'text-size': 12
+			}
+		});
+	 
+		map.on('click', 'clusters', function(e) {
+			var features = map.queryRenderedFeatures(e.point, {
+				layers: ['clusters']
+			});
+		var clusterId = features[0].properties.cluster_id;
+			map.getSource('elections').getClusterExpansionZoom(
+			clusterId,
+			function(err, zoom) {
+				if (err) return;
+				 
+				map.easeTo({
+					center: features[0].geometry.coordinates,
+					zoom: zoom
+				});
+			}
+			);
+		});
+
+		var popup = new mapboxgl.Popup({
+			closeButton: false,
+			closeOnClick: false
+		});
+
+		map.on('mouseenter', 'unclustered-election-label', function(e) {
+			map.getCanvas().style.cursor = 'pointer';
+			var coordinates = e.features[0].geometry.coordinates.slice();
+			var description = e.features[0].properties.ne_remarks;
+
+			while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+				coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+				}
+
+			if (description === '') {return}
+			popup
+				.setLngLat(coordinates)
+				.setHTML(description)
+				.addTo(map);
+		});
+		map.on('mouseleave', 'unclustered-election-label', function() {
+			map.getCanvas().style.cursor = '';
+			popup.remove();
+		});
+	 
+		map.on('mouseenter', 'clusters', function() {
+			map.getCanvas().style.cursor = 'pointer';
+		});
+		map.on('mouseleave', 'clusters', function() {
+			map.getCanvas().style.cursor = '';
+		});
+	});
+</script>
+</body>
+</html>
+
