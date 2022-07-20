@@ -1,0 +1,13 @@
+name_formal,state,gov_type,country_code,official_count,term_length,url,upcoming_election,ue_remarks,ue_url_1,special,runoff,lat,lon,next_election_display
+Greensboro Mayor and City Council,NC,LOCAL,US,9,4 Years,https://www.greensboro-nc.gov/government/city-council,2022-07-26 05:00:00+00:00,,,FALSE,FALSE,36.09407116,-79.82673429,26-Jul-22
+Charlotte City Council,NC,LOCAL,US,12,2 years,https://charlottenc.gov/citycouncil/Pages/default.aspx,2022-07-26 05:00:00+00:00,Mayor and all council seats,,FALSE,FALSE,35.20670663,-80.81767728,26-Jul-22
+Fayetteville City Council,NC,LOCAL,US,10,2 years,https://www.fayettevillenc.gov/city-council,2022-07-26 05:00:00+00:00,All,,FALSE,FALSE,35.07504261,-78.96795895,26-Jul-22
+Huntsville City Council,AL,LOCAL,US,5,4 years,https://www.huntsvilleal.gov/government/city-council/,2022-08-02 05:00:00+00:00,"Districts 2, 3, 4",https://www.huntsvilleal.gov/government/city-council/city-council-us/,FALSE,FALSE,34.6993751,-86.61392607,2-Aug-22
+Peoria City Council,AZ,LOCAL,US,7,4 years,https://www.peoriaaz.gov/government/mayor-and-city-council,2022-08-02 05:00:00+00:00,3 Districts and Mayor; if candidates win a majority an election will not be held in November.,,FALSE,FALSE,33.67140804,-112.2624794,2-Aug-22
+Murfreesboro City Council,TN,LOCAL,US,7,4 years,http://www.murfreesborotn.gov/424/City-Council,2022-08-04 05:00:00+00:00,4 seats.,,FALSE,FALSE,35.85086996,-86.40921333,4-Aug-22
+Tallahassee City Commission,FL,LOCAL,US,5,4 years,https://talgov.com/cityleadership/CityLeadership.aspx,2022-08-23 05:00:00+00:00,Mayor plus 2 at large commission seats,,FALSE,FALSE,30.45491701,-84.25265501,23-Aug-22
+Gainesville City Commission,FL,LOCAL,US,7,4 years,http://www.cityofgainesville.org/CityCommission.aspx,2022-08-23 05:00:00+00:00,,https://www.cityofgainesville.org/ClerkOfTheCommission/CityElections.aspx,FALSE,FALSE,29.67157987,-82.34783738,23-Aug-22
+Surprise City Council,AZ,LOCAL,US,7,4 years,https://www.surpriseaz.gov/1904/Mayor-Council,2022-08-27 05:00:00+00:00,"District 1, 5, 6",https://library.municode.com/az/surprise/codes/code_of_ordinances?nodeId=PTIGEOR_CH14EL_S14-4PREL,FALSE,FALSE,33.64500545,-112.4074605,27-Aug-22
+Attorney General of Guam,GU,STATE,US,1,4 years,http://oagguam.org/,2022-08-27 05:00:00+00:00,,,FALSE,FALSE,13.44275955,144.7694517,27-Aug-22
+Chandler City Council,AZ,LOCAL,US,7,4 years,https://www.chandleraz.gov/government/mayor-and-council?pageid=245,2022-08-29 05:00:00+00:00,4 council seats (includes mayoral seat),https://recorder.maricopa.gov/electionresults/citiestowns.aspx,FALSE,FALSE,33.28267519,-111.8516918,29-Aug-22
+Tulsa City Council,OK,LOCAL,US,9,2 years,http://www.tulsacouncil.org/,2022-08-30 05:00:00+00:00,,,FALSE,FALSE,36.11659567,-95.91244778,30-Aug-22
