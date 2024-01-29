@@ -1,0 +1,3055 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Albany Common Council",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "16",
+        "term_length": "4",
+        "url": "https://www.albanyny.gov/Government/CityOfficials/CommonCouncil.aspx",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7876472085018,
+          42.6610874341904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Albuquerque City Council & Mayor",
+        "state": "NM",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.cabq.gov/council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and odd districts",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_Albuquerque_mayoral_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.627846672883,
+          35.1071105918069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Alexandria City Council",
+        "state": "VA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.alexandriava.gov/Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and all council seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0861700574738,
+          38.8183741860603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Allegheny County Council",
+        "state": "PA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "15",
+        "term_length": "4 years",
+        "url": "http://www.alleghenycounty.us/council/index.aspx",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "1, 3, 4, 8, 9, 12",
+        "ue_url_1": "http://www.alleghenycounty.us/elections/election-calendar.aspx",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9714352883813,
+          40.4480983612023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Allentown City Council & Mayor",
+        "state": "PA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.allentownpa.gov/Government/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor + 4 council seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4755418471669,
+          40.5961003588033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Arlington County Board",
+        "state": "VA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "4 years",
+        "url": "https://countyboard.arlingtonva.us/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "One seat",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.101017493324,
+          38.8785851111084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Arvada City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://arvada.org/city-hall/city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 3 and 1 at-large",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.130621421206,
+          39.8274556104234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Atlanta City Council & Mayor",
+        "state": "GA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "16",
+        "term_length": "4 years",
+        "url": "http://citycouncil.atlantaga.gov/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "All seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4103598088574,
+          33.7634588899988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Atlantic City Council & Mayor",
+        "state": "NJ",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.cityofatlanticcity.org/Departments/administration-department",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.444733104243,
+          39.3704606630912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Aurora City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "4 years",
+        "url": "https://www.auroragov.org/city_hall/mayor___city_council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Wards I, II, and III + 2 At-Large seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.790575755273,
+          39.6817986910652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Bellevue City Council",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://bellevuewa.gov/city-government/city-council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Even Positions",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.155046579526,
+          47.5953193040164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Billings City Council & Mayor",
+        "state": "MT",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "4 years",
+        "url": "http://ci.billings.mt.us/107/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and 1 seat from each district",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.550172716828,
+          45.7894298953001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Boise City Council",
+        "state": "ID",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "http://citycouncil.cityofboise.org/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Seats 2, 4, 6",
+        "ue_url_1": "https://www.cityofboise.org/departments/finance-and-administration/city-clerk/city-elections/",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2317299586,
+          43.6005449201152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Boston City Council & Mayor",
+        "state": "MA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "13",
+        "term_length": "2 years",
+        "url": "http://www.cityofboston.gov/citycouncil/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "13 seats",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_Boston_City_Council_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0904615823079,
+          42.318415774191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Boulder City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years and 2 years (for 5th member elected each election)",
+        "url": "https://bouldercolorado.gov/city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.251550810652,
+          40.0272930114511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Bridgeport City Council",
+        "state": "CT",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "20",
+        "term_length": "2 years",
+        "url": "https://bridgeportct.gov/content/341441/341399/default.aspx",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "All seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1970507626342,
+          41.1914776875054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Bronx Borough President",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "http://bronxboropres.nyc.gov/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239051354752,
+          40.7186206645279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Brooklyn Borough President",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "http://www.brooklyn-usa.org/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239051354752,
+          40.7186206645279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Bucks County District Attorney",
+        "state": "PA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "http://www.buckscounty.org/government/RowOfficers/DistrictAttorney",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1068197404598,
+          40.3368861357464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Buffalo Mayor",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "",
+        "url": "https://www.buffalony.gov/490/Mayor",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8494448407554,
+          42.9082295345728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Cambridge City Council",
+        "state": "MA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "2 years",
+        "url": "https://www.cambridgema.gov/Departments/citycouncil",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1183737849265,
+          42.3757984497285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Cedar Rapids City Council",
+        "state": "IA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.cedar-rapids.org/local_government/city_council/mayor_and_city_council/index.php",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "1 at-large seat and districts 1, 3, 5; mayor",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6761204473296,
+          41.980152755983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Centennial City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://www.centennialco.gov/Government/Mayor-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and 1 seat from each district",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.874917940387,
+          39.5953214951982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Chester County Controller",
+        "state": "PA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "",
+        "url": "https://www.chesco.org/206/Controller",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7484332994859,
+          39.9732178954786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Cincinnati City Council & Mayor",
+        "state": "OH",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.cincinnati-oh.gov/council/pages/-3412-/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.505915298459,
+          39.1412705690365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Cleveland City Council & Mayor",
+        "state": "OH",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "17",
+        "term_length": "4 years",
+        "url": "http://www.clevelandcitycouncil.org/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6704514896954,
+          41.4792066313414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "College Station City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.cstx.gov/departments___city_hall/council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Two at-large seats (Place 4 and Place 6).",
+        "ue_url_1": "https://www.cstx.gov/departments___city_hall/elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2959455101368,
+          30.585274890598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Columbia City Council & Mayor",
+        "state": "SC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "https://www.columbiasc.net/city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor, Districts 1 and 4, and one At-Large council member.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9672501849945,
+          34.0283806295737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Columbus City Council",
+        "state": "OH",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.columbuscitycouncil.org/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9850078120377,
+          39.9861710531357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Davenport City Council & Mayor",
+        "state": "IA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "2 years",
+        "url": "http://www.cityofdavenportiowa.com/cms/One.aspx?portalId=6481456&pageId=7274096",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "All seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5933592825869,
+          41.5535592811237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Dayton City Commission",
+        "state": "OH",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "4 years",
+        "url": "https://www.daytonohio.gov/159/City-Commission-Office",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "3 seats",
+        "ue_url_1": "https://www.mcohio.org/government/county_agencies/board_of_elections/upcoming_elections/index.php",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.199802366801,
+          39.7797607738843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Delaware County Council & Controller",
+        "state": "PA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "4 years",
+        "url": "https://www.delcopa.gov/electedofficials/index.html",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "2 seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.399033527915,
+          39.9166978025274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Des Moines City Council",
+        "state": "IA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.dsm.city/government/index.php",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Wards 1 and 3, At-large",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6155235234982,
+          41.5831535260806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Detroit City Council & Mayor",
+        "state": "MI",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.detroitmi.gov/Government/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1065380273021,
+          42.3870919491186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Durham City Council",
+        "state": "NC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years (2 years for Mayor)",
+        "url": "https://durhamnc.gov/1323/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor, Wards 1, 2, 3",
+        "ue_url_1": "http://www.dcovotes.com/voters/current-elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8864119922003,
+          35.9791176148182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Edinburg City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "4 years",
+        "url": "https://cityofedinburg.com/government/mayor_and_city_council/index.php",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor, Place 1, Place 2",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1596100031045,
+          26.3195500011118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Edison Township Council & Mayor",
+        "state": "NJ",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.edisonnj.org/departments/council/index.php",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and 3 council seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3699590495015,
+          40.5369818088393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Erie City Council, Mayor & Controller",
+        "state": "PA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://cityof.erie.pa.us/government/city-council/city-council-members/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0730672775142,
+          42.1164678977521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Everett City Council & Mayor",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://everettwa.gov/409/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor plus 3 council seats.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.188189350964,
+          47.9610989907849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Gatineau City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "18",
+        "term_length": "4 years",
+        "url": "https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal/conseil_municipal",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "Mayor + 18 councillors",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6961234552507,
+          45.4797949409778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Grand Rapids City Commission",
+        "state": "MI",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.grandrapidsmi.gov/Government/City-Commission",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "One official from each ward",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6538067078748,
+          42.9589987629354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Greeley City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years (2 years for Mayor)",
+        "url": "https://greeleygov.com/government/council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "District 2, District 3, and 2 At Large seats (one of which is Mayor)",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.748387769102,
+          40.413920829969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Greenville City Council",
+        "state": "SC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "http://www.greenvillesc.gov/283/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "District 2, 4 and 1 At Large",
+        "ue_url_1": "https://www.scvotes.org/greenville",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3704825079734,
+          34.8411294925188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Harrisburg City Council, Mayor & Controller",
+        "state": "PA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://harrisburgcitycouncil.com/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor, Controller, half of council",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8840032450274,
+          40.2753278996031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Hialeah City Council & Mayor",
+        "state": "FL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.hialeahfl.gov/435/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and 4 council seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3045458132913,
+          25.8696293203288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "High Point City Council",
+        "state": "NC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "2 years",
+        "url": "https://www.highpointnc.gov/153/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "https://www.guilfordcountync.gov/our-county/board-of-elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9929238738573,
+          35.9894046606049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Jacksonville City Council",
+        "state": "FL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "19",
+        "term_length": "",
+        "url": "http://www.coj.net/city-council/city-council-members",
+        "upcoming_election": "2021-12-07 05:00:00+00:00",
+        "ue_remarks": "One at-large seat.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Dec 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6418823063599,
+          30.3053317588755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Jersey City City Council & Mayor",
+        "state": "NJ",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://www.cityofjerseycity.com/cityhall/citycouncil",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0625817573269,
+          40.7187808195513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Kansas City Board of Commissioners & Mayor/CEO",
+        "state": "KS",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "4 years",
+        "url": "http://www.wycokck.org/Commissioners.aspx",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor/CEO, 1 At-large seat and districts 1, 5, 7, 8",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7223473404301,
+          39.1104211553518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Kent City Council & Mayor",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.kentwa.gov/city-hall/kent-city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and even districts",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.212836390793,
+          47.3887724445185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "King County Council & Executive",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://kingcounty.gov/council.aspx",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Executive and odd districts",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.123508871335,
+          47.5212956360339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Knoxville City Council",
+        "state": "TN",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.knoxvilletn.gov/cms/One.aspx?portalId=109562&pageId=131053",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 2, 3, 4, 6",
+        "ue_url_1": "http://knoxvilletn.gov/residents/newcomer_information/election_information",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9506103942188,
+          35.9686696125279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lévis City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "15",
+        "term_length": "4 years",
+        "url": "https://www.ville.levis.qc.ca/la-ville/conseil-municipal/elus/",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "All.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2247969201031,
+          46.7388106703878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lakeland City Commission",
+        "state": "FL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.lakelandgov.net/government/mayor-city-commission/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor, 1 at-large, C, and D",
+        "ue_url_1": "https://www.lakelandgov.net/departments/city-clerk/elections/",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9590292726858,
+          28.0494413625009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lakewood City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "11",
+        "term_length": "4 years",
+        "url": "http://www.lakewood.org/CityCouncil/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "1 council member from each ward",
+        "ue_url_1": "https://www.jeffco.us/578/Election-Results",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.111350906896,
+          39.7013087262983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lakewood Township Committee",
+        "state": "NJ",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "3 years",
+        "url": "https://www.lakewoodnj.gov/section/government",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "2 seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2030940807247,
+          40.0763407767004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lansing City Council & Mayor",
+        "state": "MI",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "4 years",
+        "url": "https://www.lansingmi.gov/267/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and 2 at-large seats, ward 2, and ward 4",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5576477731566,
+          42.7147286389293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Las Cruces City Council",
+        "state": "NM",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.las-cruces.org/1487/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "3 seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.77354817278,
+          32.3248549305988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Laval City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "21",
+        "term_length": "4 years",
+        "url": "https://www.laval.ca/Pages/Fr/A-propos/conseillers-municipaux.aspx",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "Mayor plus 21 councillors",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7393219271491,
+          45.5830244279889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Longueuil City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "15",
+        "term_length": "4 years",
+        "url": "https://www.longueuil.quebec/fr/services/instances-decisionnelles-et-consultatives/conseil-de-ville",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "Mayor and City Council",
+        "ue_url_1": "https://www.longueuil.quebec/fr/election-municipale",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4582342337795,
+          45.5184248981743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lowell City Council",
+        "state": "MA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "2 years",
+        "url": "https://www.lowellma.gov/517/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "First election in districts",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3217140263818,
+          42.6388709136306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Manchester Board of Aldermen & Mayor",
+        "state": "NH",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "14",
+        "term_length": "2 years",
+        "url": "https://www.manchesternh.gov/Mayor-and-Aldermen/Aldermen",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.450589751053,
+          42.9872171748831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Manhattan Borough President",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "https://www.manhattanbp.nyc.gov/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239051354752,
+          40.7186206645279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Mayor of Sandy Springs",
+        "state": "GA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "http://www.sandyspringsga.gov/government/mayor-s-office",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "All seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3687301151361,
+          33.9375181308951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Mayor of the City of New York",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "http://www.nyc.gov/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_New_York_City_mayoral_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239051354752,
+          40.7186206645279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Meridian City Council",
+        "state": "ID",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "https://meridiancity.org/council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Seats 2,4,6",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.398046380737,
+          43.6115751946026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Mesquite City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://www.cityofmesquite.com/131/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and Places 1, 2, 3, 4, 5 and 6",
+        "ue_url_1": "https://www.cityofmesquite.com/152/Elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6042025493601,
+          32.7755809167494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Miami City Commission & Mayor",
+        "state": "FL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "4 years",
+        "url": "https://www.miamigov.com/Government/City-Officials",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Districts 3 and 5",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2242654610371,
+          25.7822063119582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Midland City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "http://www.midlandtexas.gov/238/Mayor-City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Districts 1 and 2, plus 2 at-large seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.114694878918,
+          32.0186292347012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Minneapolis City Council & Mayor",
+        "state": "MN",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "13",
+        "term_length": "4 years",
+        "url": "http://www.ci.minneapolis.mn.us/council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "13 seats from wards",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_Minneapolis_City_Council_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2683589786542,
+          44.9609764597756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Montréal City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "103",
+        "term_length": "4 years",
+        "url": "https://ville.montreal.qc.ca/portal/page?_pageid=5798,85933591&_dad=portal&_schema=PORTAL",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "65 seats",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_Montreal_municipal_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6321994620133,
+          45.5284478803219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Myrtle Beach City Council & Mayor",
+        "state": "SC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "https://www.cityofmyrtlebeach.com/government/mayor_and_city_concil/index.php",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "3 At-Large City council seats (all positions are At-Large) and Mayor are up for election. ",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8853998184954,
+          33.7088862993339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "New Haven Board of Alders & Mayor",
+        "state": "CT",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "30",
+        "term_length": "2 years",
+        "url": "https://www.newhavenct.gov/gov/depts/alders/default.htm",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "https://www.newhavenct.gov/gov/depts/clerk/election.htm",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9235091889874,
+          41.3123675150303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "New Jersey General Assembly, State Senate, Governor, & Lieutenant Governor",
+        "state": "NJ",
+        "gov_type": "STATE",
+        "country_code": "US",
+        "official_count": "40",
+        "term_length": "2 or 4 Years",
+        "url": "https://www.njleg.state.nj.us/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4519332712688,
+          40.4240456024051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "New Orleans City Council & Mayor",
+        "state": "LA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://council.nola.gov/home/",
+        "upcoming_election": "2021-11-20 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 20, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.999135135715,
+          29.9899391950291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "New York City Comptroller",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "http://www.comptroller.nyc.gov/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239051354752,
+          40.7186206645279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "New York City Council",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "51",
+        "term_length": "4 years",
+        "url": "https://council.nyc.gov/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "51 seats",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_New_York_City_Council_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239051354752,
+          40.7186206645279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "New York City Public Advocate",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "http://www.pubadvocate.nyc.gov/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239051354752,
+          40.7186206645279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Olathe City Council",
+        "state": "KS",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.olatheks.org/government/city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "1 at-large, wards 3, 4",
+        "ue_url_1": "https://jocoelection.org/election-facts",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8081931762121,
+          38.8827713107007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Orlando City Council",
+        "state": "FL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "https://www.orlando.gov/Our-Government/Mayor-City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 3, 5",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3695587148265,
+          28.5087714757249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Overland Park City Council",
+        "state": "KS",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "13",
+        "term_length": "4 years",
+        "url": "https://www.opkansas.org/city-government/city-council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "1 member from each of 6 districts.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6866381672771,
+          38.9120893052128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Philadelphia City Controller & District Attorney",
+        "state": "PA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4",
+        "url": "",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1399952465174,
+          40.003642722629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Pittsburgh City Council & Mayor",
+        "state": "PA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://pittsburghpa.gov/council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Even-numbered council districts",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9731065795818,
+          40.4413886035493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Provo City Council & Mayor",
+        "state": "UT",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.provo.org/government/city-council/meet-the-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "district 2, district 5, 1 at-large seat, and mayor",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.656301934869,
+          40.2438826240123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Pueblo City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.pueblo.us/585/Council-Members",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 3 and 2 at large positions",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.616557701401,
+          38.2654477497697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Quebec City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "21",
+        "term_length": "4 years",
+        "url": "https://www.ville.quebec.qc.ca/apropos/gouvernance/conseil-municipal/index.aspx",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "21 councillors",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_Quebec_City_municipal_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2907800667884,
+          46.8367465515137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Queens Borough President",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "http://www.queensbp.org/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239051354752,
+          40.7186206645279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Renton City Council",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://rentonwa.gov/council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "3 seats",
+        "ue_url_1": "https://www.kingcounty.gov/depts/elections.aspx",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.190340665367,
+          47.4758597024735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Rochester City Council & Mayor",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.cityofrochester.gov/article.aspx?id=8589935617",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and 4 At Large Seats",
+        "ue_url_1": "https://www2.monroecounty.gov/elections-index.php",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6127178689243,
+          43.1670390288372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Saguenay City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "15",
+        "term_length": "4 years",
+        "url": "https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement/membres-des-conseils",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "All.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1142004486255,
+          48.3923505328101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Salt Lake City Council",
+        "state": "UT",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.slc.gov/council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 3, 5, 7",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.88490526445,
+          40.7572380130586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Sandy Springs City Council",
+        "state": "GA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "http://www.sandyspringsga.gov/government/city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "All seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3687301151361,
+          33.9375181308951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Seattle City Council & Mayor",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://www.seattle.gov/council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "districts 8 and 9",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_Seattle_City_Council_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33292762084,
+          47.6301192111893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Sherbrooke City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "16",
+        "term_length": "4 years",
+        "url": "https://www.ville.sherbrooke.qc.ca/fr/mairie-et-vie-democratique/conseil-municipal/",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "All seats.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9127417354301,
+          45.3960118253667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Spokane City Council",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://my.spokanecity.org/citycouncil/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Half of the council seats.",
+        "ue_url_1": "https://my.spokanecity.org/elections/",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.415048126839,
+          47.6744801355583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Spokane Valley City Council",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.spokanevalley.org/content/6836/6892/default.aspx",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Positions 1, 4, 5, 7",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.234599875113,
+          47.6625893869225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Springfield City Council & Mayor",
+        "state": "MA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "13",
+        "term_length": "2 years",
+        "url": "https://www.springfield-ma.gov/cos/index.php?id=council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5498363163147,
+          42.1121936175479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "St. Paul Mayor",
+        "state": "MN",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "https://www.stpaul.gov/departments/mayors-office",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1082677146429,
+          44.9512270205362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "St. Petersburg City Council & Mayor",
+        "state": "FL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "4 years",
+        "url": "http://www.stpete.org/council/index.asp",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and Even Numbered Districts",
+        "ue_url_1": "http://www.stpete.org/elections/index.php",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6664738158809,
+          27.7858652681396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Stamford Board of Representatives & Mayor",
+        "state": "CT",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "40",
+        "term_length": "4 years",
+        "url": "http://www.boardofreps.org/",
+        "upcoming_election": "2021-11-02 05:46:45+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5420479850428,
+          41.074532152187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Staten Island Borough President",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "http://www.statenislandusa.com/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239051354752,
+          40.7186206645279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Sterling Heights City Council",
+        "state": "MI",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://www.sterling-heights.net/148/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030368089749,
+          42.58098528413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Syracuse Common Council & Mayor",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "2-4 years",
+        "url": "http://www.syrgov.net/Common_Council.aspx",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor, all numbered council seats, 3 at large council seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1416673592569,
+          43.0422375755857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Tacoma City Council",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://www.cityoftacoma.org/government/city_council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor, districts 2, 4, 5, and 1 At Large seat.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.459396878665,
+          47.2414194724576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Terrebonne City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "16",
+        "term_length": "4 years",
+        "url": "https://www.ville.terrebonne.qc.ca/fr/10/Conseil_municipal",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "All.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6659796418711,
+          45.7213015459762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Thornton City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://www.cityofthornton.net/government/city-council/Pages/default.aspx",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "1 member from each ward",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.949039433693,
+          39.9118832822248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Toledo City Council & Mayor",
+        "state": "OH",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "12",
+        "term_length": "4 years",
+        "url": "https://toledo.oh.gov/government/city-council/",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and at-large districts",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.580663259041,
+          41.6649809496271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Topeka City Council",
+        "state": "KS",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "4 years",
+        "url": "https://www.topeka.org/citycouncil",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and Districts 1, 3, 5, 7",
+        "ue_url_1": "https://www.snco.us/election/",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7013747934315,
+          39.0304630139346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Trois-Rivières City Council & Mayor",
+        "state": "QC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "14",
+        "term_length": "4 years",
+        "url": "https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal",
+        "upcoming_election": "2021-11-07 05:00:00+00:00",
+        "ue_remarks": "All.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 07, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5831900702488,
+          46.3609516301423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Tucson City Council",
+        "state": "AZ",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "https://www.tucsonaz.gov/city-government",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Wards 3, 5, 6",
+        "ue_url_1": "https://www.tucsonaz.gov/clerks/elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.900003340263,
+          32.1874969904522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Vancouver City Council",
+        "state": "WA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.cityofvancouver.us/citycouncil",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "3 seats",
+        "ue_url_1": "https://www.clarkcountynv.gov/election/Pages/default.aspx",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.597009437731,
+          45.6351719510632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Virginia House of Delegates, Governor, Lieutenant Governor, & Attorney General",
+        "state": "VA",
+        "gov_type": "STATE",
+        "country_code": "US",
+        "official_count": "100",
+        "term_length": "2 years",
+        "url": "https://virginiageneralassembly.gov/index.php",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8353671756458,
+          37.8151439305259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Waterbury Board of Aldermen",
+        "state": "CT",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "15",
+        "term_length": "2 years",
+        "url": "http://www.waterburyct.org/filestorage/9569/10451/BOA_2017-2019-Rev007.pdf",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0341407704136,
+          41.5577849312554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "West Jordan City Council",
+        "state": "UT",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years, 4 years",
+        "url": "https://www.westjordan.utah.gov/mayor-and-city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.992087891115,
+          40.6045092302931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "West Valley City Council",
+        "state": "UT",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.wvc-ut.gov/15/City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "2 At-large, District 2, District 4",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.002556668255,
+          40.6907221871085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Westminster City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.cityofwestminster.us/Government/CityCouncil",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor + 3 council seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.06240786631,
+          39.8836695983591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Wichita City Council",
+        "state": "KS",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.wichita.gov/Council/Pages/default.aspx",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 3, 6",
+        "ue_url_1": "https://www.sedgwickcounty.org/elections/",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3431702348633,
+          37.6906947074228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Wichita Falls City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://www.wichitafallstx.gov/29/Mayor-and-City-Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5302679519037,
+          33.8975558196748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Wilmington City Council",
+        "state": "NC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years (2 years for mayor)",
+        "url": "http://www.wilmingtonnc.gov/departments/city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Mayor and 3 council seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.886077589905,
+          34.2100015857209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Woodbridge Township Council",
+        "state": "NJ",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.twp.woodbridge.nj.us/340/Council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "5 ward seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2942377488171,
+          40.561930282394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Worcester City Council",
+        "state": "MA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "11",
+        "term_length": "2 years",
+        "url": "http://www.worcesterma.gov/city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "http://www.worcesterma.gov/elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8059829283626,
+          42.2676933771533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Yonkers City Council",
+        "state": "NY",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.yonkersny.gov/government/city-council",
+        "upcoming_election": "2021-11-02 05:00:00+00:00",
+        "ue_remarks": "Council president, districts 2, 4, 6",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Nov 02, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8713340075294,
+          40.9418822029941
+        ]
+      }
+    }
+  ]
+}

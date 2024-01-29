@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Baja California Sur",
+        "state": "BCS",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "http://www.bcs.gob.mx/gobernador.html",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.051360677499,
+          25.9229738224013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Campeche",
+        "state": "CAM",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3310082268301,
+          18.8534653723863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Colima",
+        "state": "COL",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.080336058903,
+          19.1296004639922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Michoacán",
+        "state": "MIC",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "http://michoacan.gob.mx/index.php/temas/gobierno-y-estado/gobernador",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.880505999721,
+          19.2088455521764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Nayarit",
+        "state": "NAY",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.855607535665,
+          21.8080596919152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Nuevo León",
+        "state": "NLE",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9682882091334,
+          25.5721441085583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Querétaro",
+        "state": "QUE",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8458114888224,
+          20.8548666785377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Sonora",
+        "state": "SON",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "http://www.sonora.gob.mx/swb/Sonora/Gobernador",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.804558458023,
+          29.6955272602514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Tamaulipas",
+        "state": "TAM",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "http://tamaulipas.gob.mx/gobierno/gobernador/",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6392578807332,
+          24.2931877894613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Tlaxcala",
+        "state": "TLA",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1739003648329,
+          19.4300756285206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Zacatecas",
+        "state": "ZAC",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "http://www.zacatecas.gob.mx/index.php/gobierno/gobernador/",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All; Election held one year early to meet new federal requirements. Term is still 6 years for Governor.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.656888283731,
+          23.2989398350815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of San Luis Potosí",
+        "state": "SLP",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "http://www.slp.gob.mx/gobernador.aspx",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.41787707898,
+          22.5836988434807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Guerrero",
+        "state": "GRO",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "http://guerrero.gob.mx/gobierno/",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9219140889269,
+          17.6696436018125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Mexico Chamber of Deputies",
+        "state": "",
+        "gov_type": "NATIONAL",
+        "country_code": "MX",
+        "official_count": "500",
+        "term_length": "",
+        "url": "http://www.diputados.gob.mx/",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "500 seats; 300 seats selected from single-member constituencies by first-past-the-post and 200 seats by proportional representation",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.231126572019,
+          21.24640058845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Jackson City Council & Mayor",
+        "state": "MS",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.jacksonms.gov/index.aspx?nid=111",
+        "upcoming_election": "2021-06-08 05:00:00+00:00",
+        "ue_remarks": "All districts and Mayor are up for election.",
+        "ue_url_1": "https://ballotpedia.org/City_elections_in_Jackson,_Mississippi_(2021)",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 08, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2113565330598,
+          32.3155000215865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Riverside City Council",
+        "state": "CA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://riversideca.gov/council/",
+        "upcoming_election": "2021-06-08 05:00:00+00:00",
+        "ue_remarks": "Districts 2, 4, 6",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 08, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.408874256255,
+          33.9382176509732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Governor of Chihuahua",
+        "state": "CHH",
+        "gov_type": "STATE",
+        "country_code": "MX",
+        "official_count": "1",
+        "term_length": "6 years",
+        "url": "",
+        "upcoming_election": "2021-06-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jun 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.45919965906,
+          28.8049687018102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Alabama State Senate",
+        "state": "AL",
+        "gov_type": "STATE",
+        "country_code": "US",
+        "official_count": "35",
+        "term_length": "4 years",
+        "url": "http://www.legislature.state.al.us/aliswww/ISD/Splash_Senate.aspx",
+        "upcoming_election": "2021-07-13 05:00:00+00:00",
+        "ue_remarks": "District 14",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Jul 13, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7785303968775,
+          33.0102375848576
+        ]
+      }
+    }
+  ]
+}

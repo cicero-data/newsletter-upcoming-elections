@@ -1,0 +1,181 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Cicero Elections</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.css" rel="stylesheet" />
+<style>
+	body { margin: 0; padding: 0; }
+	#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+
+	.legend {
+	background-color: #fff;
+	border-radius: 3px;
+	bottom: 30px;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.10);
+	font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	padding: 10px;
+	position: absolute;
+	right: 10px;
+	z-index: 1;
+	}
+	 
+	.legend h4 {
+	margin: 0 0 10px;
+	}
+	 
+	.legend div span {
+	border-radius: 50%;
+	display: inline-block;
+	height: 10px;
+	margin-right: 5px;
+	width: 10px;
+	}
+
+
+</style>
+</head>
+<body>
+	<!-- Set the display of this container to none so we can
+     add it programmatically to `legendControl` -->
+<div id='state-legend' class='legend'>
+<h3>Upcomming Elections in Cicero</h3>
+<p>This map displays upcomming elections in Cicero, a comprehensive <br> database of elected officials, legislative districts, and contact and<br> social media information for over 900 elected bodies around the world.<br><br> Visit <a href="https://cicerodata.com" target="_blank">cicerodata.com</a> to learn more.</p>
+</div>
+ 
+<nav id="menu"></nav>
+<div id="map"></div>
+ 
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoibHVrZW1ja2luc3RyeSIsImEiOiJjajU0ODRsNmMwMHg2MndxeWsxMXhpY3k5In0.yM_-IJxaryqd9i5Rt6k8LA';
+	var map = new mapboxgl.Map({
+		container: 'map',
+		style: 'mapbox://styles/lukemckinstry/cka6vtxbx0ybp1ipf5rmxpq7a',
+		center: [-103.59179687498357, 40.66995747013945],
+		zoom: 3,
+		minZoom: 2,
+        maxZoom: 11,
+	});
+ 
+	map.on('load', function() {
+		// Add a new source from our GeoJSON data and
+		// set the 'cluster' option to true. GL-JS will
+		// add the point_count property to your source data.
+
+
+		map.getStyle().layers;
+
+
+		map.addSource('elections', {
+			type: 'geojson',
+			// Point to GeoJSON data. This example visualizes all M1.0+ earthquakes
+			// from 12/22/15 to 1/21/16 as logged by USGS' Earthquake hazards program.
+			// data:
+			// 'https://gist.githubusercontent.com/lukemckinstry/71b3460ec8d312a5273ba85e83d4106b/raw/b289e1e47d885776f69480e752e963295587d2f0/may-upcomming-elections.geojson',
+			data:
+			'https://gist.githubusercontent.com/lukemckinstry/87d0bb741c3569d6ef428b6e52d4ee76/raw/d2b5b494d2b305760ba158541c7f23ad447503ec/3-2021-upcoming-elections.geojson',
+
+
+			cluster: true,
+			clusterMaxZoom: 14, // Max zoom to cluster points on
+			clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
+		});
+	 
+		map.addLayer({
+			id: 'clusters',
+			type: 'circle',
+			source: 'elections',
+			//'source-layer': 'upcomming-606mpz',
+			filter: ['has', 'point_count'],
+			paint: {
+			// Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
+			// with three steps to implement three types of circles:
+			//   * Blue, 20px circles when point count is less than 100
+			//   * Yellow, 30px circles when point count is between 100 and 750
+			//   * Pink, 40px circles when point count is greater than or equal to 750
+			'circle-color': [
+				'step',
+				['get', 'point_count'],
+				'#f1f075',
+				4,
+				'#49dff3'
+			],
+			'circle-radius': [
+				'step',
+				['get', 'point_count'],
+				30,
+				4,
+				40
+				]
+			}
+		});
+	 
+		map.addLayer({
+			id: 'election-count',
+			type: 'symbol',
+			source: 'elections',
+			filter: ['has', 'point_count'],
+			layout: {
+				'text-field': '{point_count_abbreviated} \n elections in the area',
+				'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+				'text-size': 12
+			}
+		});
+	 
+		map.addLayer({
+			id: 'unclustered-election-point',
+			type: 'circle',
+			source: 'elections',
+			filter: ['!', ['has', 'point_count']],
+			paint: {
+			'circle-color': '#5bce22',
+			'circle-radius': 10,
+			}
+		});
+
+		map.addLayer({
+			id: 'unclustered-election-label',
+			type: 'symbol',
+			source: 'elections',
+			filter: ['!', ['has', 'point_count']],
+			layout: {
+				'text-field': '{name_formal} \n {next_election_display}',
+				'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+				'text-size': 12
+			}
+		});
+	 
+		//inspect a cluster on click
+		map.on('click', 'clusters', function(e) {
+			var features = map.queryRenderedFeatures(e.point, {
+				layers: ['clusters']
+			});
+		var clusterId = features[0].properties.cluster_id;
+			map.getSource('elections').getClusterExpansionZoom(
+			clusterId,
+			function(err, zoom) {
+				if (err) return;
+				 
+				map.easeTo({
+					center: features[0].geometry.coordinates,
+					zoom: zoom
+				});
+			}
+			);
+		});
+	 
+		map.on('mouseenter', 'clusters', function() {
+			map.getCanvas().style.cursor = 'pointer';
+		});
+		map.on('mouseleave', 'clusters', function() {
+			map.getCanvas().style.cursor = '';
+		});
+	});
+</script>
+ 
+</body>
+</html>
+

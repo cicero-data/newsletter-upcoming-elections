@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Legislative Assembly of New Brunswick",
+        "state": "NB",
+        "gov_type": "STATE",
+        "country_code": "CA",
+        "official_count": "49",
+        "term_length": "",
+        "url": "https://www1.gnb.ca/legis/bios/59/index-e.asp",
+        "upcoming_election": "2020-09-14 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "ue_cicero_link": "https://cicero.azavea.com/v3.1/admin/webservice/electionevent/18256/change/",
+        "next_election_display": "Sep 14, 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9339830999618,
+          46.3473324972309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Mississippi State Senate 39 Special Election",
+        "state": "MS",
+        "gov_type": "STATE",
+        "country_code": "US",
+        "official_count": "52",
+        "term_length": "4 years",
+        "url": "http://billstatus.ls.state.ms.us/",
+        "upcoming_election": "2020-09-22 05:00:00+00:00",
+        "ue_remarks": "District 39 (Special Election)",
+        "ue_url_1": "",
+        "special": "True",
+        "runoff": "False",
+        "ue_cicero_link": "https://cicero.azavea.com/v3.1/admin/webservice/electionevent/18233/change/",
+        "next_election_display": "Sep 22, 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5912112276585,
+          32.6211429875054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "United States House of Representatives GA-5 Special Election ",
+        "state": "",
+        "gov_type": "NATIONAL",
+        "country_code": "US",
+        "official_count": "441",
+        "term_length": "",
+        "url": "http://www.house.gov/",
+        "upcoming_election": "2020-09-29 05:00:00+00:00",
+        "ue_remarks": "GA-5 (Special Election)",
+        "ue_url_1": "",
+        "special": "True",
+        "runoff": "False",
+        "ue_cicero_link": "https://cicero.azavea.com/v3.1/admin/webservice/electionevent/18235/change/",
+        "next_election_display": "Sep 29, 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33041,
+          33.39326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Halifax Mayor & Regional Council",
+        "state": "NS",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "16",
+        "term_length": "4 years",
+        "url": "https://www.halifax.ca/city-hall/districts-councillors",
+        "upcoming_election": "2020-10-17 05:00:00+00:00",
+        "ue_remarks": "Mayor plus 16 Councillors",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "ue_cicero_link": "https://cicero.azavea.com/v3.1/admin/webservice/electionevent/16544/change/",
+        "next_election_display": "Oct 17, 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5273998452465,
+          44.7155662856456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "New Zealand House of Representatives",
+        "state": "",
+        "gov_type": "NATIONAL",
+        "country_code": "NZ",
+        "official_count": "120",
+        "term_length": "3 years",
+        "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/",
+        "upcoming_election": "2020-10-17 05:00:00+00:00",
+        "ue_remarks": "120 seats in the House of Representatives & 2 questions will be presented",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2020_New_Zealand_general_election",
+        "special": "False",
+        "runoff": "False",
+        "ue_cicero_link": "https://cicero.azavea.com/v3.1/admin/webservice/electionevent/18254/change/",
+        "next_election_display": "Oct 17, 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.178923477224,
+          -39.4935540437362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "The Legislative Assembly for the Australian Capital Territory",
+        "state": "ACT",
+        "gov_type": "STATE",
+        "country_code": "AS",
+        "official_count": "25",
+        "term_length": "4 years",
+        "url": "https://www.parliament.act.gov.au/",
+        "upcoming_election": "2020-10-17 05:00:00+00:00",
+        "ue_remarks": "25 seats in the ACT Legislative Assembly",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2020_Australian_Capital_Territory_general_election",
+        "special": "False",
+        "runoff": "False",
+        "ue_cicero_link": "https://cicero.azavea.com/v3.1/admin/webservice/electionevent/17877/change/",
+        "next_election_display": "Oct 17, 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.061430298787,
+          -35.3247040947742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Saskatoon Mayor & City Council",
+        "state": "SK",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "10",
+        "term_length": "4 years",
+        "url": "https://www.saskatoon.ca/city-hall/mayor-city-councillors/city-councillors",
+        "upcoming_election": "2020-10-28 05:00:00+00:00",
+        "ue_remarks": "Mayor and City Council",
+        "ue_url_1": "https://www.saskatoon.ca/city-hall/voting-elections",
+        "special": "False",
+        "runoff": "False",
+        "ue_cicero_link": "https://cicero.azavea.com/v3.1/admin/webservice/electionevent/16551/change/",
+        "next_election_display": "Oct 28, 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.64855065021,
+          52.1335337295638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Regina Mayor & City Council",
+        "state": "SK",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "10",
+        "term_length": "4 years",
+        "url": "https://www.regina.ca/residents/council-committees/meet-city-council/",
+        "upcoming_election": "2020-10-28 05:00:00+00:00",
+        "ue_remarks": "Mayor and City Council",
+        "ue_url_1": "https://www.regina.ca/residents/city-administration/office-of-the-city-clerk/index.html",
+        "special": "False",
+        "runoff": "False",
+        "ue_cicero_link": "https://cicero.azavea.com/v3.1/admin/webservice/electionevent/16593/change/",
+        "next_election_display": "Oct 28, 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.620369161151,
+          50.4552830021253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Queensland Legislative Assembly",
+        "state": "QLD",
+        "gov_type": "STATE",
+        "country_code": "AS",
+        "official_count": "93",
+        "term_length": "3 years (approx)",
+        "url": "https://www.parliament.qld.gov.au/",
+        "upcoming_election": "2020-10-31 05:00:00+00:00",
+        "ue_remarks": "All 93 seats in the Legislative Assembly of the unicameral parliament will be up for election.",
+        "ue_url_1": "https://en.wikipedia.org/wiki/Queensland_state_election,_2020",
+        "special": "False",
+        "runoff": "False",
+        "ue_cicero_link": "https://cicero.azavea.com/v3.1/admin/webservice/electionevent/18063/change/",
+        "next_election_display": "Oct 31, 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.726214223837,
+          -25.8384524819585
+        ]
+      }
+    }
+  ]
+}

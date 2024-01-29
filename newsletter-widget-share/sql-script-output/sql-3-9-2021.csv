@@ -1,0 +1,938 @@
+id,sk,name_formal,state,gov_type,country_code,official_count,term_length,url,upcoming_election,ue_remarks,ue_url_1,special,runoff
+2217,938,Governor of Baja California,BCN,STATE,MX,1,6 years,http://www.bajacalifornia.gob.mx/portal/gobierno/gobernador.jsp,2025-06-01 00:00:00+00,,,False,False
+3917,3132,Chattanooga Mayor,TN,LOCAL,US,1,4 years,http://www.chattanooga.gov/mayors-office,2025-03-04 00:00:00+00,Mayor and all 9 district council members,,False,False
+6492,3131,Chattanooga City Council,TN,LOCAL,US,9,4 years,http://www.chattanooga.gov/city-council,2025-03-04 00:00:00+00,Mayor and all 9 district council members,,False,False
+6493,5738,Tuscaloosa City Council,AL,LOCAL,US,7,4 years,https://www.tuscaloosa.com/citycouncil,2025-03-04 00:00:00+00,All Districts and Mayor,,False,False
+6494,5737,Tuscaloosa Mayor,AL,LOCAL,US,1,4 years,https://www.tuscaloosa.com/government/mayor,2025-03-04 00:00:00+00,All Districts and Mayor,,False,False
+5904,4862,Regina Mayor,SK,LOCAL,CA,1,4 years,https://www.regina.ca/residents/regina-mayor/,2024-11-13 00:00:00+00,Mayor and City Council,https://www.regina.ca/,False,False
+6203,4861,Regina City Council,SK,LOCAL,CA,10,4 years,https://www.regina.ca/residents/council-committees/meet-city-council/,2024-11-13 00:00:00+00,Mayor and City Council,https://www.regina.ca/,False,False
+505,505,Pennsylvania State Treasurer,PA,STATE,US,1,4 years,http://www.patreasury.org/,2024-11-05 00:00:00+00,"Attorney General, Auditor General, Treasurer, House, and even-number Senate districts",,False,False
+1491,766,North Dakota Governor,ND,STATE,US,1,4 years,http://governor.nd.gov/,2024-11-05 00:00:00+00,,,False,False
+2616,521,Fresno Mayor,CA,LOCAL,US,1,4 years,http://www.fresno.gov/,2024-11-05 00:00:00+00,,,False,False
+2651,457,Stockton Mayor,CA,LOCAL,US,1,4 years,http://www.stocktongov.com/government/council/default.html,2024-11-05 00:00:00+00,,,False,False
+2898,2735,Pinal County Board of Supervisors,AZ,LOCAL,US,5,4 years,http://www.pinalcountyaz.gov/bos/Pages/Home.aspx,2024-11-05 00:00:00+00,,,False,False
+2901,2727,Gila County Board of Supervisors,AZ,LOCAL,US,3,4 years,http://www.gilacountyaz.gov/government/board_of_supervisors/index.php,2024-11-05 00:00:00+00,,,False,False
+2906,2732,Mohave County Board of Supervisors,AZ,LOCAL,US,5,4 years,http://www.mohavecounty.us/ContentPage.aspx?id=188,2024-11-05 00:00:00+00,,,False,False
+2907,2733,Navajo County Board of Supervisors,AZ,LOCAL,US,5,4 years,http://ext.navajocountyaz.gov/bos/,2024-11-05 00:00:00+00,,,False,False
+2910,2737,Yavapai County Board of Supervisors,AZ,LOCAL,US,5,4 years,http://www.yavapai.us/bos/,2024-11-05 00:00:00+00,,,False,False
+4268,2734,Pima County Board of Supervisors,AZ,LOCAL,US,5,4 years,http://webcms.pima.gov/government/board_of_supervisors,2024-11-05 00:00:00+00,,,False,False
+4308,791,Pennsylvania Attorney General,PA,STATE,US,1,4 years,http://www.attorneygeneral.gov/,2024-11-05 00:00:00+00,"Attorney General, Auditor General, Treasurer, House, and even-number Senate districts",,False,False
+4441,7,North Carolina Governor,NC,STATE,US,1,4 years,http://www.governor.state.nc.us/,2024-11-05 00:00:00+00,,,False,False
+4450,608,Indiana Governor,IN,STATE,US,1,4 years,http://www.in.gov/gov/,2024-11-05 00:00:00+00,,,False,False
+4451,742,Montana Governor,MT,STATE,US,1,4 years,http://governor.mt.gov/,2024-11-05 00:00:00+00,,,False,False
+4454,601,West Virginia Governor,WV,STATE,US,1,4 years,http://www.governor.wv.gov/Pages/default.aspx,2024-11-05 00:00:00+00,,,False,False
+4460,710,Utah Governor,UT,STATE,US,1,4 years,http://www.utah.gov/governor/,2024-11-05 00:00:00+00,,,False,False
+4525,3743,Mayor of Elizabeth,NJ,LOCAL,US,1,4 years,http://www.elizabethnj.org/city-council/mayors-office,2024-11-05 00:00:00+00,,,False,False
+4648,1021,Phoenix Mayor,AZ,LOCAL,US,1,4 years,https://www.phoenix.gov/mayorcouncil,2024-11-05 00:00:00+00,,https://www.phoenix.gov/cityclerk/elections,False,False
+4668,3264,Roseville City Council,CA,LOCAL,US,5,4 years,https://www.roseville.ca.us/government/city_council,2024-11-05 00:00:00+00,"District 1, 3, 5",,False,False
+4824,3234,Simi Valley City Council,CA,LOCAL,US,5,4 years (2 years for mayor),http://www.simivalley.org/departments/city-council,2024-11-05 00:00:00+00,2 seats (4 year term) plus Mayor (2 year term),,False,False
+4949,2730,La Paz County Board of Supervisors,AZ,LOCAL,US,3,4 years,http://www.co.la-paz.az.us/231/Board-of-Supervisors,2024-11-05 00:00:00+00,,,False,False
+4969,2725,Cochise County Board of Supervisors,AZ,LOCAL,US,3,4 years,https://www.cochise.az.gov/board-supervisors/home,2024-11-05 00:00:00+00,,,False,False
+5267,1080,Phoenix City Council,AZ,LOCAL,US,8,4 years,https://www.phoenix.gov/mayorcouncil,2024-11-05 00:00:00+00,"District 1, 3, 5, 7",https://www.phoenix.gov/cityclerk/elections,False,False
+5338,756,Virginia Beach Mayor,VA,LOCAL,US,1,4 years,https://www.vbgov.com/government/departments/city-clerk/mayor/Pages/default.aspx,2024-11-05 00:00:00+00,,,False,False
+5382,2874,Baton Rouge Metropolitan Council,LA,LOCAL,US,12,4 years,https://www.brla.gov/561/Metropolitan-Council,2024-11-05 00:00:00+00,,,False,False
+5516,117,Las Vegas Mayor,NV,LOCAL,US,1,4 years,https://www.lasvegasnevada.gov/Government/Mayor-City-Council/Mayor,2024-11-05 00:00:00+00,,,False,False
+5586,2729,Greenlee County Board of Supervisors,AZ,LOCAL,US,3,4 years,https://www.co.greenlee.az.us/elected-officials/board-of-supervisors,2024-11-05 00:00:00+00,,,False,False
+5587,2723,Apache County Board of Supervisors,AZ,LOCAL,US,3,4 years,https://www.co.apache.az.us/board-of-supervisors/,2024-11-05 00:00:00+00,,,False,False
+5762,2511,Miami-Dade County Mayor,FL,LOCAL,US,1,4,,2024-11-05 00:00:00+00,,,False,False
+5798,586,Baltimore Mayor,MD,LOCAL,US,1,4 years,http://www.baltimorecitycouncil.com/,2024-11-05 00:00:00+00,All Districts and Mayor are up for election.,,False,False
+5801,138,El Paso Mayor,TX,LOCAL,US,1,4 years,http://www.elpasotexas.gov/government.asp,2024-11-05 00:00:00+00,"Mayor, District 2, 3, 4, 7",,False,False
+5802,2568,Indiana Lieutenant Governor,IN,STATE,US,1,4 years,,2024-11-05 00:00:00+00,,,False,False
+5803,2576,Missouri Lieutenant Governor,MO,STATE,US,1,4 years,,2024-11-05 00:00:00+00,,,False,False
+5804,2789,Montana Lieutenant Governor,MT,STATE,US,1,4 years,,2024-11-05 00:00:00+00,,,False,False
+5806,2579,North Dakota Lieutenant Governor,ND,STATE,US,1,4 years,,2024-11-05 00:00:00+00,,,False,False
+5809,56,Richmond Mayor,VA,LOCAL,US,1,4 years,http://www.richmondgov.com/Mayor/index.aspx,2024-11-05 00:00:00+00,,"https://ballotpedia.org/Richmond,_Virginia",False,False
+5811,2591,Utah Lieutenant Governor,UT,STATE,US,1,4 years,,2024-11-05 00:00:00+00,,,False,False
+5813,2594,Washington Lieutenant Governor,WA,STATE,US,1,4 years,http://www.ltgov.wa.gov/,2024-11-05 00:00:00+00,,,False,False
+5914,2788,Delaware Lieutenant Governor,DE,STATE,US,1,4 years,,2024-11-05 00:00:00+00,,,False,False
+5918,130,Delaware Governor,DE,STATE,US,1,4 years,https://governor.delaware.gov/,2024-11-05 00:00:00+00,,,False,False
+5919,897,Washington Governor,WA,STATE,US,1,4 years,https://www.governor.wa.gov/,2024-11-05 00:00:00+00,,,False,False
+5920,183,Missouri Governor,MO,STATE,US,1,4 years,https://governor.mo.gov/,2024-11-05 00:00:00+00,,,False,False
+5935,3090,Glendale City Council,AZ,LOCAL,US,7,4 years,https://www.glendaleaz.com/your_government/city_council,2024-11-05 00:00:00+00,Mayor and 3 District seats,https://www.glendaleaz.com/your_government/connect/departments/city_clerk/elections,False,False
+5947,3089,Winston-Salem Mayor,NC,LOCAL,US,1,4 years,http://www.cityofws.org/Departments/Mayor,2024-11-05 00:00:00+00,,https://www.forsyth.cc/Elections/election_schedule.aspx,False,False
+5955,2726,Coconino County Board of Supervisors,AZ,LOCAL,US,5,4 years,http://www.coconino.az.gov/index.aspx?nid=104,2024-11-05 00:00:00+00,,,False,False
+5973,19,Bakersfield Mayor,CA,LOCAL,US,1,4 years,http://www.bakersfieldcity.us/gov/elected_officials/mayor/default.htm,2024-11-05 00:00:00+00,,,False,False
+6008,726,Pennsylvania Auditor General,PA,STATE,US,1,4 years,http://www.auditorgen.state.pa.us/,2024-11-05 00:00:00+00,"Attorney General, Auditor General, Treasurer, House, and even-number Senate districts",,False,False
+6060,623,South Carolina State Senate,SC,STATE,US,46,4 years,http://www.scstatehouse.gov/senate.php,2024-11-05 00:00:00+00,,,False,False
+6126,395,Fort Lauderdale Mayor,FL,LOCAL,US,1,4 years,https://www.fortlauderdale.gov/government/city-commission,2024-11-05 00:00:00+00,All districts,,False,False
+6129,2842,St. Louis County Executive,MO,LOCAL,US,1,4 years,http://www.stlouisco.com/yourgovernment/countyexecutive,2024-11-05 00:00:00+00,,,False,False
+6136,3265,Hayward City Council,CA,LOCAL,US,7,4 years,https://www.hayward-ca.gov/your-government/city-council,2024-11-05 00:00:00+00,4 Council seats,,False,False
+6161,295,San Diego Mayor,CA,LOCAL,US,1,4 years,https://www.sandiego.gov/mayor,2024-11-05 00:00:00+00,"Mayor & Odd Districts (1, 3, 5, 7, 9)",,False,False
+6168,530,Oxnard Mayor,CA,LOCAL,US,1,4 years,http://citycouncil.cityofoxnard.org/Default.aspx?DepartmentID=3,2024-11-05 00:00:00+00,,https://www.oxnard.org/city-department/city-clerk/,False,False
+6173,500,Baltimore City Council,MD,LOCAL,US,15,4 years,http://www.baltimorecitycouncil.com/,2024-11-05 00:00:00+00,All Districts and Mayor are up for election.,,False,False
+6186,2873,Baton Rouge Mayor-President,LA,LOCAL,US,1,4 years,http://brgov.com/dept/Mayor/,2024-11-05 00:00:00+00,,,False,False
+6212,3136,Rancho Cucamonga City Council,CA,LOCAL,US,5,4 years,https://www.cityofrc.us/your-government/mayor-city-council,2024-11-05 00:00:00+00,"District 1, 4",,False,False
+6219,3088,Winston-Salem City Council,NC,LOCAL,US,8,4 years,http://www.cityofws.org/Departments/City-Council,2024-11-05 00:00:00+00,,https://www.forsyth.cc/Elections/election_schedule.aspx,False,False
+6233,2578,North Carolina Lieutenant Governor,NC,STATE,US,1,4 years,,2024-11-05 00:00:00+00,,,False,False
+6236,3245,Elizabeth City Council,NJ,LOCAL,US,9,4 years,http://www.elizabethnj.org/215/City-Council,2024-11-05 00:00:00+00,3 At-large Districts,http://ucnj.org/county-clerk/elections/,False,False
+6290,946,Kansas Senate,KS,STATE,US,40,4 years,http://kslegislature.org/li/,2024-11-05 00:00:00+00,,,False,False
+6306,1030,Puerto Rico House of Representatives,PR,STATE,US,51,4 years,http://www.tucamarapr.org/dnncamara/web/Inicio.aspx,2024-11-05 00:00:00+00,All,,False,False
+6316,1133,Governor of Puerto Rico,PR,STATE,US,1,4 years,https://www.fortaleza.pr.gov/,2024-11-05 00:00:00+00,,,False,False
+6317,477,New Mexico State Senate,NM,STATE,US,42,4 years,https://www.nmlegis.gov/Members/Legislator_List?T=S,2024-11-05 00:00:00+00,,,False,False
+6320,552,Fort Lauderdale City Commission,FL,LOCAL,US,4,4 years,https://www.fortlauderdale.gov/government/city-commission,2024-11-05 00:00:00+00,All districts,,False,False
+6341,2728,Graham County Board of Supervisors,AZ,LOCAL,US,3,4 years,https://www.graham.az.gov/571/Board-Members,2024-11-05 00:00:00+00,,,False,False
+6344,2731,Maricopa County Board of Supervisors,AZ,LOCAL,US,5,4 years,https://www.maricopa.gov/224/Board-of-Supervisors,2024-11-05 00:00:00+00,,,False,False
+6346,981,Puerto Rico Senate,PR,STATE,US,27,4 years,https://senado.pr.gov/,2024-11-05 00:00:00+00,,,False,False
+6354,2736,Santa Cruz County Board of Supervisors,AZ,LOCAL,US,3,4 years,https://www.santacruzcountyaz.gov/169/Board-of-Supervisors,2024-11-05 00:00:00+00,,,False,False
+6357,432,Richmond City Council,VA,LOCAL,US,9,4 years,http://www.richmondgov.com/CityCouncil/index.aspx,2024-11-05 00:00:00+00,,"https://ballotpedia.org/Richmond,_Virginia",False,False
+6377,2738,Yuma County Board of Supervisors,AZ,LOCAL,US,5,4 years,https://www.yumacountyaz.gov/government/board-of-supervisors/board-members,2024-11-05 00:00:00+00,,,False,False
+6425,3304,Burbank City Council,CA,LOCAL,US,5,4 years,http://www.burbankca.gov/about-us/city-council,2024-11-05 00:00:00+00,2 Council Seats,https://www.burbankca.gov/departments/city-clerk-s-office/elections,False,False
+6436,976,President of the United States,,NATIONAL,US,1,4 years,http://www.whitehouse.gov/,2024-11-05 00:00:00+00,,,False,False
+6438,320,Vice President of the United States,,NATIONAL,US,1,4 years,http://www.whitehouse.gov/administration/vice-president-biden,2024-11-05 00:00:00+00,,,False,False
+6486,216,Portland Mayor,OR,LOCAL,US,1,4 years,http://www.portlandonline.com/?c=25999,2024-11-05 00:00:00+00,,,False,False
+5913,415,Queensland Legislative Assembly,QLD,STATE,AS,93,4 years,https://www.parliament.qld.gov.au/,2024-10-26 00:00:00+00,All 93 seats in the Legislative Assembly of the unicameral parliament will be up for election.,"https://en.wikipedia.org/wiki/Queensland_state_election,_2020",False,False
+4881,4880,Saskatoon Mayor,SK,LOCAL,CA,1,4 years,https://www.saskatoon.ca/city-hall/mayor-city-councillors/mayors-office,2024-10-23 00:00:00+00,,https://www.saskatoon.ca/voting-elections,False,False
+6140,4879,Saskatoon City Council,SK,LOCAL,CA,10,4 years,https://www.saskatoon.ca/city-hall/mayor-city-councillors/city-councillors,2024-10-23 00:00:00+00,,https://www.saskatoon.ca/voting-elections,False,False
+5755,4855,Halifax Mayor,NS,LOCAL,CA,1,4 years,https://www.halifax.ca/city-hall/mayor-mike-savage,2024-10-19 00:00:00+00,Mayor plus 16 Councillors,,False,False
+5961,4856,Halifax Regional Council,NS,LOCAL,CA,16,4 years,https://www.halifax.ca/city-hall/districts-councillors,2024-10-19 00:00:00+00,Mayor plus 16 Councillors,,False,False
+5992,132,The Legislative Assembly for the Australian Capital Territory,ACT,STATE,AS,25,4 years,https://www.parliament.act.gov.au/,2024-10-19 00:00:00+00,25 seats in the ACT Legislative Assembly,https://en.wikipedia.org/wiki/2020_Australian_Capital_Territory_general_election,False,False
+6061,455,Legislative Assembly of British Columbia,BC,STATE,CA,87,,http://www.leg.bc.ca/,2024-10-15 00:00:00+00,These dates are approximate.,,False,False
+6063,1000,The Legislative Assembly of Saskatchewan,SK,STATE,CA,61,,http://www.legassembly.sk.ca/,2024-10-15 00:00:00+00,These dates are approximate.,,False,False
+6455,219,Legislative Assembly of New Brunswick,NB,STATE,CA,49,,https://www1.gnb.ca/legis/bios/60/index-e.asp,2024-09-23 00:00:00+00,"Originally scheduled in 2022, a snap election was held in 2020, moving this date to 2024 (elections must be held every four years). All seats.",,False,False
+5708,154,Tulsa Mayor,OK,LOCAL,US,1,4 years,https://www.cityoftulsa.org/government/mayor-of-tulsa/,2024-08-27 00:00:00+00,,,False,False
+5909,296,Legislative Assembly of the Northern Territory,NT,STATE,AS,25,4 years,https://parliament.nt.gov.au/,2024-08-24 00:00:00+00,25 seats,,False,False
+5880,3121,Huntsville Mayor,AL,LOCAL,US,1,4 years,https://www.huntsvilleal.gov/government/mayors-office/,2024-08-15 00:00:00+00,,https://www.huntsvilleal.gov/government/voting-elections/elected-officials/,False,False
+2669,629,Honolulu Mayor,HI,LOCAL,US,1,4 years,http://www.honolulu.gov/council/,2024-08-06 00:00:00+00,,,False,False
+2221,64,Governor of Chiapas,CHP,STATE,MX,1,6 years,http://www.chiapas.gob.mx/gobernador,2024-06-02 00:00:00+00,All,,False,False
+2231,270,Governor of Guanajuato,GUA,STATE,MX,1,6 years,,2024-06-02 00:00:00+00,All,,False,False
+2234,960,Governor of Jalisco,JAL,STATE,MX,1,6 years,,2024-06-02 00:00:00+00,All,,False,False
+2236,465,Governor of Morelos,MOR,STATE,MX,1,6 years,http://www2.morelos.gob.mx/portal/index.php/gobernador,2024-06-02 00:00:00+00,All,,False,False
+2240,69,Governor of Puebla,PUE,STATE,MX,1,6 years,http://puebla.gob.mx/index.php/gobierno/gobernador,2024-06-02 00:00:00+00,All,,False,False
+2246,2246,Governor of Tabasco,TAB,STATE,MX,1,6 years,,2024-06-02 00:00:00+00,All,,False,False
+2249,932,Governor of Veracruz,VER,STATE,MX,1,6 years,http://www.veracruz.gob.mx/conoce-al-gobierno/gobernador/,2024-06-02 00:00:00+00,All,,False,False
+2250,95,Governor of Yucatán,YUC,STATE,MX,1,6 years,,2024-06-02 00:00:00+00,All,,False,False
+5670,485,President of the United Mexican States,,NATIONAL,MX,1,6 years,https://www.gob.mx/presidencia/,2024-06-02 00:00:00+00,,,False,False
+5730,467,Senate of the Republic,,NATIONAL,MX,128,6 years,https://www.senado.gob.mx/64/,2024-06-02 00:00:00+00,All seats.,,False,False
+6325,3277,Macon-Bibb County Board of Commission,GA,LOCAL,US,10,4 years,http://www.maconbibb.us/commissioners/,2024-05-28 00:00:00+00,Mayor and all 9 commission seats,,False,False
+5634,1066,Mayor of Eugene,OR,LOCAL,US,1,4 years,https://www.eugene-or.gov/537/Mayor-and-City-Council,2024-05-21 00:00:00+00,"Mayor, Districts 1, 2, 7, 8",,False,False
+6067,244,Milwaukee Mayor,WI,LOCAL,US,1,4 years,https://city.milwaukee.gov/mayorbarrett,2024-04-02 00:00:00+00,,,False,False
+6089,187,Milwaukee Common Council,WI,LOCAL,US,15,4 years,https://city.milwaukee.gov/CommonCouncil,2024-04-02 00:00:00+00,All 15 districts.,,False,False
+5613,2859,Naples Mayor,FL,LOCAL,US,1,4 years,https://www.naplesgov.com/citycouncil,2024-03-19 00:00:00+00,,,False,False
+6150,635,Sacramento City Council,CA,LOCAL,US,9,4 years,https://www.cityofsacramento.org/mayor-council/,2024-03-05 00:00:00+00,"Mayor and Council districts 2, 4, 6, & 8",,False,False
+5619,99,Newfoundland and Labrador House of Assembly,NL,STATE,CA,40,4 years,https://www.assembly.nl.ca/Members/members.aspx,2023-11-27 00:00:00+00,,,False,False
+6397,542,Louisiana House of Representatives,LA,STATE,US,105,4 years,https://house.louisiana.gov/,2023-11-18 00:00:00+00,,"https://ballotpedia.org/State_legislative_elections,_2023",False,False
+5381,2571,Louisiana Lieutenant Governor,LA,STATE,US,1,,https://www.crt.state.la.us/lt-governor/index,2023-11-11 00:00:00+00,"Gubernatorial primary elections shall be held on the third to last Saturday in October of an election year.(2)Gubernatorial general elections shall be held on the fifth Saturday after the third to last Saturday in October of an election year.""",,False,False
+5473,634,Louisiana Governor,LA,STATE,US,1,4 years,http://www.gov.state.la.us/,2023-11-11 00:00:00+00,"Gubernatorial primary elections shall be held on the third to last Saturday in October of an election year.(2)Gubernatorial general elections shall be held on the fifth Saturday after the third to last Saturday in October of an election year.""",,False,False
+88,88,Mayor of Indianapolis,IN,LOCAL,US,1,,http://www.indy.gov/eGov/Mayor/Pages/home.aspx,2023-11-07 00:00:00+00,Mayor plus 25 council seats,,False,False
+179,179,Columbus Mayor,OH,LOCAL,US,1,,http://www.columbuscitycouncil.org/,2023-11-07 00:00:00+00,Mayor and 4 council seats,,False,False
+492,492,Philadelphia Mayor,PA,LOCAL,US,1,4 years,http://www.phila.gov/,2023-11-07 00:00:00+00,,,False,False
+694,694,Allegheny County Executive,PA,LOCAL,US,1,,,2023-11-07 00:00:00+00,,,False,False
+1477,361,Mississippi State Senate,MS,STATE,US,52,4 years,http://billstatus.ls.state.ms.us/,2023-11-07 00:00:00+00,All seats,,False,False
+1635,641,Montgomery County Commissioners,PA,LOCAL,US,3,4 years,"http://www2.montcopa.org/montco/cwp/view,a,3,Q,5181.asp",2023-11-07 00:00:00+00,All 3 seats,,False,False
+2315,2315,Philadelphia Register of Wills,PA,LOCAL,US,1,,http://secureprod.phila.gov/wills/,2023-11-07 00:00:00+00,,,False,False
+2316,2316,Philadelphia Sheriff,PA,LOCAL,US,1,,http://www.officeofphiladelphiasheriff.com/,2023-11-07 00:00:00+00,,,False,False
+2548,580,Montgomery County Controller,PA,LOCAL,US,1,,http://controller.montcopa.org/controller/site/default.asp,2023-11-07 00:00:00+00,,,False,False
+2549,918,Montgomery County District Attorney,PA,LOCAL,US,1,,,2023-11-07 00:00:00+00,,,False,False
+2637,393,San Francisco Mayor,CA,LOCAL,US,1,4 years,http://sfmayor.org/,2023-11-07 00:00:00+00,,,False,False
+2777,159,Akron City Council,OH,LOCAL,US,13,4 years,http://www.akroncitycouncil.org/,2023-11-07 00:00:00+00,Mayor and City Council,https://www.summitcountyboe.com/,False,False
+2980,2889,Greenville Mayor,SC,LOCAL,US,1,4 years,http://www.greenvillesc.gov/547/Mayor-Knox-White,2023-11-07 00:00:00+00,"Mayor and City Council 1, 3 and 1 At Large",https://www.scvotes.org/greenville,False,False
+3038,2887,Charleston Mayor,SC,LOCAL,US,1,4 years,http://charleston-sc.gov/index.aspx?NID=400,2023-11-07 00:00:00+00,Mayor and odd districts,https://www.charleston-sc.gov/396/Election-Information,False,False
+3216,3216,Bridgeport Mayor,CT,LOCAL,US,1,4 years,http://www.bridgeportct.gov/mayor,2023-11-07 00:00:00+00,,,False,False
+3786,3166,Hartford Mayor,CT,LOCAL,US,1,4 years,http://www.hartford.gov/mayors-office,2023-11-07 00:00:00+00,All,,False,False
+3832,3100,Boise Mayor,ID,LOCAL,US,1,4 years,http://mayor.cityofboise.org/,2023-11-07 00:00:00+00,"Mayor, Seats 1, 3, 5",https://www.cityofboise.org/departments/finance-and-administration/city-clerk/city-elections/,False,False
+3874,3325,South Bend Common Council,IN,LOCAL,US,9,4 years,https://www.southbendin.gov/government/department/common-council,2023-11-07 00:00:00+00,Mayor and all council members,https://www.sjcindiana.com/232/Voting-Elections,False,False
+4012,3165,Hartford Court of Common Council,CT,LOCAL,US,9,4 years,http://www.hartford.gov/council,2023-11-07 00:00:00+00,All,,False,False
+4182,4177,Gary Common Council,IN,LOCAL,US,9,4 years,http://www.garycommoncouncil.org/,2023-11-07 00:00:00+00,Mayor and all council seats,,False,False
+4184,4179,Munster Town Council,IN,LOCAL,US,5,4 years,http://www.munster.org/council/,2023-11-07 00:00:00+00,All 5 seats,https://www.munster.org/department/division.php?structureid=17,False,False
+4320,3125,Knoxville Mayor,TN,LOCAL,US,1,4 years,http://www.knoxvilletn.gov/cms/One.aspx?portalId=109562&pageId=131050,2023-11-07 00:00:00+00,"Mayor and City Council At Large Seat A, At Large Seat B, At Large Seat C, District 5",http://knoxvilletn.gov/residents/newcomer_information/election_information,False,False
+4485,147,Houston Mayor,TX,LOCAL,US,1,4 years,http://www.houstontx.gov/council/index.html,2023-11-07 00:00:00+00,,,False,False
+4565,3081,Fort Wayne Mayor,IN,LOCAL,US,1,4 years,https://www.cityoffortwayne.org/mayor-office.html,2023-11-07 00:00:00+00,all,https://www.cityoffortwayne.org/city-council.html,False,False
+4566,3082,Fort Wayne City Council,IN,LOCAL,US,9,4 years,https://www.cityoffortwayne.org/city-council-home.html,2023-11-07 00:00:00+00,all,https://www.cityoffortwayne.org/city-council.html,False,False
+4642,3330,Mayor of Renton,WA,LOCAL,US,1,4 years,https://rentonwa.gov/cms/one.aspx?pageId=8568263,2023-11-07 00:00:00+00,Mayor and 4 council seats,https://www.kingcounty.gov/depts/elections.aspx,False,False
+4650,140,Tucson Mayor,AZ,LOCAL,US,1,,https://www.tucsonaz.gov/city-government,2023-11-07 00:00:00+00,"Mayor, Wards 1, 2, and 4",https://www.tucsonaz.gov/clerks/elections,False,False
+4696,109,St. Paul City Council,MN,LOCAL,US,7,4 years,https://www.stpaul.gov/departments/city-council,2023-11-07 00:00:00+00,,https://www.stpaul.gov/departments/city-clerk/elections,False,False
+4715,106,Akron Mayor,OH,LOCAL,US,1,,https://www.akronohio.gov/cms/Mayor/,2023-11-07 00:00:00+00,Mayor and City Council,https://www.summitcountyboe.com/,False,False
+5313,355,Chester County District Attorney,PA,LOCAL,US,1,,https://www.chesco.org/1441/District-Attorney,2023-11-07 00:00:00+00,,,False,False
+5318,194,Philadelphia City Commissioners,PA,LOCAL,US,3,,https://www.philadelphiavotes.com/,2023-11-07 00:00:00+00,,,False,False
+5371,2856,Common Council of Evansville,IN,LOCAL,US,9,4 years,https://www.evansvillegov.org/city/department/division.php?structureid=66,2023-11-07 00:00:00+00,,https://www.evansvillegov.org/county/department/division.php?structureid=161,False,False
+5447,5443,West Jordan Mayor,UT,LOCAL,US,1,4 years,https://www.westjordan.utah.gov/mayor,2023-11-07 00:00:00+00,"Mayor, Numbered Seats, 1 At-large Seat",,False,False
+5449,2577,Mississippi Lieutenant Governor,MS,STATE,US,1,4 years,,2023-11-07 00:00:00+00,,,False,False
+5451,464,Aurora Mayor,CO,LOCAL,US,1,4 years,https://www.auroragov.org/city_hall/mayor___city_council/,2023-11-07 00:00:00+00,"Mayor, Seats 1, 2, 3, and three at large seats",,False,False
+5454,3724,Yonkers Mayor,NY,LOCAL,US,1,4 years,http://www.yonkersny.gov/government/mayor-s-office,2023-11-07 00:00:00+00,"Mayor and 2, 4, 6",,False,False
+5455,534,Buffalo Common Council,NY,LOCAL,US,9,4 years,http://ny-buffalo.civicplus.com/362/Common-Council,2023-11-07 00:00:00+00,All,,False,False
+5457,3256,Warren City Council,MI,LOCAL,US,7,4 years,http://www.cityofwarren.org/index.php/government/city-council,2023-11-07 00:00:00+00,All,,False,False
+5458,3255,Mayor of Warren,MI,LOCAL,US,1,4 years,http://www.cityofwarren.org/index.php/government/mayors-office,2023-11-07 00:00:00+00,All,,False,False
+5463,1057,Delaware County District Attorney,PA,LOCAL,US,1,4 years,http://www.delcoda.com/,2023-11-07 00:00:00+00,,,False,False
+5464,3324,Mayor of Woodbridge Township,NJ,LOCAL,US,1,4 years,http://www.twp.woodbridge.nj.us/342/Mayor-John-E-McCormac,2023-11-07 00:00:00+00,,,False,False
+5497,5486,Loudoun County Board of Supervisors,VA,LOCAL,US,9,4 years,https://www.loudoun.gov/86/Board-of-Supervisors,2023-11-07 00:00:00+00,All 8 district Supervisors plus the Chair at large.,,False,False
+5498,5485,Fairfax County Board of Supervisors,VA,LOCAL,US,10,4 years,https://www.fairfaxcounty.gov/boardofsupervisors/,2023-11-07 00:00:00+00,All 9 District Supervisors plus the Chairman At Large.,,False,False
+5512,829,Salt Lake City Mayor,UT,LOCAL,US,1,4 years,https://www.slc.gov/mayor/,2023-11-07 00:00:00+00,,,False,False
+5513,1113,Dauphin County Commissioners,PA,LOCAL,US,3,4 years,https://www.dauphincounty.org/,2023-11-07 00:00:00+00,,,False,False
+5518,752,Philadelphia City Council,PA,LOCAL,US,17,4 years,http://www.phila.gov/citycouncil/,2023-11-07 00:00:00+00,,,False,False
+5519,811,Mississippi Governor,MS,STATE,US,1,,https://www.ms.gov/State/Elected_Officials,2023-11-07 00:00:00+00,,,False,False
+5553,1054,Bucks County Commissioners,PA,LOCAL,US,3,4 years,http://www.buckscounty.org/government/commissioners,2023-11-07 00:00:00+00,All,,False,False
+5600,236,Houston City Council,TX,LOCAL,US,16,4 years,https://www.houstontx.gov/council/,2023-11-07 00:00:00+00,,,False,False
+5603,5253,Albany County Legislature,NY,LOCAL,US,39,4 years,https://www.albanycounty.com/government/county-legislature/legislator-list,2023-11-07 00:00:00+00,,,False,False
+5710,294,Wichita Mayor,KS,LOCAL,US,1,,https://www.wichita.gov/Council/Pages/Mayor.aspx,2023-11-07 00:00:00+00,"Mayor, Districts 2, 4, 5",https://www.sedgwickcounty.org/elections/,False,False
+5711,587,Orlando Mayor,FL,LOCAL,US,1,4 years,https://www.orlando.gov/Our-Government/Mayor-City-Council,2023-11-07 00:00:00+00,Even numbered seats,,False,False
+5712,2867,Savannah Mayor,GA,LOCAL,US,1,4 years,https://www.savannahga.gov/388/Office-of-the-Mayor,2023-11-07 00:00:00+00,,http://www.savannahga.gov/1679/Elections,False,False
+5713,2868,Savannah City Council,GA,LOCAL,US,8,4 years,https://www.savannahga.gov/387/Mayor-City-Council,2023-11-07 00:00:00+00,,http://www.savannahga.gov/1679/Elections,False,False
+5726,3326,Mayor of South Bend,IN,LOCAL,US,1,4 years,https://www.southbendin.gov/,2023-11-07 00:00:00+00,Mayor and all council members,https://www.sjcindiana.com/232/Voting-Elections,False,False
+5731,2855,Evansville Mayor,IN,LOCAL,US,1,4 years,https://www.evansvillegov.org/,2023-11-07 00:00:00+00,,https://www.evansvillegov.org/county/department/division.php?structureid=161,False,False
+5732,3290,North Charleston City Council,SC,LOCAL,US,10,4 years,https://www.northcharleston.org/government/city-council/city-council-members-and-districts/,2023-11-07 00:00:00+00,Mayor and 10 council seats for districts 1-10,,False,False
+5733,5252,Albany County Executive,NY,LOCAL,US,1,4 years,https://www.albanycounty.com/government/departments/county-executive,2023-11-07 00:00:00+00,,,False,False
+5776,4178,Gary Mayor,IN,LOCAL,US,1,4 years,https://gary.gov/,2023-11-07 00:00:00+00,Mayor and all council seats,,False,False
+5785,5781,Carmel Mayor,IN,LOCAL,US,1,4 years,https://www.carmel.in.gov/our-government/mayor,2023-11-07 00:00:00+00,All,,False,False
+5796,5768,Meridian Mayor,ID,LOCAL,US,1,4 years,https://meridiancity.org/mayor/,2023-11-07 00:00:00+00,Even seats and Mayor,,False,False
+5950,5782,Carmel City Council,IN,LOCAL,US,9,4 years,https://www.carmel.in.gov/our-government/city-council,2023-11-07 00:00:00+00,All,,False,False
+6239,3289,Mayor of North Charleston,SC,LOCAL,US,1,4 years,https://www.northcharleston.org/government/office-of-the-mayor/,2023-11-07 00:00:00+00,Mayor and 10 council seats for districts 1-10,,False,False
+6240,308,Allegheny County Controller,PA,LOCAL,US,1,,https://alleghenycontroller.com/,2023-11-07 00:00:00+00,,,False,False
+6396,4,Mississippi House of Representatives,MS,STATE,US,122,4 years,http://billstatus.ls.state.ms.us/,2023-11-07 00:00:00+00,All seats,,False,False
+6398,549,Senate of Virginia,VA,STATE,US,40,4 years,https://virginiageneralassembly.gov/,2023-11-07 00:00:00+00,,,False,False
+6446,515,Spokane Mayor,WA,LOCAL,US,1,,https://my.spokanecity.org/mayor/,2023-11-07 00:00:00+00,Mayor and half of council seats,,False,False
+6469,3286,Mayor of the City of Waterbury,CT,LOCAL,US,1,4 years,http://www.waterburyct.org/mayor,2023-11-07 00:00:00+00,,,False,False
+6472,659,Kentucky Governor,KY,STATE,US,1,4 years,https://governor.ky.gov/,2023-11-07 00:00:00+00,,,False,False
+6474,2570,Kentucky Lieutenant Governor,KY,STATE,US,1,,,2023-11-07 00:00:00+00,,,False,False
+6488,509,Chester County Commissioners,PA,LOCAL,US,3,4 years,https://www.chesco.org/203/Commissioners,2023-11-07 00:00:00+00,,,False,False
+6489,425,Indianapolis and Marion County City-County Council,IN,LOCAL,US,25,4 years,https://www.indy.gov/activity/city-county-council-members,2023-11-07 00:00:00+00,Mayor plus 25 council seats,,False,False
+5384,839,Canadian House of Commons,,NATIONAL,CA,338,4 years,https://www.ourcommons.ca/Parliamentarians/en/members,2023-10-16 00:00:00+00,All ridings,,False,False
+6046,857,New Zealand House of Representatives,,NATIONAL,NZ,120,3 years,https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/,2023-10-14 00:00:00+00,,,False,False
+5277,409,Memphis Mayor,TN,LOCAL,US,1,,https://www.memphistn.gov/government,2023-10-05 00:00:00+00,,,False,False
+5278,968,Memphis City Council,TN,LOCAL,US,13,4 years,https://www.memphistn.gov/government/city_council/,2023-10-05 00:00:00+00,All,,False,False
+4325,758,Legislative Assembly of Manitoba,MB,STATE,CA,57,,http://www.gov.mb.ca/legislature/members/,2023-10-03 00:00:00+00,,,False,False
+5597,674,The Legislative Assembly of Northwest Territories,NT,STATE,CA,19,4 years,https://www.ntassembly.ca/,2023-10-03 00:00:00+00,All,,False,False
+5917,1085,The Legislative Assembly of Prince Edward Island,PE,STATE,CA,27,4 years,https://www.assembly.pe.ca/,2023-10-02 00:00:00+00,All seats,https://www.electionspei.ca/,False,False
+5433,383,Montgomery Mayor,AL,LOCAL,US,1,4 years,https://www.montgomeryal.gov/city-government/mayor-s-office,2023-08-22 00:00:00+00,,,False,False
+6458,102,Montgomery City Council,AL,LOCAL,US,9,4 years,https://www.montgomeryal.gov/city-government/city-council,2023-08-22 00:00:00+00,All 9 districts.,,False,False
+4080,37,Nashville Mayor,TN,LOCAL,US,1,4 years,http://www.nashville.gov/council/,2023-08-03 00:00:00+00,"Runoff elections, if necessary, shall be held on the second Thursday in September.",,False,False
+4788,1056,Nashville Metropolitan Council,TN,LOCAL,US,41,4 years,http://www.nashville.gov/council/,2023-08-03 00:00:00+00,"All 41 seats. Runoff elections, if necessary, shall be held on the second Thursday in September.",,False,False
+906,906,Kansas City Mayor,MO,LOCAL,US,1,,http://www.kcmo.org/council.nsf/council/home?opendocument,2023-06-19 00:00:00+00,All seats,https://www.kceb.org/,False,False
+5400,206,Kansas City Council,MO,LOCAL,US,12,4 years,https://www.kcmo.gov/city-hall/city-officials/about-city-council,2023-06-19 00:00:00+00,All seats,https://www.kceb.org/,False,False
+2223,261,Governor of Coahuila of Zaragoza,COA,STATE,MX,1,6 years,,2023-06-04 00:00:00+00,All,,False,False
+2226,281,Governor of Mexico State,MEX,STATE,MX,1,6 years,http://portal2.edomex.gob.mx/edomex/gobierno/acercadelgobierno/elgobernador/index.htm,2023-06-04 00:00:00+00,All,,False,False
+6414,734,Legislative Assembly of Alberta,AB,STATE,CA,87,5 years (approx),https://www.assembly.ab.ca/,2023-05-31 00:00:00+00,General elections shall be held within the 3-month period beginning on March 1 and ending on May 31 in the 4th calendar year following polling day in the most recent general election.,,False,False
+6196,3543,Pearland Mayor,TX,LOCAL,US,1,3 years,https://www.pearlandtx.gov/government/city-council,2023-05-13 00:00:00+00,,,False,False
+2673,2670,Irving Mayor,TX,LOCAL,US,1,3 years,,2023-05-06 00:00:00+00,"Mayor, Place 3, Place 5",,False,False
+4627,933,Dallas Mayor,TX,LOCAL,US,1,4 years,http://dallascityhall.com/government/citymayor/Pages/default.aspx,2023-05-06 00:00:00+00,Mayor and all council members,https://dallascityhall.com/government/citysecretary/elections/Pages/elections.aspx,False,False
+5931,3614,Frisco Mayor,TX,LOCAL,US,1,3 years,http://www.friscotexas.gov/585/City-Council,2023-05-06 00:00:00+00,Mayor and 2 council seats (places 5 and 6),,False,False
+4556,3073,Lincoln Mayor,NE,LOCAL,US,1,4 years,https://lincoln.ne.gov/city/mayor/index.htm,2023-05-02 00:00:00+00,,,False,False
+4674,728,Denver City Council,CO,LOCAL,US,13,4 years,http://www.denvergov.org/content/denvergov/en/denver-city-council.html,2023-05-02 00:00:00+00,All,,False,False
+5244,1010,Denver Mayor,CO,LOCAL,US,1,4 years,http://www.denvergov.org/content/denvergov/en/mayors-office.html,2023-05-02 00:00:00+00,All,,False,False
+3011,2849,Jefferson City Mayor,MO,LOCAL,US,1,4 years,http://www.jeffersoncitymo.gov/government/mayor.php,2023-04-04 00:00:00+00,Mayor and 1 council member from each ward,,False,False
+3636,3181,Springfield Mayor,IL,LOCAL,US,1,4 years,http://www.springfield.il.us/Departments/Mayor/MayorHome.aspx,2023-04-04 00:00:00+00,All seats,,False,False
+4168,3180,Springfield City Council,IL,LOCAL,US,10,4 years,http://www.springfield.il.us/Departments/CityCouncil/CityCouncilHome.aspx,2023-04-04 00:00:00+00,All seats,,False,False
+4484,2852,Madison Mayor,WI,LOCAL,US,1,4 years,https://www.cityofmadison.com/mayor/about,2023-04-04 00:00:00+00,Mayor and all 20 Council seats,,False,False
+4644,3305,Mayor of Green Bay,WI,LOCAL,US,1,4 years,http://greenbaywi.gov/200/Mayor,2023-04-04 00:00:00+00,,,False,False
+5263,536,Colorado Springs Mayor,CO,LOCAL,US,1,4 years,https://coloradosprings.gov/mayors-office,2023-04-04 00:00:00+00,,,False,False
+5725,1061,The Legislative Council of New South Wales,NSW,STATE,AS,42,8 years,https://www.parliament.nsw.gov.au/members/pages/all-members.aspx?house=LC,2023-03-25 00:00:00+00,,,False,False
+6412,260,The Legislative Assembly of New South Wales,NSW,STATE,AS,93,4 years,https://www.parliament.nsw.gov.au/members,2023-03-25 00:00:00+00,All,,False,False
+5575,589,Jacksonville City Council,FL,LOCAL,US,19,,http://www.coj.net/city-council/city-council-members,2023-03-21 00:00:00+00,,,False,False
+5576,31,Jacksonville Mayor,FL,LOCAL,US,1,,http://www.coj.net/welcome.aspx,2023-03-21 00:00:00+00,,,False,False
+5620,2863,West Palm Beach Mayor,FL,LOCAL,US,1,4 years,https://www.wpb.org/home,2023-03-14 00:00:00+00,Mayor and City Commission Districts 2 & 4,,False,False
+293,293,Tampa Mayor,FL,LOCAL,US,1,,http://www.tampagov.net/dept_City_Council/,2023-03-07 00:00:00+00,,https://www.votehillsborough.org/About-Elections-Voters/Election-Results,False,False
+3358,3310,Clovis City Council,CA,LOCAL,US,5,4 years,http://www.ci.clovis.ca.us/Government/City-Council,2023-03-07 00:00:00+00,3 seats,,False,False
+5991,746,Burlington Mayor,VT,LOCAL,US,1,3 years,https://www.burlingtonvt.gov/Mayor,2023-03-07 00:00:00+00,"Mayor, plus East, North, Central, and South districts",https://www.burlingtonvt.gov/CT/Elections/Results,False,False
+6363,363,Tampa City Council,FL,LOCAL,US,7,4 years,https://www.tampagov.net/city-council,2023-03-07 00:00:00+00,,https://www.votehillsborough.org/About-Elections-Voters/Election-Results,False,False
+5179,5176,Red Deer Mayor,AB,LOCAL,CA,1,4 years,http://www.reddeer.ca/city-government/mayor-and-city-councillors/city-council/city-council-profiles/mayor-tara-veer/,2023-03-01 00:00:00+00,,,False,False
+5225,5177,Red Deer City Council,AB,LOCAL,CA,8,4 years,http://www.reddeer.ca/city-government/mayor-and-city-councillors/city-council/city-council-profiles/,2023-03-01 00:00:00+00,,,False,False
+2696,602,Mayor of Chicago,IL,LOCAL,US,1,,http://mayor.cityofchicago.org/,2023-02-28 00:00:00+00,,,False,False
+5431,872,Chicago City Council,IL,LOCAL,US,50,4 years,https://www.chicago.gov/city/en/about/council.html,2023-02-28 00:00:00+00,all,,False,False
+4328,547,Tasmania Legislative Council,TAS,STATE,AS,15,6 years,http://www.parliament.tas.gov.au/,2022-12-01 00:00:00+00,"Under section 23 of the Constitution Act 1934, the House of Assembly expires four years from the return of the writs for its election, which took place on 3 March 2018. The Governor must issue writs of election between five and ten days thereafter. Nominations must close on a date seven to 21 days after the issuance of the writ, and polling day must be a Saturday between 15 and 30 days after nominations close, meaning it must take place before the end of 2022.",https://en.wikipedia.org/wiki/Next_Tasmanian_state_election,False,False
+6327,819,Tasmania House of Assembly,TAS,STATE,AS,25,4 years,http://www.parliament.tas.gov.au/,2022-12-01 00:00:00+00,"Under section 23 of the Constitution Act 1934, the House of Assembly expires four years from the return of the writs for its election, which took place on 3 March 2018. The Governor must issue writs of election between five and ten days thereafter. Nominations must close on a date seven to 21 days after the issuance of the writ, and polling day must be a Saturday between 15 and 30 days after nominations close, meaning it must take place before the end of 2022.",https://en.wikipedia.org/wiki/Next_Tasmanian_state_election,False,False
+2704,527,Victorian Legislative Council,VIC,STATE,AS,40,4 years,http://www.parliament.vic.gov.au/,2022-11-26 00:00:00+00,All,,False,False
+4961,822,Victorian Legislative Assembly,VIC,STATE,AS,88,4 years,http://www.parliament.vic.gov.au/,2022-11-26 00:00:00+00,All,,False,False
+5353,967,Ottawa Mayor,ON,LOCAL,CA,1,,https://ottawa.ca/en/city-hall/mayor-and-city-councillors,2022-11-14 00:00:00+00,All,,False,False
+5354,315,Ottawa City Council,ON,LOCAL,CA,23,4 years,https://ottawa.ca/en/city-hall/mayor-and-city-councillors,2022-11-14 00:00:00+00,All,,False,False
+1468,703,Michigan State Senate,MI,STATE,US,38,4 years,http://senate.michigan.gov/,2022-11-08 00:00:00+00,All districts.,,False,False
+2461,624,Maryland House of Delegates,MD,STATE,US,141,4 years,http://www.msa.md.gov/msa/mdmanual/06hse/html/hse.html,2022-11-08 00:00:00+00,,,False,False
+2562,2562,Florida Lieutenant Governor,FL,STATE,US,1,,,2022-11-08 00:00:00+00,,https://dos.myflorida.com/elections/,False,False
+2567,2567,Illinois Lieutenant Governor,IL,STATE,US,1,,,2022-11-08 00:00:00+00,,,False,False
+2573,2573,Maryland Lieutenant Governor,MD,STATE,US,1,,,2022-11-08 00:00:00+00,,,False,False
+2574,2574,Michigan Lieutenant Governor,MI,STATE,US,1,,,2022-11-08 00:00:00+00,,,False,False
+2581,2581,New Mexico Lieutenant Governor,NM,STATE,US,1,,,2022-11-08 00:00:00+00,,http://www.sos.state.nm.us/,False,False
+2583,2583,New York Lieutenant Governor,NY,STATE,US,1,,,2022-11-08 00:00:00+00,,,False,False
+2584,2584,Ohio Lieutenant Governor,OH,STATE,US,1,,,2022-11-08 00:00:00+00,,,False,False
+2585,2585,Oklahoma Lieutenant Governor,OK,STATE,US,1,,,2022-11-08 00:00:00+00,,,False,False
+2588,2588,South Dakota Lieutenant Governor,SD,STATE,US,1,,,2022-11-08 00:00:00+00,,,False,False
+2618,240,Lexington Mayor,KY,LOCAL,US,1,4 years,http://www.lexingtonky.gov/index.aspx?page=325,2022-11-08 00:00:00+00,All seats,,False,False
+2629,129,Mayor of Providence,RI,LOCAL,US,1,4 years,http://cityof.providenceri.com/mayor,2022-11-08 00:00:00+00,,,False,False
+2675,398,United States Senate,,NATIONAL,US,100,6 years,http://www.senate.gov/,2022-11-08 00:00:00+00,,,False,False
+2683,597,New Hampshire Governor,NH,STATE,US,1,2 years,http://www.governor.nh.gov/,2022-11-08 00:00:00+00,,,False,False
+2948,2844,St. Charles County Executive,MO,LOCAL,US,1,4 years,http://www.sccmo.org/553/Executive,2022-11-08 00:00:00+00,,https://www.sccmo.org/410/Election-Authority,False,False
+3017,2854,Lake County Board of Commissioners,IN,LOCAL,US,3,4 years,https://www.lakecountyin.org/portal/media-type/html/group/commissioners/page/default,2022-11-08 00:00:00+00,all seats up after redistricting,,False,False
+3047,2878,Montgomery County Executive,MD,LOCAL,US,1,4 years,http://www.montgomerycountymd.gov/exec/index.html,2022-11-08 00:00:00+00,All,,False,False
+3048,2879,Montgomery County Council,MD,LOCAL,US,9,4 years,http://www.montgomerycountymd.gov/council/,2022-11-08 00:00:00+00,All,,False,False
+3056,2836,Cook County Board of Commissioners,IL,LOCAL,US,17,4 years,https://www.cookcountyil.gov/board-of-commissioners,2022-11-08 00:00:00+00,,,False,False
+3057,2835,Cook County Board President,IL,LOCAL,US,1,4 years,https://www.cookcountyil.gov/agency/office-president-0,2022-11-08 00:00:00+00,,,False,False
+3338,3321,Hillsboro City Council,OR,LOCAL,US,7,4 years,https://www.hillsboro-oregon.gov/your-city-government/the-mayor-and-city-council,2022-11-08 00:00:00+00,Position A in each ward (3),,False,False
+3415,3243,Thousand Oaks City Council,CA,LOCAL,US,5,4 years,http://www.toaks.org/departments/city-council,2022-11-08 00:00:00+00,3 seats.,https://www.toaks.org/departments/city-clerk/elections,False,False
+3814,3115,Little Rock Mayor,AR,LOCAL,US,1,4 years,https://www.littlerock.gov/city-administration/mayors-office/,2022-11-08 00:00:00+00,"Mayor and Board seats 1, 2, 5, 6, 7",https://www.littlerock.gov/city-administration/cityclerksoffice/board-elections/,False,False
+3848,606,Chula Vista City Council,CA,LOCAL,US,5,4 years,http://www.chulavistaca.gov/departments/mayor-council,2022-11-08 00:00:00+00,"Mayor, districts 1 and 2",https://www.chulavistaca.gov/departments/city-clerk/elections,False,False
+4139,3288,West Covina City Council,CA,LOCAL,US,5,4 years,http://www.westcovina.org/departments/mayor-city-council,2022-11-08 00:00:00+00,3 seats,,False,False
+4229,2897,Lake County Council,IN,LOCAL,US,7,4 years,https://www.lakecountyin.org/portal/group/council/page/default,2022-11-08 00:00:00+00,,https://www.lakecountyil.gov/163/Elections,False,False
+4254,887,Virginia Beach City Council,VA,LOCAL,US,10,4 years,http://www.vbgov.com/government/departments/city-clerk/city-council/Pages/default.aspx,2022-11-08 00:00:00+00,"2 at-large seats, Bayside, Beach, Lynnhaven, Princess",,False,False
+4272,4236,Hennepin County Board of Commissioners,MN,LOCAL,US,7,4 years,http://www.hennepin.us/your-government#leadership,2022-11-08 00:00:00+00,,,False,False
+4309,421,Pennsylvania Senate,PA,STATE,US,50,4 years,http://www.pasen.gov/,2022-11-08 00:00:00+00,Odd-numbered Senators elected in 2020 had their terms limited to 2 years due to redistricting. They will serve out the remainder of their term in new districts.,,False,False
+4384,3270,Escondido City Council,CA,LOCAL,US,5,4 years,https://www.escondido.org/city-council.aspx,2022-11-08 00:00:00+00,"Mayor, 1, 2",,False,False
+4413,3315,San Mateo City Council,CA,LOCAL,US,5,4 years,http://www.cityofsanmateo.org/index.aspx?NID=55,2022-11-08 00:00:00+00,3 at-large seats,,False,False
+4429,9,Vermont Governor,VT,STATE,US,1,2 years,http://governor.vermont.gov/,2022-11-08 00:00:00+00,,,False,False
+4431,640,Alabama Governor,AL,STATE,US,1,4 years,http://www.governor.alabama.gov/,2022-11-08 00:00:00+00,,,False,False
+4449,849,Alaska Governor,AK,STATE,US,1,4 years,http://gov.state.ak.us/,2022-11-08 00:00:00+00,,,False,False
+4452,1112,Oklahoma Governor,OK,STATE,US,1,4 years,http://www.ok.gov/governor/,2022-11-08 00:00:00+00,,,False,False
+4455,178,New York Governor,NY,STATE,US,1,4 years,http://www.governor.ny.gov/,2022-11-08 00:00:00+00,,,False,False
+4462,611,Idaho Governor,ID,STATE,US,1,4 years,http://gov.idaho.gov/,2022-11-08 00:00:00+00,,,False,False
+4464,434,Georgia Governor,GA,STATE,US,1,4 years,http://gov.georgia.gov/,2022-11-08 00:00:00+00,,,False,False
+4465,782,Ohio Governor,OH,STATE,US,1,4 years,http://governor.ohio.gov/,2022-11-08 00:00:00+00,,,False,False
+4466,263,Arizona Governor,AZ,STATE,US,1,4 years,http://www.azgovernor.gov/,2022-11-08 00:00:00+00,,,False,False
+4469,724,Oregon Governor,OR,STATE,US,1,4 years,http://www.oregon.gov/gov/pages/index.aspx,2022-11-08 00:00:00+00,,https://sos.oregon.gov/voting-elections/pages/default.aspx,False,False
+4472,215,New Mexico Governor,NM,STATE,US,1,4 years,http://www.governor.state.nm.us/default.aspx,2022-11-08 00:00:00+00,,http://www.sos.state.nm.us/,False,False
+4473,203,Nevada Governor,NV,STATE,US,1,4 years,http://gov.nv.gov/,2022-11-08 00:00:00+00,,,False,False
+4500,775,Berkeley City Council,CA,LOCAL,US,8,4 years,http://www.ci.berkeley.ca.us/ContentDisplay.aspx?id=9818,2022-11-08 00:00:00+00,"Districts 1, 4, 7, 8",,False,False
+4560,3087,Reno City Council,NV,LOCAL,US,7,4 years,http://www.reno.gov/government/city-council,2022-11-08 00:00:00+00,Even districts and mayor,,False,False
+4623,676,Pennsylvania Governor,PA,STATE,US,1,4 years,https://www.governor.pa.gov/,2022-11-08 00:00:00+00,Odd-numbered Senators elected in 2020 had their terms limited to 2 years due to redistricting. They will serve out the remainder of their term in new districts.,,False,False
+4767,1031,Anaheim Mayor,CA,LOCAL,US,1,4 years,http://www.anaheim.net/173/City-Council,2022-11-08 00:00:00+00,"Mayor and district 2,3, and 6",,False,False
+4777,4777,Carlsbad Mayor,CA,LOCAL,US,1,,http://www.carlsbadca.gov/cityhall/officials/mayor.asp,2022-11-08 00:00:00+00,,http://www.carlsbadca.gov/cityhall/clerk/voter.asp,False,False
+4782,3242,City of Coral Springs Commission,FL,LOCAL,US,5,"Mayor: 2 years,  Commissioners: 4 years",http://www.coralsprings.org/government/city-commission,2022-11-08 00:00:00+00,,,False,False
+4785,3203,Rochester Mayor,MN,LOCAL,US,1,4 years,http://www.rochestermn.gov/government/office-of-the-mayor,2022-11-08 00:00:00+00,,https://www.rochestermn.gov/departments/city-clerk/elections,False,False
+4793,3099,Fremont City Council,CA,LOCAL,US,7,4 years,https://www.fremont.gov/598/Mayor,2022-11-08 00:00:00+00,3 seats,,False,False
+4798,3116,Shreveport City Council,LA,LOCAL,US,7,4 years,https://www.shreveportla.gov/index.aspx?nid=201,2022-11-08 00:00:00+00,All,,False,False
+4799,3117,Shreveport Mayor,LA,LOCAL,US,1,4 years,https://www.shreveportla.gov/index.aspx?nid=509,2022-11-08 00:00:00+00,All,,False,False
+4812,1044,Alaska House of Representatives,AK,STATE,US,40,2 years,http://akleg.gov/house.php,2022-11-08 00:00:00+00,,,False,False
+4814,1096,Alaska State Senate,AK,STATE,US,20,4 years,http://akleg.gov/senate.php,2022-11-08 00:00:00+00,"Districts A, C, E, G, I, K, M, O, Q, T",,False,False
+4982,901,South Carolina Governor,SC,STATE,US,1,4 years,https://governor.sc.gov/,2022-11-08 00:00:00+00,,,False,False
+4986,3239,Concord City Council,CA,LOCAL,US,5,4 years,http://www.cityofconcord.org/237/Mayor-City-Council,2022-11-08 00:00:00+00,,http://www.cityofconcord.org/page.asp?pid=1012,False,False
+5030,792,Alabama House of Representatives,AL,STATE,US,105,4 years,http://www.legislature.state.al.us/aliswww/ISD/Splash_House.aspx,2022-11-08 00:00:00+00,,,False,False
+5291,3098,North Las Vegas City Council,NV,LOCAL,US,5,4 years,http://www.cityofnorthlasvegas.com/departments/mayor_and_council/index.php,2022-11-08 00:00:00+00,Mayor and 2 City Council seats,http://www.cityofnorthlasvegas.com/departments/city_clerk/index.php,False,False
+5322,3314,El Cajon City Council,CA,LOCAL,US,5,4 years,https://www.cityofelcajon.us/your-government/elected-officials/city-council,2022-11-08 00:00:00+00,Mayor & District 1,,False,False
+5324,3130,Port St. Lucie City Council,FL,LOCAL,US,5,4 years,https://www.cityofpsl.com/government/mayor-city-council,2022-11-08 00:00:00+00,"Districts 1, 3, and 5",,False,False
+5328,643,Providence City Council,RI,LOCAL,US,15,4 years,https://council.providenceri.gov/councilors/,2022-11-08 00:00:00+00,,,False,False
+5331,747,Washington Mayor,DC,LOCAL,US,1,4 years,https://mayor.dc.gov/,2022-11-08 00:00:00+00,"Mayor, At Large, and districts 1, 3, 5, and 6",,False,False
+5332,133,Oakland Mayor,CA,LOCAL,US,1,4 years,https://www.oaklandca.gov/officials,2022-11-08 00:00:00+00,,,False,False
+5333,3273,Mayor of Clarksville,TN,LOCAL,US,1,4 years,https://www.cityofclarksville.com/283/Mayors-Office,2022-11-08 00:00:00+00,"Mayor and 1, 2, 6, 7, 10",https://mcgtn.org/election,False,False
+5334,2569,Kansas Lieutenant Governor,KS,STATE,US,1,,https://governor.kansas.gov/about-the-office/lt-governor/,2022-11-08 00:00:00+00,,,False,False
+5335,2561,Connecticut Lieutenant Governor,CT,STATE,US,1,,https://portal.ct.gov/office-of-the-lt-governor,2022-11-08 00:00:00+00,,,False,False
+5337,2563,Georgia Lieutenant Governor,GA,STATE,US,1,,https://ltgov.georgia.gov/,2022-11-08 00:00:00+00,,,False,False
+5339,2565,Iowa Lieutenant Governor,IA,STATE,US,1,,https://ltgovernor.iowa.gov/,2022-11-08 00:00:00+00,,,False,False
+5340,2564,Hawaii Lieutenant Governor,HI,STATE,US,1,,http://ltgov.hawaii.gov/,2022-11-08 00:00:00+00,,,False,False
+5341,2566,Idaho Lieutenant Governor,ID,STATE,US,1,,https://lgo.idaho.gov/,2022-11-08 00:00:00+00,,,False,False
+5342,2587,South Carolina Lieutenant Governor,SC,STATE,US,1,,https://governor.sc.gov/lieutenant-governor,2022-11-08 00:00:00+00,,,False,False
+5343,2586,Pennsylvania Lieutenant Governor,PA,STATE,US,1,,https://www.governor.pa.gov/about/lieutenant-governor/,2022-11-08 00:00:00+00,Odd-numbered Senators elected in 2020 had their terms limited to 2 years due to redistricting. They will serve out the remainder of their term in new districts.,,False,False
+5344,1074,Louisville Mayor,KY,LOCAL,US,1,4 years,https://louisvilleky.gov/government/mayor-greg-fischer,2022-11-08 00:00:00+00,Odd numbered districts,,False,False
+5345,2557,Alabama Lieutenant Governor,AL,STATE,US,1,,https://ltgov.alabama.gov/,2022-11-08 00:00:00+00,,,False,False
+5346,2556,Alaska Lieutenant Governor,AK,STATE,US,1,,https://ltgov.alaska.gov/,2022-11-08 00:00:00+00,,,False,False
+5347,2558,Arkansas Lieutenant Governor,AR,STATE,US,1,,http://ltgovernor.arkansas.gov/,2022-11-08 00:00:00+00,,,False,False
+5348,2871,Augusta Mayor,GA,LOCAL,US,1,4 years,https://www.augustaga.gov/,2022-11-08 00:00:00+00,"Mayor and districts 2, 4, 6, 8, and 10",,False,False
+5351,1027,Arkansas Governor,AR,STATE,US,1,4 years,http://governor.arkansas.gov/,2022-11-08 00:00:00+00,,,False,False
+5352,2582,Nevada Lieutenant Governor,NV,STATE,US,1,,http://ltgov.nv.gov/,2022-11-08 00:00:00+00,,,False,False
+5373,87,San Bernardino Mayor,CA,LOCAL,US,1,,http://www.sbcity.org/cityhall/mayor/default.asp,2022-11-08 00:00:00+00,,http://www.sbcity.org/cityhall/city_clerk/election_information.asp,False,False
+5374,820,Michigan Governor,MI,STATE,US,1,4 years,https://www.michigan.gov/,2022-11-08 00:00:00+00,,,False,False
+5375,375,Maryland Governor,MD,STATE,US,1,4 years,https://governor.maryland.gov/,2022-11-08 00:00:00+00,,,False,False
+5402,970,Mayor of Cape Coral,FL,LOCAL,US,1,4 years,http://www.capecoral.net/government/city_government/mayor/index.php#.WULabDe1tpi,2022-11-08 00:00:00+00,,,False,False
+5408,891,Las Vegas City Council,NV,LOCAL,US,6,4 years,https://www.lasvegasnevada.gov/Government/Mayor-City-Council,2022-11-08 00:00:00+00,"2,4,6",,False,False
+5439,5434,Ramsey County Board of Commissioners,MN,LOCAL,US,7,4 years,https://www.ramseycounty.us/your-government/leadership/board-commissioners,2022-11-08 00:00:00+00,all districts up after redistricting,"https://ballotpedia.org/Government_of_Ramsey_County,_Minnesota",False,False
+5524,3201,Vista City Council,CA,LOCAL,US,5,4 years,https://www.cityofvista.com/city-hall/city-council,2022-11-08 00:00:00+00,"Mayor, District 1 & 4",,False,False
+5544,3231,Murrieta City Council,CA,LOCAL,US,5,4 years,https://www.murrietaca.gov/377/City-Council,2022-11-08 00:00:00+00,"Districts 1, 2, and 5",,False,False
+5574,2861,Fort Myers Mayor,FL,LOCAL,US,1,4 years,https://cityftmyers.com/,2022-11-08 00:00:00+00,"Mayor, and Districts 1, 3, and 5.",,False,False
+5594,224,California Governor,CA,STATE,US,1,4 years,https://www.gov.ca.gov/,2022-11-08 00:00:00+00,,,False,False
+5646,729,Massachusetts House of Representatives,MA,STATE,US,160,2 years,https://malegislature.gov/People/House,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Massachusetts_House_of_Representatives_elections,_2022",False,False
+5656,488,New Hampshire House of Representatives,NH,STATE,US,400,2 years,http://www.gencourt.state.nh.us/house/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2020",False,False
+5679,755,Santa Ana Mayor,CA,LOCAL,US,1,2 years,https://www.santa-ana.org/mayor-and-city-council,2022-11-08 00:00:00+00,,,False,False
+5681,2883,Wake County Board of Commissioners,NC,LOCAL,US,7,2 years,http://www.wakegov.com/commissioners/Pages/default.aspx,2022-11-08 00:00:00+00,All seats,,False,False
+5718,313,Henderson Mayor,NV,LOCAL,US,1,4 years,https://www.cityofhenderson.com/mayor-council/about,2022-11-08 00:00:00+00,"In 2019, NV Legislature passed law requiring all municipal elections to follow statewide schedule.",,False,False
+5720,504,Henderson City Council,NV,LOCAL,US,4,4 years,https://www.cityofhenderson.com/mayor-council/about,2022-11-08 00:00:00+00,Ward III,,False,False
+5746,103,Tennessee State Senate,TN,STATE,US,33,4 years,http://www.capitol.tn.gov/senate/,2022-11-08 00:00:00+00,Odd districts,,False,False
+5789,5786,Sparks Mayor,NV,LOCAL,US,1,4 years,https://cityofsparks.us/resources/government/mayor-city-council/,2022-11-08 00:00:00+00,,,False,False
+5799,484,Berkeley Mayor,CA,LOCAL,US,1,4 years,http://www.ci.berkeley.ca.us/mayor/,2022-11-08 00:00:00+00,"Districts 1, 4, 7, 8",,False,False
+5863,468,South Carolina House of Representatives,SC,STATE,US,124,2 years,http://www.scstatehouse.gov/house.php,2022-11-08 00:00:00+00,,"https://ballotpedia.org/South_Carolina_House_of_Representatives_elections,_2022",False,False
+5867,3295,Pompano Beach City Commission,FL,LOCAL,US,6,2 years for commissioners; 4 years for mayor,http://pompanobeachfl.gov/index.php/pages/commission/commission,2022-11-08 00:00:00+00,Districts 1 through 5,,False,False
+5884,936,Portland City Council,OR,LOCAL,US,4,4 years,http://www.portlandonline.com/?c=25999,2022-11-08 00:00:00+00,Positions 2 & 3,,False,False
+5893,2862,Fort Myers City Council,FL,LOCAL,US,6,4 years,https://cityftmyers.com/1168/Mayor-City-Council,2022-11-08 00:00:00+00,"Mayor, and Districts 1, 3, and 5.",,False,False
+5908,5834,Bend City Council,OR,LOCAL,US,7,4 years,https://www.bendoregon.gov/government/city-council,2022-11-08 00:00:00+00,"Mayor, positions 5-6",,False,False
+5952,5787,Sparks City Council,NV,LOCAL,US,5,4 years,https://cityofsparks.us/resources/government/mayor-city-council/,2022-11-08 00:00:00+00,,,False,False
+5960,357,Ann Arbor City Council,MI,LOCAL,US,11,4 years,https://www.a2gov.org/departments/city-council/Pages/Home.aspx,2022-11-08 00:00:00+00,Half,,False,False
+5967,334,Fresno City Council,CA,LOCAL,US,7,4 years,http://www.fresno.gov/,2022-11-08 00:00:00+00,"Districts 1, 3, 5",,False,False
+5982,271,Sunnyvale City Council,CA,LOCAL,US,7,4 years,https://sunnyvale.ca.gov/government/council/default.htm,2022-11-08 00:00:00+00,"Districts 1, 3, 5",https://sunnyvale.ca.gov/government/elections.htm,False,False
+5994,199,Indiana State Senate,IN,STATE,US,50,4 years,http://iga.in.gov/,2022-11-08 00:00:00+00,Half of seats up for election,"https://ballotpedia.org/Indiana_State_Senate_elections,_2020",False,False
+5996,721,Hawaii House of Representatives,HI,STATE,US,51,2 years,http://www.capitol.hawaii.gov/house.aspx,2022-11-08 00:00:00+00,All districts.,"https://ballotpedia.org/Hawaii_House_of_Representatives_elections,_2022",False,False
+5997,741,Hawaii Senate,HI,STATE,US,25,4 years,https://www.capitol.hawaii.gov/senate.aspx,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Hawaii_State_Senate_elections,_2022",False,False
+6010,5845,League City City Council,TX,LOCAL,US,8,4 years,https://www.leaguecity.com/412/City-Council,2022-11-08 00:00:00+00,"Mayor, Positions 1, 2, 6, 7",,False,False
+6023,682,Florida House of Representatives,FL,STATE,US,120,2 years,http://www.myfloridahouse.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Florida_House_of_Representatives_elections,_2022",False,False
+6028,1039,San Jose Mayor,CA,LOCAL,US,1,4 years,https://www.sanjoseca.gov/your-government/departments/city-council/members/mayor-s-office,2022-11-08 00:00:00+00,"Mayor and districts 1, 3, 5, 7, 9",http://www.sanjoseca.gov/index.aspx?nid=5694,False,False
+6029,279,San Jose City Council,CA,LOCAL,US,10,4 years,https://www.sanjoseca.gov/your-government/departments/city-council,2022-11-08 00:00:00+00,"Mayor and districts 1, 3, 5, 7, 9",http://www.sanjoseca.gov/index.aspx?nid=5694,False,False
+6035,613,Delaware State Senate,DE,STATE,US,21,4 years,https://legis.delaware.gov/Senate,2022-11-08 00:00:00+00,All seats up for election,,False,False
+6040,3085,Gilbert Town Council,AZ,LOCAL,US,7,4 years,https://www.gilbertaz.gov/departments/town-hall/mayor-town-council,2022-11-08 00:00:00+00,,,False,False
+6044,673,Tennessee House of Representatives,TN,STATE,US,99,2 years,http://www.capitol.tn.gov/house/,2022-11-08 00:00:00+00,,,False,False
+6057,68,Los Angeles Mayor,CA,LOCAL,US,1,4 years,https://www.lamayor.org/,2022-11-08 00:00:00+00,"As a result of Charter Amendments 1 and 2 approved by the voters in 2015, the City's municipal elections will now be held in even-numbered years and consolidated with California State elections conducted by the Los Angeles County Registrar-Recorder/County Clerk.",,False,False
+6065,235,Florida Senate,FL,STATE,US,40,4 years,https://www.flsenate.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Florida_State_Senate_elections,_2022",False,False
+6069,3191,Miami Gardens City Council,FL,LOCAL,US,7,4 years,https://www.miamigardens-fl.gov/269/City-Council,2022-11-08 00:00:00+00,"Districts 2 and 4, plus 1 at-large seat.",,False,False
+6073,208,Oklahoma House of Representatives,OK,STATE,US,101,2 years,http://www.okhouse.gov/,2022-11-08 00:00:00+00,,,False,False
+6079,3283,Ventura City Council,CA,LOCAL,US,7,4 years,https://www.cityofventura.ca.gov/712/City-Council,2022-11-08 00:00:00+00,"1, 4, 5, 6",,False,False
+6081,3192,Costa Mesa City Council,CA,LOCAL,US,7,4 years,http://www.costamesaca.gov/index.aspx?page=73,2022-11-08 00:00:00+00,,https://www.costamesaca.gov/city-hall/city-departments/city-clerk/city-elections/city-elections-2020,False,False
+6082,3271,Pomona City Council,CA,LOCAL,US,7,4 years,https://www.ci.pomona.ca.us/index.php/contact-us-home/contact-the-city-council,2022-11-08 00:00:00+00,"Districts 2, 3, 5",,False,False
+6083,3084,Irvine City Council,CA,LOCAL,US,5,Mayor: 2 years Council members: 4 years,http://www.cityofirvine.org/city-council,2022-11-08 00:00:00+00,,http://www.cityofirvine.org/government/city-clerk/municipal-election-information,False,False
+6084,3223,Antioch City Council,CA,LOCAL,US,5,4 years,http://www.ci.antioch.ca.us/CityGov/CityCouncil.htm,2022-11-08 00:00:00+00,District 1 and 4,https://www.antiochca.gov/district-elections/,False,False
+6085,191,Anaheim City Council,CA,LOCAL,US,6,4 years,http://www.anaheim.net/173/City-Council,2022-11-08 00:00:00+00,"Mayor and district 2,3, and 6",,False,False
+6086,3316,Rialto City Council,CA,LOCAL,US,5,4 years,https://www.yourrialto.com/city-hall/city-council/,2022-11-08 00:00:00+00,Two council seats.,http://yourrialto.com/city-hall/departments/city-clerk/elections/,False,False
+6087,3189,Carlsbad City Council,CA,LOCAL,US,4,4 years,https://www.carlsbadca.gov/cityhall/officials/default.asp,2022-11-08 00:00:00+00,,http://www.carlsbadca.gov/cityhall/clerk/voter.asp,False,False
+6091,3138,Santa Rosa City Council,CA,LOCAL,US,7,4 years (2 years for mayor),http://www.srcity.org/1322/City-Council,2022-11-08 00:00:00+00,"Districts 2, 4, 6",,False,False
+6094,3249,Fullerton City Council,CA,LOCAL,US,5,4 years,https://www.cityoffullerton.com/gov/citycouncil/default.asp,2022-11-08 00:00:00+00,"District 3, 5.",,False,False
+6096,507,Indiana House of Representatives,IN,STATE,US,100,2 years,http://iga.in.gov/,2022-11-08 00:00:00+00,,,False,False
+6100,3187,Downey City Council,CA,LOCAL,US,5,4 years,https://www.downeyca.org/our-city/mayor-city-council/,2022-11-08 00:00:00+00,Even districts,,False,False
+6102,994,Maine State Senate,ME,STATE,US,35,2 years,http://legislature.maine.gov/senate/,2022-11-08 00:00:00+00,,,False,False
+6103,886,Idaho House of Representatives,ID,STATE,US,70,2 years,https://legislature.idaho.gov/house/,2022-11-08 00:00:00+00,All seats,,False,False
+6104,291,New Hampshire State Senate,NH,STATE,US,24,2 years,http://www.gencourt.state.nh.us/senate/,2022-11-08 00:00:00+00,,,False,False
+6105,2882,Mecklenburg Board of County Commissioners,NC,LOCAL,US,9,2 years,https://www.mecknc.gov/Pages/Home.aspx,2022-11-08 00:00:00+00,,,False,False
+6109,3235,Santa Clara City Council,CA,LOCAL,US,7,4 years,https://www.santaclaraca.gov/our-city/government/mayor-and-council,2022-11-08 00:00:00+00,"Districts 2, 3, 7",http://santaclaraca.gov/government/santa-clara-votes,False,False
+6110,458,North Dakota Senate,ND,STATE,US,47,4 years,http://www.legis.nd.gov/assembly/,2022-11-08 00:00:00+00,Odd districts.,"https://ballotpedia.org/North_Dakota_State_Senate_elections,_2022",False,False
+6112,3301,Daly City Council,CA,LOCAL,US,5,4 years,https://www.dalycity.org/409/City-Council,2022-11-08 00:00:00+00,3 seats,,False,False
+6114,3142,Elk Grove City Council,CA,LOCAL,US,5,4 years (2 years for mayor),http://www.elkgrovecity.org/cms/One.aspx?portalId=109669&pageId=119957,2022-11-08 00:00:00+00,"Districts 2, 4 and mayor",http://www.elkgrovecity.org/city_hall/city_government/city_clerk/election_information,False,False
+6115,3104,Fontana City Council,CA,LOCAL,US,5,4 years,https://www.fontana.org/69/City-Council,2022-11-08 00:00:00+00,"Mayor, District 1 & 4",,False,False
+6117,3129,Santa Clarita City Council,CA,LOCAL,US,5,4 years,http://www.santa-clarita.com/city-hall/city-council,2022-11-08 00:00:00+00,,,False,False
+6118,210,San Diego City Council,CA,LOCAL,US,9,4 years,http://www.sandiego.gov/citycouncil/,2022-11-08 00:00:00+00,"Districts 2, 4, 6, 8",,False,False
+6120,265,California State Assembly,CA,STATE,US,80,2 years,https://www.assembly.ca.gov/assemblymembers,2022-11-08 00:00:00+00,All,,False,False
+6134,122,Miami-Dade Board of County Commissioners,FL,LOCAL,US,13,4 years,https://www.miamidade.gov/global/government/commission/home.page,2022-11-08 00:00:00+00,Even districts,,False,False
+6135,3267,Hollywood City Commission,FL,LOCAL,US,7,4 years,http://www.hollywoodfl.org/89/City-Commission,2022-11-08 00:00:00+00,"Election for districts 1, 3, and 5",,False,False
+6138,3174,Odessa City Council,TX,LOCAL,US,7,4 years,https://tx-odessa.civicplus.com/670/City-Council,2022-11-08 00:00:00+00,"Districts 3, 4, and 5",,False,False
+6143,3149,Palmdale City Council,CA,LOCAL,US,5,4 years (2 years for mayor),https://cityofpalmdale.org/304/City-Council,2022-11-08 00:00:00+00,"Districts 1, 2",,False,False
+6145,3105,Moreno Valley City Council,CA,LOCAL,US,5,4 years (2 years for mayor),http://www.moreno-valley.ca.us/city_council/index.shtml,2022-11-08 00:00:00+00,"Mayor + districts 1, 3",,False,False
+6146,3134,Oceanside City Council,CA,LOCAL,US,5,4 years,https://www.ci.oceanside.ca.us/gov/council/default.asp,2022-11-08 00:00:00+00,,https://www.ci.oceanside.ca.us/gov/clerk/elections/current_elections.asp,False,False
+6148,3205,Temecula City Council,CA,LOCAL,US,5,4 years,https://temeculaca.gov/173/City-Council,2022-11-08 00:00:00+00,Odd districts,,False,False
+6149,3141,Ontario City Council,CA,LOCAL,US,5,4 years,https://www.ontarioca.gov/public-officials,2022-11-08 00:00:00+00,,,False,False
+6152,3248,Orange City Council,CA,LOCAL,US,7,4 years (2 years for mayor),http://www.cityoforange.org/183/City-Council,2022-11-08 00:00:00+00,,https://www.cityoforange.org/163/Elections,False,False
+6156,663,Idaho State Senate,ID,STATE,US,35,2 years,https://legislature.idaho.gov/senate/,2022-11-08 00:00:00+00,All,,False,False
+6157,490,Maine House of Representatives,ME,STATE,US,151,2 years,http://www.maine.gov/legis/house/,2022-11-08 00:00:00+00,,,False,False
+6158,573,Santa Ana City Council,CA,LOCAL,US,6,4 years,https://www.santa-ana.org/mayor-and-city-council,2022-11-08 00:00:00+00,,,False,False
+6164,3135,Garden Grove City Council,CA,LOCAL,US,7,"2 years (Mayor), 4 years (Council)",http://www.ci.garden-grove.ca.us/citymanager/CityCouncil,2022-11-08 00:00:00+00,"Mayor, District 1, 3, 4",,False,False
+6165,3307,Santa Maria City Council,CA,LOCAL,US,5,4 years,https://www.cityofsantamaria.org/city-government/departments/mayor-city-council,2022-11-08 00:00:00+00,,https://www.cityofsantamaria.org/city-government/departments/city-clerk-records/elections,False,False
+6166,905,California Senate,CA,STATE,US,40,4 years,https://www.senate.ca.gov/,2022-11-08 00:00:00+00,Even numbered seats,"https://ballotpedia.org/California_State_Senate_elections,_2022",False,False
+6167,519,Oxnard City Council,CA,LOCAL,US,6,4 years,http://citycouncil.cityofoxnard.org/Default.aspx?DepartmentID=3,2022-11-08 00:00:00+00,,https://www.oxnard.org/city-department/city-clerk/,False,False
+6170,3294,Palm Bay City Council,FL,LOCAL,US,5,4 years,https://www.palmbayflorida.org/government/city-departments-f-to-z/legislative/mayor-city-council,2022-11-08 00:00:00+00,,https://www.palmbayflorida.org/government/departments/city-council-city-clerk/city-clerk/elections,False,False
+6171,70,North Dakota House of Representatives,ND,STATE,US,94,4 years,https://www.legis.nd.gov/,2022-11-08 00:00:00+00,,https://sos.nd.gov/elections,False,False
+6177,798,Michigan House of Representatives,MI,STATE,US,110,2 years,https://www.house.mi.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2022",False,False
+6179,3170,Victorville City Council,CA,LOCAL,US,5,4 years,https://www.victorvilleca.gov/government/city-departments/city-clerk/city-council,2022-11-08 00:00:00+00,,,False,False
+6183,700,United States House of Representatives,,NATIONAL,US,441,2 years,https://www.house.gov/,2022-11-08 00:00:00+00,,,False,False
+6184,369,Austin City Council,TX,LOCAL,US,11,4 years,http://austintexas.gov/government,2022-11-08 00:00:00+00,"Mayor and districts 1, 3, 5, 8, 9",,False,False
+6188,3150,Salinas City Council,CA,LOCAL,US,7,4 years (2 years for mayor),https://www.cityofsalinas.org/our-government/city-council,2022-11-08 00:00:00+00,"Mayor, 2, 3, 5",,False,False
+6193,645,Pennsylvania House of Representatives,PA,STATE,US,203,2 years,https://www.house.state.pa.us/,2022-11-08 00:00:00+00,Odd-numbered Senators elected in 2020 had their terms limited to 2 years due to redistricting. They will serve out the remainder of their term in new districts.,,False,False
+6206,3199,Fairfield City Council,CA,LOCAL,US,7,4 years,https://www.fairfield.ca.gov/gov/city_council/default.asp,2022-11-08 00:00:00+00,,,False,False
+6209,445,New York State Senate,NY,STATE,US,63,2 years,http://www.nysenate.gov/?openform,2022-11-08 00:00:00+00,,"https://ballotpedia.org/New_York_State_Senate_elections,_2020",False,False
+6210,136,Ohio Senate,OH,STATE,US,33,4 years,http://www.senate.state.oh.us/,2022-11-08 00:00:00+00,,,False,False
+6211,158,New York State Assembly,NY,STATE,US,150,2 years,https://nyassembly.gov/mem/,2022-11-08 00:00:00+00,,,False,False
+6213,3329,Jurupa Valley City Council,CA,LOCAL,US,5,4 years,https://www.jurupavalley.org/215/City-Council,2022-11-08 00:00:00+00,"Districts 1, 3, 5",,False,False
+6214,3146,Corona City Council,CA,LOCAL,US,5,4 years,https://www.coronaca.gov/about-us/city-council,2022-11-08 00:00:00+00,"Districts 1, 4, 5",,False,False
+6215,289,West Virginia House of Delegates,WV,STATE,US,100,2 years,http://www.legis.state.wv.us/House/members/delmemview1.cfm,2022-11-08 00:00:00+00,,,False,False
+6216,115,Wisconsin Assembly,WI,STATE,US,99,2 years,https://legis.wisconsin.gov/assembly/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2022",False,False
+6217,233,Texas House of Representatives,TX,STATE,US,150,2 years,https://house.texas.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Texas_House_of_Representatives_elections,_2022",False,False
+6221,225,Utah State Senate,UT,STATE,US,29,4 years,http://www.utahsenate.org/,2022-11-08 00:00:00+00,"Districts 2, 3, 4, 5, 9, 11, 12, 15, 17, 18, 21, 22, 26, 28\n",,False,False
+6222,406,The Senate of Texas,TX,STATE,US,31,4 years,https://senate.texas.gov/,2022-11-08 00:00:00+00,"All seats are up for election (see: Redistricting, 2-4-4 State, notes below)",,False,False
+6223,198,Ohio House of Representatives,OH,STATE,US,99,2 years,https://ohiohouse.gov/,2022-11-08 00:00:00+00,All,,False,False
+6227,959,Lexington-Fayette Urban County Council,KY,LOCAL,US,15,"2 years (districted), 4 years (at-large)",http://www.lexingtonky.gov/index.aspx?page=325,2022-11-08 00:00:00+00,All seats,,False,False
+6232,487,Wisconsin State Senate,WI,STATE,US,33,4 years,https://legis.wisconsin.gov/senate/,2022-11-08 00:00:00+00,Even numbered district officials will serve out the rest of their term in new districts in 2022.,,False,False
+6235,952,Utah House of Representatives,UT,STATE,US,75,2 years,https://house.utah.gov/,2022-11-08 00:00:00+00,,,False,False
+6241,605,Kentucky House of Representatives,KY,STATE,US,100,2 years,https://legislature.ky.gov,2022-11-08 00:00:00+00,,,False,False
+6242,2843,St. Louis County Council,MO,LOCAL,US,7,4 years,http://www.stlouisco.com/yourgovernment/countycouncil,2022-11-08 00:00:00+00,"District 1, 3, 5, 7",,False,False
+6243,2872,Augusta Commission,GA,LOCAL,US,10,4 years,http://www.augustaga.gov/652/Augusta-Commission,2022-11-08 00:00:00+00,"Mayor and districts 2, 4, 6, 8, and 10",,False,False
+6244,3207,Inglewood City Council,CA,LOCAL,US,5,4 years,https://www.cityofinglewood.org/571/City-Council,2022-11-08 00:00:00+00,"Mayor, Districts 1 & 2",https://www.cityofinglewood.org/440/Elections,False,False
+6245,735,North Carolina House of Representatives,NC,STATE,US,120,2 years,https://www.ncleg.gov/House,2022-11-08 00:00:00+00,,"https://ballotpedia.org/North_Carolina_House_of_Representatives_elections,_2022",False,False
+6246,329,North Carolina Senate,NC,STATE,US,50,2 years,https://www.ncleg.gov/Senate,2022-11-08 00:00:00+00,,"https://ballotpedia.org/North_Carolina_State_Senate_elections,_2022",False,False
+6247,3272,Clarksville City Council,TN,LOCAL,US,12,4 years,https://www.cityofclarksville.com/522/City-Council,2022-11-08 00:00:00+00,"Mayor and 1, 2, 6, 7, 10",https://mcgtn.org/election,False,False
+6249,1033,San Bernardino City Council,CA,LOCAL,US,7,4 years,http://www.ci.san-bernardino.ca.us/cityhall/city_council/default.asp,2022-11-08 00:00:00+00,,http://www.sbcity.org/cityhall/city_clerk/election_information.asp,False,False
+6250,3221,Gresham City Council,OR,LOCAL,US,7,4 years,https://greshamoregon.gov/Mayor-and-Council/,2022-11-08 00:00:00+00,"2, 4, 6",,False,False
+6251,745,Kentucky State Senate,KY,STATE,US,38,4 years,https://legislature.ky.gov/Legislators/senate,2022-11-08 00:00:00+00,Even seats,,False,False
+6252,717,Nebraska Unicameral Legislature,NE,STATE,US,49,4 years,https://nebraskalegislature.gov/,2022-11-08 00:00:00+00,"Even numbered seats\n\nRepresentatives from odd numbered districts elected in 2020 will serve 4 year terms, but their valid_to_dates were shortened to 2023-01-04 due to redistricting.",,False,False
+6253,3679,Cape Coral City Council,FL,LOCAL,US,7,4 years,http://www.capecoral.net/government/city_government/city_council/index.php#.WULh1Te1tpi,2022-11-08 00:00:00+00,,,False,False
+6254,708,Minnesota House of Representatives,MN,STATE,US,134,2 years,https://www.house.leg.state.mn.us/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Minnesota_House_of_Representatives_elections,_2022",False,False
+6257,961,Georgia House of Representatives,GA,STATE,US,180,2 years,https://www.legis.ga.gov/members/house,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Georgia_House_of_Representatives_elections,_2022",False,False
+6258,965,Arizona House of Representatives,AZ,STATE,US,60,2 years,https://www.azhouse.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Arizona_House_of_Representatives_elections,_2020",False,False
+6260,1049,Colorado House of Representatives,CO,STATE,US,65,2 years,https://leg.colorado.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Colorado_House_of_Representatives_elections,_2020",False,False
+6261,238,Missouri House of Representatives,MO,STATE,US,163,2 years,https://www.house.mo.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Missouri_House_of_Representatives_elections,_2022",False,False
+6264,937,San Francisco Board of Supervisors,CA,LOCAL,US,11,4 years,http://www.sfbos.org/,2022-11-08 00:00:00+00,"1, 3, 5, 7, 9, 11",,False,False
+6265,391,West Virginia State Senate,WV,STATE,US,34,4 years,https://www.wvlegislature.gov/,2022-11-08 00:00:00+00,,,False,False
+6267,545,Georgia State Senate,GA,STATE,US,56,2 years,https://www.legis.ga.gov/senate,2022-11-08 00:00:00+00,All,,False,False
+6272,62,Washington House,WA,STATE,US,98,2 years,https://leg.wa.gov/House/Pages/default.aspx,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Washington_House_of_Representatives_elections,_2020",False,False
+6273,837,Arizona Senate,AZ,STATE,US,30,2 years,https://www.azsenate.gov/,2022-11-08 00:00:00+00,,,False,False
+6274,774,Colorado State Senate,CO,STATE,US,35,4 years,https://leg.colorado.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Colorado_State_Senate_elections,_2022",False,False
+6276,840,Rhode Island House of Representatives,RI,STATE,US,75,2 years,http://www.rilin.state.ri.us/Pages/Default.aspx,2022-11-08 00:00:00+00,,,False,False
+6277,628,Montana State Senate,MT,STATE,US,50,4 years,https://leg.mt.gov/,2022-11-08 00:00:00+00,Officials elected in 2020 will serve out term in new districts after 2022,,False,False
+6280,450,Los Angeles City Council,CA,LOCAL,US,15,4 years,https://www.lacity.org/your-government/elected-officials/city-council,2022-11-08 00:00:00+00,"As a result of Charter Amendments 1 and 2 approved by the voters in 2015, the City's municipal elections will now be held in even-numbered years and consolidated with California State elections conducted by the Los Angeles County Registrar-Recorder/County Clerk.",,False,False
+6285,444,Oregon State Senate,OR,STATE,US,30,4 years,https://www.oregonlegislature.gov/senate,2022-11-08 00:00:00+00,,https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Oregon,False,False
+6286,167,Massachusetts Senate,MA,STATE,US,40,2 years,https://malegislature.gov/People/Senate,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Massachusetts_State_Senate_elections,_2022",False,False
+6288,1002,Illinois Senate,IL,STATE,US,59,4 years,https://www.ilga.gov/senate/,2022-11-08 00:00:00+00,,,False,False
+6291,964,South Dakota State Senate,SD,STATE,US,35,2 years,http://legis.state.sd.us/,2022-11-08 00:00:00+00,All,,False,False
+6295,836,Huntington Beach City Council,CA,LOCAL,US,7,4 years,https://www.huntingtonbeachca.gov/government/elected_officials/city_council/,2022-11-08 00:00:00+00,,,False,False
+6299,39,Vermont House of Representatives,VT,STATE,US,150,2 years,https://legislature.vermont.gov/,2022-11-08 00:00:00+00,,,False,False
+6301,332,Kansas House of Representatives,KS,STATE,US,125,2 years,http://www.kslegislature.org/,2022-11-08 00:00:00+00,All,"https://ballotpedia.org/Kansas_House_of_Representatives_elections,_2020",False,False
+6302,113,Iowa State Senate,IA,STATE,US,50,4 years,https://www.legis.iowa.gov/index.aspx,2022-11-08 00:00:00+00,Even numbered district officials elected in 2020 will serve out the remainder of their term in new districts after 2022.,"https://ballotpedia.org/Iowa_State_Senate_elections,_2020",False,False
+6303,3114,Little Rock Board of Directors,AR,LOCAL,US,10,4 years,https://www.littlerock.gov/board-of-directors/meet-your-board-members/,2022-11-08 00:00:00+00,"Mayor and Board seats 1, 2, 5, 6, 7",https://www.littlerock.gov/city-administration/cityclerksoffice/board-elections/,False,False
+6304,491,Iowa House of Representatives,IA,STATE,US,100,2 years,https://www.legis.iowa.gov/legislators/house,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2022",False,False
+6307,80,Wyoming State Senate,WY,STATE,US,30,4 years,http://legisweb.state.wy.us/LSOWEB/Default.aspx,2022-11-08 00:00:00+00,Odd seats,,False,False
+6308,1012,Nevada State Senate,NV,STATE,US,21,4 years,http://www.leg.state.nv.us/Senate/,2022-11-08 00:00:00+00,"Districts 2, 8, 9, 10, 12, 13, 14, 16, 17, 20, 21","https://ballotpedia.org/Nevada_State_Senate_elections,_2020",False,False
+6309,78,Missouri Senate,MO,STATE,US,34,4 years,http://www.senate.mo.gov/,2022-11-08 00:00:00+00,All even numbered districts,,False,False
+6312,211,Oakland City Council,CA,LOCAL,US,8,4 years,https://www.oaklandca.gov/departments/oakland-city-council,2022-11-08 00:00:00+00,,,False,False
+6313,913,New Mexico House of Representatives,NM,STATE,US,70,2 years,https://www.nmlegis.gov/,2022-11-08 00:00:00+00,,,False,False
+6314,784,Wyoming House of Representatives,WY,STATE,US,60,2 years,https://www.wyoleg.gov/,2022-11-08 00:00:00+00,,,False,False
+6315,1086,El Paso City Council,TX,LOCAL,US,8,4 years,http://www.elpasotexas.gov/government.asp,2022-11-08 00:00:00+00,"1, 5, 6, 8",,False,False
+6318,3282,Richmond City Council,CA,LOCAL,US,7,4 years,http://www.ci.richmond.ca.us/2013/Government,2022-11-08 00:00:00+00,Mayor and 3 districts,https://www.ci.richmond.ca.us/1349/Elections,False,False
+6323,246,Louisville Metro Council,KY,LOCAL,US,26,4 years,http://www.louisvilleky.gov/MetroCouncil/,2022-11-08 00:00:00+00,Odd numbered districts,,False,False
+6324,303,Mesa City Council,AZ,LOCAL,US,7,4 years,http://www.cityofmesa.org/council/,2022-11-08 00:00:00+00,"Districts 4, 5, 6",,False,False
+6326,3202,Rochester City Council,MN,LOCAL,US,7,4 years,http://www.rochestermn.gov/government/city-council,2022-11-08 00:00:00+00,,https://www.rochestermn.gov/departments/city-clerk/elections,False,False
+6329,2593,Vermont Lieutenant Governor,VT,STATE,US,1,,https://ltgov.vermont.gov/,2022-11-08 00:00:00+00,,,False,False
+6330,91,Scottsdale City Council,AZ,LOCAL,US,7,4 years,http://www.scottsdaleaz.gov/council,2022-11-08 00:00:00+00,3 at-large seats,,False,False
+6332,3171,Vallejo City Council,CA,LOCAL,US,7,4 years,http://www.ci.vallejo.ca.us/city_hall/city_government/mayor___city_council,2022-11-08 00:00:00+00,"District 2, 4, 5",,False,False
+6339,2886,Richland County Council,SC,LOCAL,US,11,4 years,http://www.richlandonline.com/Government/CountyCouncil.aspx,2022-11-08 00:00:00+00,,http://www.richlandcountysc.gov/Government/County-Council,False,False
+6340,859,Bakersfield City Council,CA,LOCAL,US,7,4 years,http://www.bakersfieldcity.us/gov/elected_officials/city_council.htm,2022-11-08 00:00:00+00,"Districts 1, 3, 4",,False,False
+6347,2851,Cole County Commission,MO,LOCAL,US,3,4 years,http://www.colecounty.org/324/County-Commission,2022-11-08 00:00:00+00,,,False,False
+6348,1082,Illinois House of Representatives,IL,STATE,US,118,2 years,http://www.ilga.gov/house/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2022",False,False
+6349,5588,Napa County Board of Supervisors,CA,LOCAL,US,5,4 years,https://www.countyofnapa.org/2116/Board-of-Supervisors,2022-11-08 00:00:00+00,1 & 3,,False,False
+6351,2848,Greene County Commission,MO,LOCAL,US,3,4 years,https://greenecountymo.gov/commission/,2022-11-08 00:00:00+00,,,False,False
+6352,762,Washington State Senate,WA,STATE,US,49,4 years,https://leg.wa.gov/Senate/Pages/default.aspx,2022-11-08 00:00:00+00,"Districts: 6, 7, 8, 13, 15, 21, 26, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 42, 43, 44, 45, 46, 47, 48",,False,False
+6355,2845,St. Charles County Council,MO,LOCAL,US,7,4 years,http://www.sccmo.org/286/County-Council,2022-11-08 00:00:00+00,,https://www.sccmo.org/410/Election-Authority,False,False
+6360,223,Minnesota State Senate,MN,STATE,US,67,4 years,https://www.senate.mn/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Minnesota_State_Senate_elections,_2022",False,False
+6361,3144,Salem City Council,OR,LOCAL,US,9,4 years (2 years for mayor),http://www.cityofsalem.net/city-council,2022-11-08 00:00:00+00,Mayor + even districts,,False,False
+6362,228,Modesto City Council,CA,LOCAL,US,7,4 years,http://www.modestogov.com/659/City-Council,2022-11-08 00:00:00+00,,,False,False
+6366,50,Rhode Island Senate,RI,STATE,US,38,2 years,http://www.rilin.state.ri.us/Pages/Default.aspx,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Rhode_Island_State_Senate_elections,_2022",False,False
+6371,309,Oregon House of Representatives,OR,STATE,US,60,2 years,https://www.oregonlegislature.gov/house,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Oregon_House_of_Representatives_elections,_2022",False,False
+6372,581,Connecticut Senate,CT,STATE,US,36,2 years,https://www.cga.ct.gov/asp/menu/Senate.asp,2022-11-08 00:00:00+00,,,False,False
+6373,1101,Connecticut House of Representatives,CT,STATE,US,151,2 years,https://www.cga.ct.gov/asp/menu/house.asp,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2022",False,False
+6374,942,Montana House of Representatives,MT,STATE,US,100,2 years,https://leg.mt.gov/legislator-information/,2022-11-08 00:00:00+00,All,,False,False
+6381,867,South Dakota House of Representatives,SD,STATE,US,70,2 years,https://sdlegislature.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/South_Dakota_House_of_Representatives_elections,_2022",False,False
+6390,1011,Arkansas Senate,AR,STATE,US,35,4 years,https://senate.arkansas.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Arkansas_State_Senate_elections,_2022",False,False
+6391,3241,Visalia City Council,CA,LOCAL,US,5,4 years,https://www.visalia.city/government/city_council/default.asp,2022-11-08 00:00:00+00,"Districts 3,4,5",,False,False
+6393,926,Vermont Senate,VT,STATE,US,30,2 years,https://legislature.vermont.gov/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Vermont_State_Senate_elections,_2022",False,False
+6394,569,Arkansas House of Representatives,AR,STATE,US,100,2 years,https://www.arkansashouse.org/,2022-11-08 00:00:00+00,,"https://ballotpedia.org/Arkansas_House_of_Representatives_elections,_2022",False,False
+6399,1028,Oklahoma Senate,OK,STATE,US,48,4 years,http://www.oksenate.gov/,2022-11-08 00:00:00+00,even numbered seats,"https://ballotpedia.org/Oklahoma_State_Senate_elections,_2022",False,False
+6400,842,Maryland State Senate,MD,STATE,US,47,4 years,https://mgaleg.maryland.gov/mgawebsite/,2022-11-08 00:00:00+00,,,False,False
+6401,681,Nevada State Assembly,NV,STATE,US,42,2 years,https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current,2022-11-08 00:00:00+00,,,False,False
+6404,3327,Davie Town Council,FL,LOCAL,US,5,4 years,https://www.davie-fl.gov/151/Mayor-Town-Council,2022-11-08 00:00:00+00,All,,False,False
+6406,364,Washington DC City Council,DC,LOCAL,US,13,4 years,http://dccouncil.us/councilmembers/,2022-11-08 00:00:00+00,"Mayor, At Large, and districts 1, 3, 5, and 6",,False,False
+6410,405,Laredo City Council,TX,LOCAL,US,8,4 years,http://www.cityoflaredo.com/government.html,2022-11-08 00:00:00+00,,http://www.webbcountytx.gov/electionsadministration/,False,False
+6411,3862,Laredo Mayor,TX,LOCAL,US,1,4 years,http://www.cityoflaredo.com/mayor-council/N_MCmSites/Mayor/index.html,2022-11-08 00:00:00+00,,http://www.webbcountytx.gov/electionsadministration/,False,False
+6413,5763,Vacaville City Council,CA,LOCAL,US,7,4 years,https://www.ci.vacaville.ca.us/residents/city-council/2018-19-vacaville-city-council,2022-11-08 00:00:00+00,"Districts 2, 4, 6",https://www.ci.vacaville.ca.us/government/city-clerk,False,False
+6417,3179,El Monte City Council,CA,LOCAL,US,5,4 years (2 years for mayor),http://www.ci.el-monte.ca.us/Government/ElectedOfficials/CityCouncil.aspx,2022-11-08 00:00:00+00,,"https://ballotpedia.org/El_Monte,_California",False,False
+6421,268,South Dakota Governor,SD,STATE,US,1,4 years,http://sd.gov/governor/,2022-11-08 00:00:00+00,,,False,False
+6423,2560,Colorado Lieutenant Governor,CO,STATE,US,1,,https://www.colorado.gov/ltgovernor,2022-11-08 00:00:00+00,,,False,False
+6424,46,Colorado Governor,CO,STATE,US,1,4 years,http://www.colorado.gov/governor/,2022-11-08 00:00:00+00,,,False,False
+6426,227,Connecticut Governor,CT,STATE,US,1,4 years,http://www.governor.ct.gov/malloy/site/default.asp,2022-11-08 00:00:00+00,,,False,False
+6427,111,Hawaii Governor,HI,STATE,US,1,4 years,http://hawaii.gov/gov/,2022-11-08 00:00:00+00,,,False,False
+6429,3070,Corpus Christi City Council,TX,LOCAL,US,9,2 years,https://www.cctexas.com/departments/mayor-and-city-council,2022-11-08 00:00:00+00,,,False,False
+6431,388,Delaware House of Representatives,DE,STATE,US,41,2 years,https://legis.delaware.gov/Chambers/House/AssemblyMembers,2022-11-08 00:00:00+00,,,False,False
+6437,2881,Prince Georges County Council,MD,LOCAL,US,11,4 years,https://pgccouncil.us/27/The-Council,2022-11-08 00:00:00+00,,,False,False
+6440,2572,Massachusetts Lieutenant Governor,MA,STATE,US,1,4 years,,2022-11-08 00:00:00+00,,,False,False
+6443,2880,Prince Georges County Executive,MD,LOCAL,US,1,4 years,https://www.princegeorgescountymd.gov/767/County-Executive,2022-11-08 00:00:00+00,,,False,False
+6447,3798,Menlo Park City Council,CA,LOCAL,US,5,4 years,https://www.menlopark.org/455/City-Council,2022-11-08 00:00:00+00,"District 1, 2, and 4",https://www.menlopark.org/744/Elections,False,False
+6449,683,Honolulu City Council,HI,LOCAL,US,9,4 years,https://www.honolulu.gov/council/,2022-11-08 00:00:00+00,,,False,False
+6459,322,Florida Governor,FL,STATE,US,1,4 years,http://www.flgov.com/,2022-11-08 00:00:00+00,,https://dos.myflorida.com/elections/,False,False
+6460,234,Texas Governor,TX,STATE,US,1,4 years,http://www.governor.state.tx.us/,2022-11-08 00:00:00+00,,,False,False
+6461,2590,Texas Lieutenant Governor,TX,STATE,US,1,,https://www.ltgov.state.tx.us/,2022-11-08 00:00:00+00,,,False,False
+6462,697,Nebraska Governor,NE,STATE,US,1,4 years,http://www.governor.nebraska.gov/,2022-11-08 00:00:00+00,,,False,False
+6463,2685,Nebraska Lieutenant Governor,NE,STATE,US,1,4 years,http://www.ltgov.nebraska.gov/,2022-11-08 00:00:00+00,,,False,False
+6465,379,Minnesota Governor,MN,STATE,US,1,4 years,http://mn.gov/governor/,2022-11-08 00:00:00+00,,,False,False
+6466,2575,Minnesota Lieutenant Governor,MN,STATE,US,1,,,2022-11-08 00:00:00+00,,,False,False
+6470,2595,Wisconsin Lieutenant Governor,WI,STATE,US,1,,https://evers.wi.gov/ltgov/Pages/default.aspx,2022-11-08 00:00:00+00,,,False,False
+6471,382,Wisconsin Governor,WI,STATE,US,1,4 years,http://www.wisgov.state.wi.us/Home,2022-11-08 00:00:00+00,,,False,False
+6475,131,Wyoming Governor,WY,STATE,US,1,4 years,http://governor.wy.gov/Pages/default.aspx,2022-11-08 00:00:00+00,,https://soswy.state.wy.us/elections/,False,False
+6477,550,Massachusetts Governor,MA,STATE,US,1,4 years,http://www.mass.gov/governor/,2022-11-08 00:00:00+00,,,False,False
+6478,2559,California Lieutenant Governor,CA,STATE,US,1,,https://ltg.ca.gov/,2022-11-08 00:00:00+00,,,False,False
+6479,21,Iowa Governor,IA,STATE,US,1,4 years,https://governor.iowa.gov/,2022-11-08 00:00:00+00,,,False,False
+6480,344,Tennessee Governor,TN,STATE,US,1,4 years,http://www.tn.gov/governor/,2022-11-08 00:00:00+00,,,False,False
+6482,184,Kansas Governor,KS,STATE,US,1,4 years,https://governor.kansas.gov/,2022-11-08 00:00:00+00,,,False,False
+6483,186,Maine Governor,ME,STATE,US,1,4 years,https://www.maine.gov/governor/,2022-11-08 00:00:00+00,,,False,False
+6484,864,Illinois Governor,IL,STATE,US,1,4 years,http://www2.illinois.gov/gov/Pages/default.aspx,2022-11-08 00:00:00+00,,,False,False
+6487,451,Rhode Island Governor,RI,STATE,US,1,4 years,http://www.governor.ri.gov/,2022-11-08 00:00:00+00,,,False,False
+5129,5125,Richmond Hill Mayor,ON,LOCAL,CA,1,4 years,https://www.richmondhill.ca/en/our-services/Mayor-of-Richmond-Hill.aspx,2022-10-31 00:00:00+00,,,False,False
+5138,5134,Ajax Mayor,ON,LOCAL,CA,1,4 years,https://www.ajax.ca/en/inside-townhall/council-members.aspx#Mayor-Shaun-Collier,2022-10-31 00:00:00+00,,,False,False
+5208,5130,Kingston Mayor,ON,LOCAL,CA,1,4 years,https://www.cityofkingston.ca/city-hall/mayor-and-council/mayor,2022-10-31 00:00:00+00,,,False,False
+5221,5135,Ajax Town Council,ON,LOCAL,CA,6,4 years,https://www.ajax.ca/en/inside-townhall/council-members.aspx,2022-10-31 00:00:00+00,,,False,False
+5231,5126,Richmond Hill Town Council,ON,LOCAL,CA,8,4 years,https://www.richmondhill.ca/en/our-services/Mayor-and-Council.aspx,2022-10-31 00:00:00+00,,,False,False
+5419,5131,Kingston City Council,ON,LOCAL,CA,12,4 years,https://www.cityofkingston.ca/city-hall/city-council,2022-10-31 00:00:00+00,,,False,False
+4925,707,Mayor of Winnepeg,MB,LOCAL,CA,1,4 years,https://www.winnipeg.ca/interhom/mayor/default.asp,2022-10-26 00:00:00+00,Mayor plus 15 councillors,,False,False
+4926,744,Winnipeg City Council,MB,LOCAL,CA,15,4 years,http://www.winnipeg.ca/council/,2022-10-26 00:00:00+00,Mayor plus 15 councillors,,False,False
+4923,4859,London City Council,ON,LOCAL,CA,14,4 years,https://www.london.ca/city-hall/city-council/pages/default.aspx,2022-10-25 00:00:00+00,Mayor plus 14 councillors,,False,False
+5791,4860,London Mayor,ON,LOCAL,CA,1,4 years,https://london.ca/government/council-civic-administration,2022-10-25 00:00:00+00,Mayor plus 14 councillors,,False,False
+4868,305,Mayor of Windsor,ON,LOCAL,CA,1,4 years,https://www.citywindsor.ca/mayorandcouncil/Pages/Mayor-and-City-Council.aspx,2022-10-24 00:00:00+00,Mayor and City Council,https://www.citywindsor.ca/cityhall/municipal-election/pages/municipal-election.aspx,False,False
+4869,1092,Windsor City Council,ON,LOCAL,CA,10,4 years,https://www.citywindsor.ca/mayorandcouncil/City-Councillors/Pages/City-Councillors.aspx,2022-10-24 00:00:00+00,Mayor and City Council,https://www.citywindsor.ca/cityhall/municipal-election/pages/municipal-election.aspx,False,False
+4874,4872,Kitchener City Council,ON,LOCAL,CA,10,4 years,https://www.kitchener.ca/en/city-services/city-council.aspx?_mid_=9894,2022-10-24 00:00:00+00,Mayor and City Council,https://www.kitchener.ca/en/city-services/election.aspx,False,False
+4875,4873,Kitchener Mayor,ON,LOCAL,CA,1,4 years,https://www.kitchener.ca/en/city-services/mayor.aspx,2022-10-24 00:00:00+00,Mayor and City Council,https://www.kitchener.ca/en/city-services/election.aspx,False,False
+4889,4830,Mississauga Mayor,ON,LOCAL,CA,1,4 years,http://www.mississauga.ca/portal/cityhall/mayorsoffice,2022-10-24 00:00:00+00,Mayor plus 11 councillors,,False,False
+4890,4829,Mississauga City Council,ON,LOCAL,CA,11,4 years,http://www.mississauga.ca/portal/cityhall/mayorandcouncil,2022-10-24 00:00:00+00,Mayor plus 11 councillors,,False,False
+4897,4836,Brampton Mayor,ON,LOCAL,CA,1,4 years,http://www.brampton.ca/EN/City-Hall/Mayor-Office/Pages/Welcome.aspx,2022-10-24 00:00:00+00,"Mayor + 10 councillors (6 regional, 4 city)",,False,False
+4927,4837,Brampton City Council,ON,LOCAL,CA,10,4 years,http://www.brampton.ca/en/City-Hall/CouncilOffice/Pages/Welcome.aspx,2022-10-24 00:00:00+00,"Mayor + 10 councillors (6 regional, 4 city)",,False,False
+4928,4840,Hamilton Mayor,ON,LOCAL,CA,1,4 years,https://www.hamilton.ca/council-committee/mayor-council/mayors-office-mayor-fred-eisenberger,2022-10-24 00:00:00+00,Mayor + 15 city councillors,,False,False
+4929,4841,Hamilton City Council,ON,LOCAL,CA,15,4 years,https://www.hamilton.ca/council-committee/mayor-council/city-councillors,2022-10-24 00:00:00+00,Mayor + 15 city councillors,,False,False
+4937,4883,Markham Mayor,ON,LOCAL,CA,1,4 years,,2022-10-24 00:00:00+00,"Mayor, 4 regional councillors and 8 ward councillors",,False,False
+4939,4888,Vaughan Mayor,ON,LOCAL,CA,1,4 years,http://www.city.vaughan.on.ca/vaughan/council/index.cfm,2022-10-24 00:00:00+00,Mayor plus 3 at-large councillors and 5 district councillors,,False,False
+4973,4884,Markham City Council,ON,LOCAL,CA,12,4 years,https://www.markham.ca/wps/portal/home/about/city-hall/regional-ward-councillors/02-regional-ward-councillors,2022-10-24 00:00:00+00,"Mayor, 4 regional councillors and 8 ward councillors",,False,False
+4975,712,Vaughan City Council,ON,LOCAL,CA,8,4 years,https://www.vaughan.ca/council/Pages/default.aspx,2022-10-24 00:00:00+00,Mayor plus 3 at-large councillors and 5 district councillors,,False,False
+5046,5044,Burlington Mayor,ON,LOCAL,CA,1,4 years,https://www.burlington.ca/en/services-for-you/Council-Members-and-Wards.asp,2022-10-24 00:00:00+00,Mayor plus 6 councillors,,False,False
+5047,5045,Burlington City Council,ON,LOCAL,CA,6,4 years,https://www.burlington.ca/en/services-for-you/Council-Members-and-Wards.asp,2022-10-24 00:00:00+00,Mayor plus 6 councillors,,False,False
+5050,5048,Greater Sudbury Mayor,ON,LOCAL,CA,1,4 years,https://www.greatersudbury.ca/city-hall/mayor-and-council/,2022-10-24 00:00:00+00,Mayor plus 12 councillors,,False,False
+5054,5049,Greater Sudbury City Council,ON,LOCAL,CA,12,4 years,https://www.greatersudbury.ca/city-hall/mayor-and-council/,2022-10-24 00:00:00+00,Mayor plus 12 councillors,,False,False
+5055,5053,Oshawa City Council,ON,LOCAL,CA,10,4 years,https://www.oshawa.ca/city-hall/city-council.asp,2022-10-24 00:00:00+00,Mayor plus 10 councillors,,False,False
+5056,5052,Oshawa Mayor,ON,LOCAL,CA,1,4 years,https://www.oshawa.ca/city-hall/city-council.asp,2022-10-24 00:00:00+00,Mayor plus 10 councillors,,False,False
+5059,5057,Barrie Mayor,ON,LOCAL,CA,1,4 years,https://www.barrie.ca/City%20Hall/MayorCouncil/Pages/default.aspx,2022-10-24 00:00:00+00,Mayor plus 10 councillors,,False,False
+5072,5069,St. Catharines Mayor,ON,LOCAL,CA,1,4 years,https://www.stcatharines.ca/en/governin/MayorCouncil.asp,2022-10-24 00:00:00+00,Mayor plus 12 councillors (2 councillors represent each ward),,False,False
+5073,5070,St. Catharines City Council,ON,LOCAL,CA,12,4 years,https://www.stcatharines.ca/en/governin/MayorCouncil.asp,2022-10-24 00:00:00+00,Mayor plus 12 councillors (2 councillors represent each ward),,False,False
+5076,5074,Guelph Mayor,ON,LOCAL,CA,1,4 years,https://guelph.ca/city-hall/mayor-and-council/,2022-10-24 00:00:00+00,All seats,,False,False
+5077,5075,Guelph City Council,ON,LOCAL,CA,12,4 years,https://guelph.ca/city-hall/mayor-and-council/,2022-10-24 00:00:00+00,All seats,,False,False
+5081,5078,Cambridge Mayor,ON,LOCAL,CA,1,4 years,https://www.cambridge.ca/en/your-city/City-Council-Members.aspx,2022-10-24 00:00:00+00,All seats,,False,False
+5095,5040,Oakville Mayor,ON,LOCAL,CA,1,4 years,https://www.oakville.ca/townhall/council.html,2022-10-24 00:00:00+00,Mayor plus 14 councillors,,False,False
+5097,5041,Oakville Town Council,ON,LOCAL,CA,14,4 years,https://www.oakville.ca/townhall/council.html,2022-10-24 00:00:00+00,Mayor plus 14 councillors,,False,False
+5100,5058,Barrie City Council,ON,LOCAL,CA,10,4 years,https://www.barrie.ca/City%20Hall/MayorCouncil/Pages/default.aspx,2022-10-24 00:00:00+00,Mayor plus 10 councillors,,False,False
+5101,5083,Whitby Mayor,ON,LOCAL,CA,1,4 years,https://www.whitby.ca/en/townhall/mayorandcouncil.asp,2022-10-24 00:00:00+00,All councillors up for election,,False,False
+5103,5082,Whitby Town Council,ON,LOCAL,CA,8,4 years,https://www.whitby.ca/en/townhall/mayorandcouncil.asp,2022-10-24 00:00:00+00,All councillors up for election,,False,False
+5156,5079,Cambridge City Council,ON,LOCAL,CA,8,4 years,https://www.cambridge.ca/en/your-city/City-Council-Members.aspx,2022-10-24 00:00:00+00,All seats,,False,False
+5181,5181,Thunder Bay Mayor,ON,LOCAL,CA,1,4 years,https://www.thunderbay.ca/en/city-hall/city-council-thunder-bay.aspx,2022-10-24 00:00:00+00,,,False,False
+5229,4825,Thunder Bay City Council,ON,LOCAL,CA,12,4 years,https://www.thunderbay.ca/en/city-hall/city-council-thunder-bay.aspx,2022-10-24 00:00:00+00,,,False,False
+5639,807,Toronto City Council,ON,LOCAL,CA,25,,https://www.toronto.ca/city-government/council/,2022-10-24 00:00:00+00,All,,False,False
+6053,60,Toronto Mayor,ON,LOCAL,CA,1,4 years,https://www.toronto.ca/city-government/council/office-of-the-mayor/,2022-10-24 00:00:00+00,All,,False,False
+4962,4909,Burnaby Mayor,BC,LOCAL,CA,1,,https://www.burnaby.ca/Our-City-Hall/Mayor---Council.html,2022-10-15 00:00:00+00,Mayor and City Council,https://www.burnaby.ca/our-city-hall/elections.html,False,False
+4963,4908,Burnaby City Council,BC,LOCAL,CA,8,4 years,https://www.burnaby.ca/Our-City-Hall/Mayor---Council.html,2022-10-15 00:00:00+00,Mayor and City Council,https://www.burnaby.ca/our-city-hall/elections.html,False,False
+5038,5035,Richmond City Council,BC,LOCAL,CA,8,4 years,https://www.richmond.ca/cityhall/council.htm,2022-10-15 00:00:00+00,Mayor plus 8 councillors,,False,False
+5039,5034,Richmond Mayor,BC,LOCAL,CA,1,4 years,https://www.richmond.ca/cityhall/council.htm,2022-10-15 00:00:00+00,Mayor plus 8 councillors,,False,False
+5063,5061,Abbotsford Mayor,BC,LOCAL,CA,1,4 years,https://www.abbotsford.ca/city_hall/mayor_and_council/city_council.htm,2022-10-15 00:00:00+00,Mayor plus 8 councillors,,False,False
+5064,5062,Abbotsford City Council,BC,LOCAL,CA,8,4 years,https://www.abbotsford.ca/city_hall/mayor_and_council/city_council.htm,2022-10-15 00:00:00+00,Mayor plus 8 councillors,,False,False
+5067,5066,Coquitlam City Council,BC,LOCAL,CA,8,4 years,https://www.coquitlam.ca/city-hall/mayor-and-council/Mayor-and-Council.aspx,2022-10-15 00:00:00+00,Mayor plus 8 councillors at large,,False,False
+5068,5065,Coquitlam Mayor,BC,LOCAL,CA,1,4 years,https://www.coquitlam.ca/city-hall/mayor-and-council/Mayor-and-Council.aspx,2022-10-15 00:00:00+00,Mayor plus 8 councillors at large,,False,False
+5104,5089,Kelowna City Council,BC,LOCAL,CA,8,4 years,https://www.kelowna.ca/city-hall/council/mayor-council-biographies,2022-10-15 00:00:00+00,All,,False,False
+5122,5088,Kelowna Mayor,BC,LOCAL,CA,1,4 years,https://www.kelowna.ca/city-hall/council/mayor-council-biographies,2022-10-15 00:00:00+00,All,,False,False
+5148,5139,Langley Mayor,BC,LOCAL,CA,1,4 years,https://www.tol.ca/your-township/mayor-and-council/mayor-jack-froese/,2022-10-15 00:00:00+00,,,False,False
+5183,5149,Saanich Mayor,BC,LOCAL,CA,1,4 years,https://www.saanich.ca/EN/main/local-government/mayor-council/meet-your-council/fred-haynes.html,2022-10-15 00:00:00+00,,,False,False
+5206,5150,Saanich District Council,BC,LOCAL,CA,8,4 years,https://www.saanich.ca/EN/main/local-government/mayor-council/meet-your-council.html,2022-10-15 00:00:00+00,,,False,False
+5207,5140,Langley Township Council,BC,LOCAL,CA,8,4 years,https://www.tol.ca/your-township/mayor-and-council/,2022-10-15 00:00:00+00,,,False,False
+5611,22,Mayor of Vancouver,BC,LOCAL,CA,1,4 years,https://vancouver.ca/default.aspx,2022-10-15 00:00:00+00,All,,False,False
+5735,4849,Surrey City Council,BC,LOCAL,CA,8,4 years,https://www.surrey.ca/city-government/mayor-council,2022-10-15 00:00:00+00,Mayor + 9 councillors,,False,False
+5736,4848,Surrey City Mayor,BC,LOCAL,CA,1,4 years,https://www.surrey.ca/city-government/mayor-council,2022-10-15 00:00:00+00,Mayor + 9 councillors,,False,False
+6453,777,Vancouver City Council,BC,LOCAL,CA,10,4 years,https://vancouver.ca/default.aspx,2022-10-15 00:00:00+00,All,,False,False
+5392,512,Quebec National Assembly,QC,STATE,CA,125,5 years,http://www.assnat.qc.ca/en/index.html,2022-10-03 00:00:00+00,All,,False,False
+5937,749,Australia House of Representatives,,NATIONAL,AS,151,,https://www.aph.gov.au/house/,2022-09-03 00:00:00+00,151 seats,,False,False
+6321,596,Tulsa City Council,OK,LOCAL,US,9,2 years,http://www.tulsacouncil.org/,2022-08-30 00:00:00+00,,,False,False
+6335,3080,Chandler City Council,AZ,LOCAL,US,7,4 years,http://www.chandleraz.gov/default.aspx?pageid=245,2022-08-29 00:00:00+00,4 council seats (includes mayoral seat),https://recorder.maricopa.gov/electionresults/citiestowns.aspx,False,False
+4980,2866,Tallahassee City Commission,FL,LOCAL,US,4,4 years,https://talgov.com/cityleadership/CityLeadership.aspx,2022-08-23 00:00:00+00,Mayor plus 2 at large commission seats,,False,False
+5330,2865,Tallahassee Mayor,FL,LOCAL,US,1,4 years,https://www.talgov.com/cityleadership/CityLeadership.aspx,2022-08-23 00:00:00+00,Mayor plus 2 at large commission seats,,False,False
+5688,3164,Murfreesboro City Council,TN,LOCAL,US,7,4 years,http://www.murfreesborotn.gov/424/City-Council,2022-08-04 00:00:00+00,4 seats.,,False,False
+5878,3120,Huntsville City Council,AL,LOCAL,US,5,4 years,https://www.huntsvilleal.gov/government/city-council/,2022-08-02 00:00:00+00,"Districts 2, 3, 4",https://www.huntsvilleal.gov/government/city-council/city-council-us/,False,False
+2225,26,Governor of Durango,DUR,STATE,MX,1,6 years,http://www.durango.gob.mx/es/gobernador,2022-07-03 00:00:00+00,,,False,False
+6376,3175,Fargo City Commission,ND,LOCAL,US,5,4 years,https://fargond.gov/city-government/departments/city-commission,2022-06-14 00:00:00+00,mayor + 2 commissioners,,False,False
+4235,561,Nova Scotia House of Assembly,NS,STATE,CA,51,,http://nslegislature.ca/,2022-06-09 00:00:00+00,Assembly will expire on 9 June 2022. Election date is open.,https://en.wikipedia.org/wiki/Next_Nova_Scotia_general_election,False,False
+2233,351,Governor of Hidalgo,HID,STATE,MX,1,6 years,http://www.hidalgo.gob.mx/gobierno/gobernador.html,2022-06-05 00:00:00+00,All,,False,False
+2239,1068,Governor of Oaxaca,OAX,STATE,MX,1,6 years,,2022-06-05 00:00:00+00,All,,False,False
+2242,213,Governor of Quintana Roo,ROO,STATE,MX,1,6 years,http://www.qroo.gob.mx/qroo/Gobierno/Gobernador.php,2022-06-05 00:00:00+00,All,,False,False
+2244,570,Governor of Sinaloa,SIN,STATE,MX,1,6 years,http://www.sinaloa.gob.mx/gobierno/gobernador-del-estado,2022-06-05 00:00:00+00,All,,False,False
+2786,447,Governor of Aguascalientes,AGU,STATE,MX,1,6 years,http://www.aguascalientes.gob.mx/gobierno/gobernador.aspx,2022-06-05 00:00:00+00,All,,False,False
+5167,5165,Waterloo Mayor,ON,LOCAL,CA,1,4 years,https://www.waterloo.ca/en/government/city-council.aspx?_mid_=775#Mayor-Dave-Jaworsky,2022-06-02 00:00:00+00,,,False,False
+5175,5172,Chatham-Kent Mayor,ON,LOCAL,CA,1,4 years,https://www.chatham-kent.ca/local-government/mayors-office,2022-06-02 00:00:00+00,,,False,False
+5198,5173,Chatham-Kent Municipal Council,ON,LOCAL,CA,17,4 years,https://www.chatham-kent.ca/local-government/council/council-members,2022-06-02 00:00:00+00,,,False,False
+5202,5164,Waterloo City Council,ON,LOCAL,CA,7,4 years,https://www.waterloo.ca/en/government/city-council.aspx?_mid_=775,2022-06-02 00:00:00+00,,,False,False
+5607,5154,Milton Mayor,ON,LOCAL,CA,1,4 years,https://www.milton.ca/en/town-hall/mayor-and-council.aspx,2022-06-02 00:00:00+00,,,False,False
+5608,5155,Milton Town Council,ON,LOCAL,CA,8,4 years,https://www.milton.ca/en/town-hall/mayor-and-council.aspx,2022-06-02 00:00:00+00,,,False,False
+5828,637,Legislative Assembly of Ontario,ON,STATE,CA,124,4 years,https://www.ola.org/en/node/3771,2022-06-01 00:00:00+00,,,False,False
+4621,3168,Mayor of Athens-Clarke County,GA,LOCAL,US,1,4 years,https://www.athensclarkecounty.com/315/Mayor,2022-05-24 00:00:00+00,mayor + odd districts,,False,False
+4743,2869,Columbus Mayor,GA,LOCAL,US,1,4 years,http://www.columbusga.org/mayor/,2022-05-24 00:00:00+00,Mayor and odd district seats,,False,False
+5657,2870,Columbus City Council,GA,LOCAL,US,10,4 years,http://www.columbusga.org/council/council.htm,2022-05-24 00:00:00+00,Mayor and odd district seats,,False,False
+6336,3167,Commission of Athens-Clarke County,GA,LOCAL,US,10,4 years,https://www.athensclarkecounty.com/168/Commission-Information-Biographies,2022-05-24 00:00:00+00,mayor + odd districts,,False,False
+5217,895,Australia Senate,,NATIONAL,AS,76,,https://www.aph.gov.au/about_parliament/senate,2022-05-21 00:00:00+00,On or before 21 May 2022 (half-Senate),,False,False
+6334,3276,Eugene City Council,OR,LOCAL,US,8,4 years,https://www.eugene-or.gov/537/Mayor-and-City-Council,2022-05-17 00:00:00+00,"District 3, 4, 5, 6",,False,False
+4563,3071,Newark Mayor,NJ,LOCAL,US,1,4 years,https://www.newarknj.gov/city-mayor,2022-05-10 00:00:00+00,Mayor and all seats,http://www.essexclerk.com/Election/,False,False
+4564,3072,Newark City Council,NJ,LOCAL,US,9,4 years,https://www.newarknj.gov/council-members,2022-05-10 00:00:00+00,Mayor and all seats,http://www.essexclerk.com/Election/,False,False
+5311,949,Paterson Mayor,NJ,LOCAL,US,1,4 years,https://www.patersonnj.gov/department/index.php?structureid=2,2022-05-10 00:00:00+00,at large council seats and Mayor,,False,False
+5647,3133,Tempe City Council,AZ,LOCAL,US,7,4 years,https://www.tempe.gov/government/mayor-and-city-council,2022-05-10 00:00:00+00,3 councilmembers,https://www.tempe.gov/government/city-clerk-s-office/election-information,False,False
+6178,881,Paterson City Council,NJ,LOCAL,US,9,4 years,https://www.patersonnj.gov/council/,2022-05-10 00:00:00+00,at large council seats and Mayor,,False,False
+6172,366,Lubbock City Council,TX,LOCAL,US,7,"2 years (Mayor), 4 years (Council)",https://ci.lubbock.tx.us/pages/city-government/city-council,2022-05-07 00:00:00+00,"Districts 1, 3, 5",,False,False
+4234,2543,Oregon Metro Council President,OR,LOCAL,US,1,4 years,http://www.oregonmetro.gov/regional-leadership/metro-council,2022-05-03 00:00:00+00,"District 1, 2, and 4.",,False,False
+4569,3128,Newport News City Council,VA,LOCAL,US,7,4 years,https://www.nnva.gov/465/Elected-Officials,2022-05-03 00:00:00+00,"Mayor, 1B, 2B, 3B",,False,False
+4779,847,Oregon Metro Council,OR,LOCAL,US,6,4 years,http://www.oregonmetro.gov/index.cfm/go/by.web/id=28,2022-05-03 00:00:00+00,"District 1, 2, and 4.",,False,False
+5661,2894,Fairfax Mayor,VA,LOCAL,US,1,2 years,https://www.fairfaxva.gov/government/mayor-city-council,2022-05-03 00:00:00+00,All positions,,False,False
+5662,2895,Fairfax City Council,VA,LOCAL,US,6,2 years,https://www.fairfaxva.gov/government/mayor-city-council,2022-05-03 00:00:00+00,All positions,,False,False
+5696,3254,Hampton City Council,VA,LOCAL,US,7,4 years,https://hampton.gov/222/City-Council,2022-05-03 00:00:00+00,3 councilmembers,,False,False
+6364,3097,Chesapeake City Council,VA,LOCAL,US,9,4 years,http://www.cityofchesapeake.net/government/council.htm,2022-05-03 00:00:00+00,5 seats,,False,False
+6389,3086,Norfolk City Council,VA,LOCAL,US,8,4 years,http://www.norfolk.gov/Index.aspx?NID=200,2022-05-03 00:00:00+00,Superwards 1-5,,False,False
+5405,538,Sioux Falls Mayor,SD,LOCAL,US,1,4 years,https://www.siouxfalls.org/mayor,2022-04-12 00:00:00+00,"Mayor, At-Large Council Member “A,” At-Large Council Member “B,” Southeast (SE) District Council Member, and Central (CE) District Council Member",,False,False
+5675,370,Sioux Falls City Council,SD,LOCAL,US,8,4 years,https://www.siouxfalls.org/council/,2022-04-12 00:00:00+00,"Mayor, At-Large Council Member “A,” At-Large Council Member “B,” Southeast (SE) District Council Member, and Central (CE) District Council Member",,False,False
+6238,3148,Lancaster City Council,CA,LOCAL,US,5,4 years,https://www.cityoflancasterca.org/about-us/city-government/city-officials/city-council,2022-04-12 00:00:00+00,,,False,False
+4573,956,Oklahoma City Mayor,OK,LOCAL,US,1,4 years,http://www.okc.gov/council/,2022-04-05 00:00:00+00,"If one candidate wins a majority of all votes in the primary, there is no general election",,False,False
+5609,599,Anchorage Assembly,AK,LOCAL,US,11,3 years,http://www.muni.org/departments/assembly/pages/default.aspx,2022-04-05 00:00:00+00,One seat each in districts 2-6.,,False,False
+5628,3306,Green Bay Common Council,WI,LOCAL,US,12,2 years,https://greenbaywi.gov/617/Common-Council,2022-04-05 00:00:00+00,All 12 seats.,,False,False
+6387,3177,Independence City Council,MO,LOCAL,US,7,4 years,https://www.ci.independence.mo.us/CityCouncil,2022-04-05 00:00:00+00,mayor and 2 at-large councilmembers,,False,False
+5490,869,South Australian Legislative Council,SA,STATE,AS,22,8 years,https://www.parliament.sa.gov.au/en/Legislative-Council/Members,2022-03-19 00:00:00+00,"All members of House of Assembly, half the seats in Legislative Council","https://en.wikipedia.org/wiki/South_Australian_state_election,_2022",False,False
+6174,714,South Australian House of Assembly,SA,STATE,AS,47,,https://www.parliament.sa.gov.au/,2022-03-19 00:00:00+00,"All members of House of Assembly, half the seats in Legislative Council","https://en.wikipedia.org/wiki/South_Australian_state_election,_2022",False,False
+3663,3196,Clearwater City Council,FL,LOCAL,US,5,4 years,http://www.myclearwater.com/government/city-departments/city-council-and-mayor,2022-03-08 00:00:00+00,,,False,False
+3794,3143,Pembroke Pines City Commission,FL,LOCAL,US,5,4 years,http://www.ppines.com/index.aspx?NID=156,2022-03-08 00:00:00+00,Districts 1 and 4,,False,False
+5614,2864,West Palm Beach City Commission,FL,LOCAL,US,5,2 years,https://www.wpb.org/government/city-commission,2022-03-08 00:00:00+00,Districts 1 and 5,,False,False
+6121,1048,Los Angeles County Board of Supervisors,CA,LOCAL,US,5,4 years,http://bos.lacounty.gov,2022-03-08 00:00:00+00,Districts 1 and 3,,False,False
+6454,3297,Norwalk City Council,CA,LOCAL,US,5,4 years,https://www.norwalk.org/city-hall/mayor-and-city-council-information-copy,2022-03-08 00:00:00+00,,,False,False
+5700,3151,Torrance City Council,CA,LOCAL,US,7,4 years,https://www.torranceca.gov/government/city-council,2022-03-01 00:00:00+00,"Mayor, Districts 1, 3, and 5",,False,False
+6072,1038,Glendale City Council,CA,LOCAL,US,5,4 years,https://www.glendaleca.gov/government/city-council,2022-03-01 00:00:00+00,2 council seats,,False,False
+6496,546,Burlington City Council,VT,LOCAL,US,12,2 years,https://www.burlingtonvt.gov/citycouncil/,2022-03-01 00:00:00+00,Districts 1-8,,False,False
+5429,2860,Naples City Council,FL,LOCAL,US,6,4 years,https://www.naplesgov.com/citycouncil,2022-02-01 00:00:00+00,,,False,False
+5677,3172,Norman City Council,OK,LOCAL,US,9,2 years (mayor 3 years),https://www.normanok.gov/your-government/city-council,2022-02-01 00:00:00+00,Even seats plus at-large seat (mayor). Runoff in April if no candidate for a given race gets more than 50% of the vote.,,False,False
+5521,576,Yukon Legislative Assembly,YT,STATE,CA,19,,https://yukonassembly.ca/,2021-12-31 00:00:00+00,"No fixed election date, likely for 2021",,False,False
+5397,1062,New Orleans Mayor,LA,LOCAL,US,1,4 years,https://nola.gov/mayor/,2021-11-20 00:00:00+00,,,False,False
+5573,302,New Orleans City Council,LA,LOCAL,US,7,4 years,https://council.nola.gov/home/,2021-11-20 00:00:00+00,,,False,False
+5015,5012,Sherbrooke Mayor,QC,LOCAL,CA,1,4 years,https://www.ville.sherbrooke.qc.ca/fr/mairie-et-vie-democratique/conseil-municipal/,2021-11-07 00:00:00+00,,,False,False
+5123,5013,Sherbrooke City Council,QC,LOCAL,CA,16,4 years,https://www.ville.sherbrooke.qc.ca/fr/mairie-et-vie-democratique/conseil-municipal/,2021-11-07 00:00:00+00,All seats.,,False,False
+5238,4852,Laval Mayor,QC,LOCAL,CA,1,4 years,https://www.laval.ca/maire-de-laval/Pages/Fr/accueil.aspx,2021-11-07 00:00:00+00,Mayor plus 21 councillors,,False,False
+5598,4851,Laval City Council,QC,LOCAL,CA,21,4 years,https://www.laval.ca/Pages/Fr/A-propos/conseillers-municipaux.aspx,2021-11-07 00:00:00+00,Mayor plus 21 councillors,,False,False
+5817,5023,Trois-Rivières City Council,QC,LOCAL,CA,14,4 years,https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal,2021-11-07 00:00:00+00,All.,,False,False
+5818,5022,Trois-Rivières Mayor,QC,LOCAL,CA,1,4 years,http://v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux,2021-11-07 00:00:00+00,,,False,False
+5820,5009,Lévis Mayor,QC,LOCAL,CA,1,4 years,https://www.ville.levis.qc.ca/la-ville/conseil-municipal/bureau-mairie/,2021-11-07 00:00:00+00,,,False,False
+5823,5010,Lévis City Council,QC,LOCAL,CA,15,4 years,https://www.ville.levis.qc.ca/la-ville/conseil-municipal/elus/,2021-11-07 00:00:00+00,All.,,False,False
+5825,4903,Longueuil Mayor,QC,LOCAL,CA,1,4 years,https://www.longueuil.quebec/fr/conseil/mairesse/biographie,2021-11-07 00:00:00+00,Mayor and City Council,https://www.longueuil.quebec/fr/election-municipale,False,False
+5829,5016,Saguenay Mayor,QC,LOCAL,CA,1,4 years,https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement/membres-des-conseils,2021-11-07 00:00:00+00,,,False,False
+5830,5017,Saguenay City Council,QC,LOCAL,CA,15,4 years,https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement/membres-des-conseils,2021-11-07 00:00:00+00,All.,,False,False
+5838,5027,Terrebonne City Council,QC,LOCAL,CA,16,4 years,https://www.ville.terrebonne.qc.ca/fr/10/Conseil_municipal,2021-11-07 00:00:00+00,All.,,False,False
+5841,5026,Terrebonne Mayor,QC,LOCAL,CA,1,4 years,https://www.ville.terrebonne.qc.ca/fr/10/Conseil_municipal,2021-11-07 00:00:00+00,,,False,False
+5889,838,Gatineau City Council,QC,LOCAL,CA,18,4 years,https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal/conseil_municipal,2021-11-07 00:00:00+00,Mayor + 18 councillors,,False,False
+5890,90,Mayor of Gatineau,QC,LOCAL,CA,1,4 years,https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal/conseil_municipal/maire,2021-11-07 00:00:00+00,Mayor + 18 councillors,,False,False
+6255,4902,Longueuil City Council,QC,LOCAL,CA,15,4 years,https://www.longueuil.quebec/fr/services/instances-decisionnelles-et-consultatives/conseil-de-ville,2021-11-07 00:00:00+00,Mayor and City Council,https://www.longueuil.quebec/fr/election-municipale,False,False
+5236,4844,Quebec City Council,QC,LOCAL,CA,21,4 years,https://www.ville.quebec.qc.ca/en/apropos/gouvernance/conseil-municipal/index.aspx,2021-11-06 00:00:00+00,Mayor plus 21 councillors,,False,False
+6062,4845,Quebec City Mayor,QC,LOCAL,CA,1,4 years,https://www.ville.quebec.qc.ca/en/apropos/gouvernance/maire/index.aspx,2021-11-06 00:00:00+00,Mayor plus 21 councillors,,False,False
+5551,429,Mayor of Montréal,QC,LOCAL,CA,1,4 years,"http://ville.montreal.qc.ca/portal/page?_pageid=6037,42239564&_dad=portal&_schema=PORTAL",2021-11-05 00:00:00+00,,https://en.wikipedia.org/wiki/List_of_Montreal_municipal_elections,False,False
+5871,1088,Montréal City Council,QC,LOCAL,CA,103,4 years,"https://ville.montreal.qc.ca/portal/page?_pageid=5798,85933591&_dad=portal&_schema=PORTAL",2021-11-05 00:00:00+00,,https://en.wikipedia.org/wiki/List_of_Montreal_municipal_elections,False,False
+3900,3160,Stamford Board of Representatives,CT,LOCAL,US,40,4 years,http://www.boardofreps.org/,2021-11-02 16:46:45+00,,,False,False
+3901,3161,Stamford Mayor,CT,LOCAL,US,1,4 years,http://www.stamfordct.gov/office-of-the-mayor,2021-11-02 16:46:45+00,,,False,False
+155,155,Tacoma Mayor,WA,LOCAL,US,1,,http://www.cityoftacoma.org/Page.aspx?nid=54,2021-11-02 00:00:00+00,"Mayor, districts 2, 4, 5, and 1 At Large seat.",,False,False
+793,793,Delaware County Controller,PA,LOCAL,US,1,,,2021-11-02 00:00:00+00,,,False,False
+868,868,Minneapolis Mayor,MN,LOCAL,US,1,4 years,http://www.ci.minneapolis.mn.us/council/,2021-11-02 00:00:00+00,,,False,False
+892,892,Seattle Mayor,WA,LOCAL,US,1,4 years,http://www.ci.seattle.wa.us/council/,2021-11-02 00:00:00+00,Mayor and Positions 8 and 9,,False,False
+2333,2333,New York City Comptroller,NY,LOCAL,US,1,4 years,http://www.comptroller.nyc.gov/,2021-11-02 00:00:00+00,,,False,False
+2334,2334,New York City Public Advocate,NY,LOCAL,US,1,4 years,http://www.pubadvocate.nyc.gov/,2021-11-02 00:00:00+00,,,False,False
+2544,910,Chester County Controller,PA,LOCAL,US,1,,http://dsf.chesco.org/controller/site/default.asp,2021-11-02 00:00:00+00,,,False,False
+2550,928,Harrisburg City Controller,PA,LOCAL,US,1,,http://harrisburgcitycontroller.com/,2021-11-02 00:00:00+00,"Mayor, Controller, half of council",,False,False
+2580,2580,New Jersey Lieutenant Governor,NJ,STATE,US,1,,,2021-11-02 00:00:00+00,,,False,False
+2783,621,Cincinnati City Council,OH,LOCAL,US,9,4 years,http://www.cincinnati-oh.gov/council/pages/-3412-/,2021-11-02 00:00:00+00,,,False,False
+3035,2885,Columbia City Council,SC,LOCAL,US,6,4 years,https://www.columbiasc.net/city-council,2021-11-02 00:00:00+00,"Mayor, Districts 1 and 4, and one At-Large council member. ",,False,False
+3036,2884,Columbia Mayor,SC,LOCAL,US,1,4 years,http://www.columbiasc.net/mayor,2021-11-02 00:00:00+00,"Mayor, Districts 1 and 4, and one At-Large council member. ",,False,False
+3040,912,Charleston City Council,SC,LOCAL,US,12,4 years,http://charleston-sc.gov/index.aspx?NID=180,2021-11-02 00:00:00+00,Even numbered districts.,,False,False
+3512,3303,Mayor of Sandy Springs,GA,LOCAL,US,1,4 years,http://www.sandyspringsga.gov/government/mayor-s-office,2021-11-02 00:00:00+00,All seats,,False,False
+3559,3229,Manchester Mayor,NH,LOCAL,US,1,2 years,https://www.manchesternh.gov/Mayor-and-Aldermen/Mayors-Office,2021-11-02 00:00:00+00,,,False,False
+3564,3224,Cambridge City Council,MA,LOCAL,US,9,2 years,https://www.cambridgema.gov/Departments/citycouncil,2021-11-02 00:00:00+00,,,False,False
+3640,3186,Provo Mayor,UT,LOCAL,US,1,4 years,http://www.provo.org/government/mayor-s-office,2021-11-02 00:00:00+00,"district 2, district 5, 1 at-large seat, and mayor",,False,False
+3662,3226,High Point City Council,NC,LOCAL,US,9,2 years,https://www.highpointnc.gov/153/City-Council,2021-11-02 00:00:00+00,,https://www.guilfordcountync.gov/our-county/board-of-elections,False,False
+3711,1577,Allentown Mayor,PA,LOCAL,US,1,4 years,http://www.allentownpa.gov/Government/MayorsOffice/tabid/60/Default.aspx,2021-11-02 00:00:00+00,Mayor + 4 council seats,,False,False
+3821,3123,Overland Park City Council,KS,LOCAL,US,13,4 years,https://www.opkansas.org/city-government/city-council/,2021-11-02 00:00:00+00,1 member from each of 6 districts.,,False,False
+3831,3101,Boise City Council,ID,LOCAL,US,6,4 years,http://citycouncil.cityofboise.org/,2021-11-02 00:00:00+00,"Seats 2, 4, 6",https://www.cityofboise.org/departments/finance-and-administration/city-clerk/city-elections/,False,False
+3910,3274,Alexandria City Council,VA,LOCAL,US,7,3 years,https://www.alexandriava.gov/Council,2021-11-02 00:00:00+00,Mayor and all council seats,,False,False
+4044,3257,Olathe City Council,KS,LOCAL,US,7,4 years,http://www.olatheks.org/government/city-council,2021-11-02 00:00:00+00,"1 at-large, wards 3, 4",https://jocoelection.org/election-facts,False,False
+4060,404,Albuquerque Mayor,NM,LOCAL,US,1,4 years,http://www.cabq.gov/council/,2021-11-02 00:00:00+00,Mayor and odd districts,,False,False
+4081,3302,Sandy Springs City Council,GA,LOCAL,US,6,4 years,http://www.sandyspringsga.gov/government/city-council,2021-11-02 00:00:00+00,All seats,,False,False
+4083,3284,Pueblo City Council,CO,LOCAL,US,7,4 years,https://www.pueblo.us/585/Council-Members,2021-11-02 00:00:00+00,"Districts 1, 3 and 2 at large positions",,False,False
+4107,3331,Renton City Council,WA,LOCAL,US,7,4 years,http://rentonwa.gov/council/,2021-11-02 00:00:00+00,3 seats,https://www.kingcounty.gov/depts/elections.aspx,False,False
+4137,3268,Kansas City Board of Commissioners,KS,LOCAL,US,10,4 years,http://www.wycokck.org/Commissioners.aspx,2021-11-02 00:00:00+00,"Mayor/CEO, 1 At-large seat and districts 1, 5, 7, 8",,False,False
+4176,3230,Manchester Board of Aldermen,NH,LOCAL,US,14,2 years,https://www.manchesternh.gov/Mayor-and-Aldermen/Aldermen,2021-11-02 00:00:00+00,,,False,False
+4220,810,Detroit City Council,MI,LOCAL,US,9,4 years,http://www.detroitmi.gov/Government/City-Council,2021-11-02 00:00:00+00,All seats,,False,False
+4223,476,Minneapolis City Council,MN,LOCAL,US,13,4 years,http://www.ci.minneapolis.mn.us/council/,2021-11-02 00:00:00+00,,,False,False
+4291,359,Rochester Mayor,NY,LOCAL,US,1,4 years,http://www.cityofrochester.gov/article.aspx?id=8589934829,2021-11-02 00:00:00+00,Mayor and 4 At Large Seats,https://www2.monroecounty.gov/elections-index.php,False,False
+4292,626,Rochester City Council,NY,LOCAL,US,9,4 years,http://www.cityofrochester.gov/article.aspx?id=8589935617,2021-11-02 00:00:00+00,Mayor and 4 At Large Seats,https://www2.monroecounty.gov/elections-index.php,False,False
+4297,3323,Woodbridge Township Council,NJ,LOCAL,US,9,4 years,http://www.twp.woodbridge.nj.us/340/Council,2021-11-02 00:00:00+00,5 ward seats,,False,False
+4299,3185,Provo City Council,UT,LOCAL,US,7,4 years,http://www.provo.org/government/city-council/meet-the-council,2021-11-02 00:00:00+00,"district 2, district 5, 1 at-large seat, and mayor",,False,False
+4302,832,Bucks County District Attorney,PA,LOCAL,US,1,4 years,http://www.buckscounty.org/government/RowOfficers/DistrictAttorney,2021-11-02 00:00:00+00,,,False,False
+4319,993,King County Council,WA,LOCAL,US,9,4 years,http://www.kingcounty.gov/council.aspx,2021-11-02 00:00:00+00,Executive and odd districts,,False,False
+4332,496,Lansing City Council,MI,LOCAL,US,8,4 years,https://www.lansingmi.gov/267/City-Council,2021-11-02 00:00:00+00,"Mayor and 2 at-large seats, ward 2, and ward 4",,False,False
+4336,189,Boston City Council,MA,LOCAL,US,13,2 years,http://www.cityofboston.gov/citycouncil/,2021-11-02 00:00:00+00,Mayor and all council seats,,False,False
+4341,3317,Edison Township Council,NJ,LOCAL,US,7,4 years,http://www.edisonnj.org/departments/council/index.php,2021-11-02 00:00:00+00,Mayor and 3 council seats,,False,False
+4349,3227,Billings Mayor,MT,LOCAL,US,1,4 years,http://ci.billings.mt.us/113/Mayor,2021-11-02 00:00:00+00,Mayor and 1 seat from each district,,False,False
+4350,3236,Topeka City Council,KS,LOCAL,US,10,4 years,https://www.topeka.org/citycouncil,2021-11-02 00:00:00+00,"Mayor and Districts 1, 3, 5, 7",https://www.snco.us/election/,False,False
+4392,3124,Knoxville City Council,TN,LOCAL,US,9,4 years,http://www.knoxvilletn.gov/cms/One.aspx?portalId=109562&pageId=131053,2021-11-02 00:00:00+00,"Districts 1, 2, 3, 4, 6",http://knoxvilletn.gov/residents/newcomer_information/election_information,False,False
+4394,81,Philadelphia City Controller,PA,LOCAL,US,1,4,,2021-11-02 00:00:00+00,,,False,False
+4395,165,Philadelphia District Attorney,PA,LOCAL,US,1,4,,2021-11-02 00:00:00+00,,,False,False
+4404,3219,Lowell City Council,MA,LOCAL,US,9,2 years,https://www.lowellma.gov/517/City-Council,2021-11-02 00:00:00+00,First election in districts,,False,False
+4405,3291,Mayor of Everett,WA,LOCAL,US,1,4 years,https://everettwa.gov/270/Mayors-Office,2021-11-02 00:00:00+00,Mayor plus 3 council seats.,,False,False
+4406,3183,Wilmington City Council,NC,LOCAL,US,7,4 years (2 years for mayor),http://www.wilmingtonnc.gov/departments/city-council,2021-11-02 00:00:00+00,Mayor and 3 council seats,,False,False
+4419,426,Mayor of the City of New York,NY,LOCAL,US,1,4 years,http://www.nyc.gov/,2021-11-02 00:00:00+00,Mayor and all 51 council seats,,False,False
+4421,1149,Brooklyn Borough President,NY,LOCAL,US,1,4 years,http://www.brooklyn-usa.org/,2021-11-02 00:00:00+00,,,False,False
+4423,1151,Staten Island Borough President,NY,LOCAL,US,1,4 years,http://www.statenislandusa.com/,2021-11-02 00:00:00+00,,,False,False
+4424,1150,Queens Borough President,NY,LOCAL,US,1,4 years,http://www.queensbp.org/,2021-11-02 00:00:00+00,,,False,False
+4425,1148,Bronx Borough President,NY,LOCAL,US,1,4 years,http://bronxboropres.nyc.gov/,2021-11-02 00:00:00+00,,,False,False
+4427,3108,Yonkers City Council,NY,LOCAL,US,7,4 years,http://www.yonkersny.gov/government/city-council,2021-11-02 00:00:00+00,"Council president, districts 2, 4, 6",,False,False
+4428,3228,Billings City Council,MT,LOCAL,US,10,4 years,http://ci.billings.mt.us/107/City-Council,2021-11-02 00:00:00+00,Mayor and 1 seat from each district,,False,False
+4434,273,New Jersey Governor,NJ,STATE,US,1,4 years,http://www.state.nj.us/governor/,2021-11-02 00:00:00+00,,,False,False
+4443,61,Virginia Governor,VA,STATE,US,1,4 years,http://www.governor.virginia.gov/,2021-11-02 00:00:00+00,,,False,False
+4487,578,Syracuse Common Council,NY,LOCAL,US,10,2-4 years,http://www.syrgov.net/Common_Council.aspx,2021-11-02 00:00:00+00,"Mayor, all numbered council seats, 3 at large council seats",,False,False
+4488,3318,Mayor of Edison Township,NJ,LOCAL,US,1,4 years,http://www.edisonnj.org/departments/mayor/index.php,2021-11-02 00:00:00+00,Mayor and 3 council seats,,False,False
+4490,89,Allegheny County Council,PA,LOCAL,US,15,4 years,http://www.alleghenycounty.us/council/index.aspx,2021-11-02 00:00:00+00,"1, 3, 4, 8, 9, 12",http://www.alleghenycounty.us/elections/election-calendar.aspx,False,False
+4491,231,Detroit Mayor,MI,LOCAL,US,1,4 years,http://www.detroitmi.gov/Government/Mayors-Office,2021-11-02 00:00:00+00,All seats,,False,False
+4493,551,Erie City Controller,PA,LOCAL,US,1,4 years,,2021-11-02 00:00:00+00,,,False,False
+4586,1058,Columbus City Council,OH,LOCAL,US,7,4 years,http://www.columbuscitycouncil.org/,2021-11-02 00:00:00+00,,,False,False
+4641,866,King County Executive,WA,LOCAL,US,1,,https://www.kingcounty.gov/elected/executive/constantine.aspx,2021-11-02 00:00:00+00,Executive and odd districts,,False,False
+4649,657,Tucson City Council,AZ,LOCAL,US,6,4 years,https://www.tucsonaz.gov/city-government,2021-11-02 00:00:00+00,"Wards 3, 5, 6",https://www.tucsonaz.gov/clerks/elections,False,False
+4692,352,Atlanta Mayor,GA,LOCAL,US,1,,https://www.atlantaga.gov/government/mayor-s-office,2021-11-02 00:00:00+00,,,False,False
+4694,3320,Mayor of Davenport,IA,LOCAL,US,1,2 years,http://www.cityofdavenportiowa.com/cms/One.aspx?portalId=6481456&pageId=7274096,2021-11-02 00:00:00+00,All seats,,False,False
+4697,77,St. Paul Mayor,MN,LOCAL,US,1,4 years,https://www.stpaul.gov/departments/mayors-office,2021-11-02 00:00:00+00,,,False,False
+4703,754,Jersey City Mayor,NJ,LOCAL,US,1,4 years,https://www.cityofjerseycity.com/cityhall/mayorfulop,2021-11-02 00:00:00+00,,,False,False
+4704,12,Jersey City City Council,NJ,LOCAL,US,9,4 years,https://www.cityofjerseycity.com/cityhall/citycouncil,2021-11-02 00:00:00+00,,,False,False
+4711,307,Buffalo Mayor,NY,LOCAL,US,1,,https://www.buffalony.gov/490/Mayor,2021-11-02 00:00:00+00,,,False,False
+4714,669,Syracuse Mayor,NY,LOCAL,US,1,4 years,http://www.syrgov.net/Mayors_Biography.aspx,2021-11-02 00:00:00+00,"Mayor, all numbered council seats, 3 at large council seats",,False,False
+4716,880,Cincinnati Mayor,OH,LOCAL,US,1,4 years,https://www.cincinnati-oh.gov/mayor/,2021-11-02 00:00:00+00,,,False,False
+4950,3287,Waterbury Board of Aldermen,CT,LOCAL,US,15,2 years,http://www.waterburyct.org/filestorage/9569/10451/BOA_2017-2019-Rev007.pdf,2021-11-02 00:00:00+00,,,False,False
+4955,969,Grand Rapids City Commission,MI,LOCAL,US,7,4 years,https://www.grandrapidsmi.gov/Government/City-Commission,2021-11-02 00:00:00+00,One official from each ward,,False,False
+4956,3263,Cedar Rapids City Council,IA,LOCAL,US,9,4 years,http://www.cedar-rapids.org/local_government/city_council/mayor_and_city_council/index.php,2021-11-02 00:00:00+00,"1 at-large seat and districts 1, 3, 5; mayor",,False,False
+4958,2892,Myrtle Beach City Council,SC,LOCAL,US,6,4 years,https://www.cityofmyrtlebeach.com/government/mayor_and_city_concil/index.php,2021-11-02 00:00:00+00,3 At-Large City council seats (all positions are At-Large) and Mayor are up for election. ,,False,False
+4970,3699,Hialeah City Council,FL,LOCAL,US,7,4 years,http://www.hialeahfl.gov/435/City-Council,2021-11-02 00:00:00+00,Mayor and 4 council seats,,False,False
+4971,761,Erie City Council,PA,LOCAL,US,7,4 years,https://cityof.erie.pa.us/government/city-council/city-council-members/,2021-11-02 00:00:00+00,,,False,False
+5246,525,Orlando City Council,FL,LOCAL,US,6,4 years,https://www.orlando.gov/Our-Government/Mayor-City-Council,2021-11-02 00:00:00+00,"Districts 1, 3, 5",,False,False
+5250,461,Lansing Mayor,MI,LOCAL,US,1,4 years,https://www.lansingmi.gov/724/Mayors-Office,2021-11-02 00:00:00+00,"Mayor and 2 at-large seats, ward 2, and ward 4",,False,False
+5310,3162,Kent City Council,WA,LOCAL,US,7,4 years,https://www.kentwa.gov/city-hall/kent-city-council,2021-11-02 00:00:00+00,Mayor and even districts,,False,False
+5312,3163,Kent Mayor,WA,LOCAL,US,1,4 years,https://www.kentwa.gov/city-hall/kent-mayor,2021-11-02 00:00:00+00,Mayor and even districts,,False,False
+5317,797,Las Cruces City Council,NM,LOCAL,US,7,4 years,http://www.las-cruces.org/1487/City-Council,2021-11-02 00:00:00+00,3 seats,,False,False
+5370,275,Albuquerque City Council,NM,LOCAL,US,9,4 years,http://www.cabq.gov/council/,2021-11-02 00:00:00+00,Mayor and odd districts,,False,False
+5379,2592,Virginia Lieutenant Governor,VA,STATE,US,1,,,2021-11-02 00:00:00+00,,,False,False
+5399,358,Atlantic City Mayor,NJ,LOCAL,US,1,4 years,http://cityofatlanticcity.org/?page_id=21500,2021-11-02 00:00:00+00,,,False,False
+5403,2891,Myrtle Beach Mayor,SC,LOCAL,US,1,4 years,https://www.cityofmyrtlebeach.com/government/mayor_and_city_concil/index.php,2021-11-02 00:00:00+00,3 At-Large City council seats (all positions are At-Large) and Mayor are up for election. ,,False,False
+5404,3092,Hialeah Mayor,FL,LOCAL,US,1,4 years,http://www.hialeahfl.gov/195/City-Mayor,2021-11-02 00:00:00+00,Mayor and 4 council seats,,False,False
+5406,677,Pittsburgh Mayor,PA,LOCAL,US,1,4 years,https://pittsburghpa.gov/mayor/index.html,2021-11-02 00:00:00+00,Mayor and 4 council seats,http://www.alleghenycounty.us/elections/election-results.aspx,False,False
+5442,3083,Durham City Council,NC,LOCAL,US,7,4 years (2 years for Mayor),https://durhamnc.gov/1323/City-Council,2021-11-02 00:00:00+00,"Mayor, Wards 1, 2, 3",http://www.dcovotes.com/voters/current-elections,False,False
+5452,693,Aurora City Council,CO,LOCAL,US,10,4 years,https://www.auroragov.org/city_hall/mayor___city_council/,2021-11-02 00:00:00+00,"Wards I, II, and III + 2 At-Large seats",,False,False
+5459,36,St. Petersburg Mayor,FL,LOCAL,US,1,4 years,http://www.stpete.org/mayor/index.asp,2021-11-02 00:00:00+00,Mayor and Even Numbered Districts,http://www.stpete.org/elections/index.php,False,False
+5460,218,St. Petersburg City Council,FL,LOCAL,US,8,4 years,http://www.stpete.org/council/index.asp,2021-11-02 00:00:00+00,Mayor and Even Numbered Districts,http://www.stpete.org/elections/index.php,False,False
+5470,3206,West Jordan City Council,UT,LOCAL,US,7,"2 years, 4 years",https://www.westjordan.utah.gov/mayor-and-city-council,2021-11-02 00:00:00+00,,,False,False
+5505,3246,Mesquite City Council,TX,LOCAL,US,7,2 years,https://www.cityofmesquite.com/131/City-Council,2021-11-02 00:00:00+00,"Mayor and Places 1, 2, 3, 4, 5 and 6",https://www.cityofmesquite.com/152/Elections,False,False
+5511,3139,Vancouver City Council,WA,LOCAL,US,7,4 years,https://www.cityofvancouver.us/citycouncil,2021-11-02 00:00:00+00,3 seats,https://www.clarkcountynv.gov/election/Pages/default.aspx,False,False
+5514,3281,Centennial City Council,CO,LOCAL,US,9,4 years,https://www.centennialco.gov/Government/Mayor-Council,2021-11-02 00:00:00+00,Mayor and 1 seat from each district,,False,False
+5515,3252,Bellevue City Council,WA,LOCAL,US,7,4 years,https://bellevuewa.gov/city-government/city-council/,2021-11-02 00:00:00+00,Even Positions,,False,False
+5520,11,Delaware County Council,PA,LOCAL,US,5,4 years,https://www.delcopa.gov/electedofficials/index.html,2021-11-02 00:00:00+00,2 seats,,False,False
+5523,448,Pittsburgh City Council,PA,LOCAL,US,9,4 years,https://pittsburghpa.gov/council/,2021-11-02 00:00:00+00,Mayor and 4 council seats,http://www.alleghenycounty.us/elections/election-results.aspx,False,False
+5545,1578,Allentown City Council,PA,LOCAL,US,7,4 years,https://www.allentownpa.gov/Government/City-Council,2021-11-02 00:00:00+00,Mayor + 4 council seats,,False,False
+5546,124,Charlotte City Council,NC,LOCAL,US,11,2 years,https://charlottenc.gov/citycouncil/Pages/default.aspx,2021-11-02 00:00:00+00,Mayor and all council seats,https://charlottenc.gov/CityCouncil/bios/Pages/default.aspx,False,False
+5549,612,Seattle City Council,WA,LOCAL,US,9,4 years,https://www.seattle.gov/council,2021-11-02 00:00:00+00,Mayor and Positions 8 and 9,,False,False
+5552,3103,Des Moines City Council,IA,LOCAL,US,7,4 years,https://www.dsm.city/government/index.php,2021-11-02 00:00:00+00,"Wards 1 and 3, At-large",,False,False
+5596,3278,Springfield City Council,MA,LOCAL,US,14,2 years,https://www.springfield-ma.gov/cos/index.php?id=council,2021-11-02 00:00:00+00,,,False,False
+5599,325,Miami City Commission,FL,LOCAL,US,5,4 years,https://www.miamigov.com/Government/City-Officials,2021-11-02 00:00:00+00,Mayor and districts 3 and 5,,False,False
+5630,690,Boston Mayor,MA,LOCAL,US,1,4 years,https://www.boston.gov/departments/mayors-office,2021-11-02 00:00:00+00,Mayor and all council seats,,False,False
+5672,591,Atlanta City Council,GA,LOCAL,US,16,4 years,http://citycouncil.atlantaga.gov/,2021-11-02 00:00:00+00,All seats,,False,False
+5684,170,Boulder City Council,CO,LOCAL,US,9,4 years and 2 years (for 5th member elected each election),https://bouldercolorado.gov/city-council,2021-11-02 00:00:00+00,,,False,False
+5687,3156,West Valley City Council,UT,LOCAL,US,7,4 years,https://www.wvc-ut.gov/15/City-Council,2021-11-02 00:00:00+00,"2 At-large, District 2, District 4",,False,False
+5693,3106,Fayetteville City Council,NC,LOCAL,US,10,2 years,https://www.fayettevillenc.gov/city-council,2021-11-02 00:00:00+00,All,,False,False
+5695,1063,Miami Mayor,FL,LOCAL,US,1,4 years,https://www.miamigov.com/Government/City-Officials,2021-11-02 00:00:00+00,Mayor and districts 3 and 5,,False,False
+5709,32,Charlotte Mayor,NC,LOCAL,US,1,2 years,https://charlottenc.gov/Mayor/Pages/default.aspx,2021-11-02 00:00:00+00,Mayor and all council seats,https://charlottenc.gov/CityCouncil/bios/Pages/default.aspx,False,False
+5721,317,Toledo Mayor,OH,LOCAL,US,1,4 years,https://toledo.oh.gov/government/mayors-office/,2021-11-02 00:00:00+00,Mayor and at-large districts,,False,False
+5722,702,Erie Mayor,PA,LOCAL,US,1,4 years,https://cityof.erie.pa.us/government/office-of-the-mayor/about-the-mayor/,2021-11-02 00:00:00+00,,,False,False
+5723,312,Salt Lake City Council,UT,LOCAL,US,7,4 years,https://www.slc.gov/council/,2021-11-02 00:00:00+00,"Districts 1, 3, 5, 7",,False,False
+5727,1147,Manhattan Borough President,NY,LOCAL,US,1,4 years,https://www.manhattanbp.nyc.gov/,2021-11-02 00:00:00+00,,,False,False
+5728,642,Atlantic City Council,NJ,LOCAL,US,9,4 years,http://www.cityofatlanticcity.org/Departments/administration-department,2021-11-02 00:00:00+00,,,False,False
+5734,996,Toledo City Council,OH,LOCAL,US,12,4 years,https://toledo.oh.gov/government/city-council/,2021-11-02 00:00:00+00,Mayor and at-large districts,,False,False
+5833,5831,Lakewood Township Committee,NJ,LOCAL,US,5,3 years,https://www.lakewoodnj.gov/section/government,2021-11-02 00:00:00+00,2 seats,,False,False
+5844,5843,Edinburg City Council,TX,LOCAL,US,5,4 years,https://cityofedinburg.com/government/mayor_and_city_council/index.php,2021-11-02 00:00:00+00,"Mayor, Place 1, Place 2",,False,False
+5850,5849,Spokane Valley City Council,WA,LOCAL,US,7,4 years,https://www.spokanevalley.org/content/6836/6892/default.aspx,2021-11-02 00:00:00+00,"Positions 1, 4, 5, 7",,False,False
+5915,585,Cleveland Mayor,OH,LOCAL,US,1,4 years,http://www.city.cleveland.oh.us/CityofCleveland/Home/Government/MayorsOffice,2021-11-02 00:00:00+00,,,False,False
+5916,3308,Wichita Falls City Council,TX,LOCAL,US,7,2 years,https://www.wichitafallstx.gov/29/Mayor-and-City-Council,2021-11-02 00:00:00+00,,,False,False
+5944,108,Cleveland City Council,OH,LOCAL,US,17,4 years,http://www.clevelandcitycouncil.org/,2021-11-02 00:00:00+00,,,False,False
+6001,242,New York City Council,NY,LOCAL,US,51,4 years,https://council.nyc.gov/,2021-11-02 00:00:00+00,Mayor and all 51 council seats,,False,False
+6050,2390,Greensboro City Council,NC,LOCAL,US,8,4 Years,http://www.greensboro-nc.gov/index.aspx?page=84,2021-11-02 00:00:00+00,,,False,False
+6052,2391,Greensboro Mayor,NC,LOCAL,US,1,4 Years,http://www.greensboro-nc.gov/index.aspx?page=84,2021-11-02 00:00:00+00,,,False,False
+6054,93,Harrisburg Mayor,PA,LOCAL,US,1,4 years,http://www.harrisburgpa.gov/,2021-11-02 00:00:00+00,"Mayor, Controller, half of council",,False,False
+6095,3259,Midland City Council,TX,LOCAL,US,7,3 years,http://www.midlandtexas.gov/238/Mayor-City-Council,2021-11-02 00:00:00+00,"Districts 1 and 2, plus 2 at-large seats",,False,False
+6131,5767,Meridian City Council,ID,LOCAL,US,6,4 years,https://meridiancity.org/council/,2021-11-02 00:00:00+00,"Seats 2,4,6",,False,False
+6192,3293,College Station City Council,TX,LOCAL,US,7,4 years,https://www.cstx.gov/departments___city_hall/council,2021-11-02 00:00:00+00,Two at-large seats (Place 4 and Place 6).,https://www.cstx.gov/departments___city_hall/elections,False,False
+6365,2319,Albany Common Council,NY,LOCAL,US,16,4,https://www.albanyny.gov/Government/CityOfficials/CommonCouncil.aspx,2021-11-02 00:00:00+00,,,False,False
+6368,944,Harrisburg City Council,PA,LOCAL,US,7,4 years,http://harrisburgcitycouncil.com/,2021-11-02 00:00:00+00,"Mayor, Controller, half of council",,False,False
+6369,3280,Lakewood City Council,CO,LOCAL,US,11,4 years,http://www.lakewood.org/CityCouncil/,2021-11-02 00:00:00+00,1 council member from each ward,https://www.jeffco.us/578/Election-Results,False,False
+6370,3195,Westminster City Council,CO,LOCAL,US,7,4 years,https://www.cityofwestminster.us/Government/CityCouncil,2021-11-02 00:00:00+00,Mayor + 3 council seats,,False,False
+6375,732,New Jersey State Senate,NJ,STATE,US,40,2 or 4 Years,https://www.njleg.state.nj.us/,2021-11-02 00:00:00+00,,,False,False
+6378,3258,Thornton City Council,CO,LOCAL,US,9,4 years,https://www.cityofthornton.net/government/city-council/Pages/default.aspx,2021-11-02 00:00:00+00,1 member from each ward,,False,False
+6379,3198,Greeley City Council,CO,LOCAL,US,7,4 years (2 years for Mayor),http://greeleygov.com/government/council,2021-11-02 00:00:00+00,"District 2, District 3, and 2 At Large seats (one of which is Mayor)",,False,False
+6380,453,Tacoma City Council,WA,LOCAL,US,8,4 years,https://www.cityoftacoma.org/government/city_council,2021-11-02 00:00:00+00,"Mayor, districts 2, 4, 5, and 1 At Large seat.",,False,False
+6382,3184,Arvada City Council,CO,LOCAL,US,7,4 years,http://arvada.org/city-hall/city-council,2021-11-02 00:00:00+00,"Districts 1, 3 and 1 at-large",,False,False
+6385,3261,Sterling Heights City Council,MI,LOCAL,US,7,2 years,https://www.sterling-heights.net/148/City-Council,2021-11-02 00:00:00+00,,,False,False
+6386,2890,Greenville City Council,SC,LOCAL,US,6,4 years,http://www.greenvillesc.gov/283/City-Council,2021-11-02 00:00:00+00,"District 2, 4 and 1 At Large",https://www.scvotes.org/greenville,False,False
+6402,259,Virginia House of Delegates,VA,STATE,US,100,2 years,https://virginiageneralassembly.gov/index.php,2021-11-02 00:00:00+00,,,False,False
+6405,2893,Arlington County Board,VA,LOCAL,US,5,4 years,https://countyboard.arlingtonva.us/,2021-11-02 00:00:00+00,One seat,,False,False
+6408,3269,Kansas City Mayor/CEO,KS,LOCAL,US,1,4 years,https://www.wycokck.org/mayor/,2021-11-02 00:00:00+00,"Mayor/CEO, 1 At-large seat and districts 1, 5, 7, 8",,False,False
+6409,3250,Dayton City Commission,OH,LOCAL,US,5,4 years,https://www.daytonohio.gov/159/City-Commission-Office,2021-11-02 00:00:00+00,3 seats,https://www.mcohio.org/government/county_agencies/board_of_elections/upcoming_elections/index.php,False,False
+6432,3319,Davenport City Council,IA,LOCAL,US,10,2 years,http://www.cityofdavenportiowa.com/cms/One.aspx?portalId=6481456&pageId=7274096,2021-11-02 00:00:00+00,All seats,,False,False
+6441,3126,Worcester City Council,MA,LOCAL,US,11,2 years,http://www.worcesterma.gov/city-council,2021-11-02 00:00:00+00,,http://www.worcesterma.gov/elections,False,False
+6444,3292,Everett City Council,WA,LOCAL,US,7,4 years,https://everettwa.gov/409/City-Council,2021-11-02 00:00:00+00,Mayor plus 3 council seats.,,False,False
+6445,898,Spokane City Council,WA,LOCAL,US,7,4 years,https://my.spokanecity.org/citycouncil/,2021-11-02 00:00:00+00,Half of the council seats.,https://my.spokanecity.org/elections/,False,False
+6452,3158,New Haven Board of Alders,CT,LOCAL,US,30,2 years,https://www.newhavenct.gov/gov/depts/alders/default.htm,2021-11-02 00:00:00+00,,https://www.newhavenct.gov/gov/depts/clerk/election.htm,False,False
+6456,670,New Jersey General Assembly,NJ,STATE,US,80,2 years,http://www.njleg.state.nj.us/,2021-11-02 00:00:00+00,,,False,False
+6457,3159,New Haven Mayor,CT,LOCAL,US,1,2 years,https://mayor.newhavenct.gov/,2021-11-02 00:00:00+00,,https://www.newhavenct.gov/gov/depts/clerk/election.htm,False,False
+6485,3212,Bridgeport City Council,CT,LOCAL,US,20,2 years,https://bridgeportct.gov/content/341441/341399/default.aspx,2021-11-02 00:00:00+00,All seats,,False,False
+4871,193,Mayor of Calgary,AB,LOCAL,CA,1,4 years,http://www.calgarymayor.ca/,2021-10-18 00:00:00+00,Mayor and 14 members of City Council,,False,False
+4914,226,Mayor of Edmonton,AB,LOCAL,CA,1,4 years,http://www.edmonton.ca/city_government/city_organization/the-mayor.aspx,2021-10-18 00:00:00+00,Mayor and 12 councillors,,False,False
+5398,1079,Calgary City Council,AB,LOCAL,CA,14,4 years,https://www.calgary.ca/CityCouncil/Pages/Councillors-and-Wards.aspx,2021-10-18 00:00:00+00,Mayor and 14 members of City Council,,False,False
+5418,134,Edmonton City Council,AB,LOCAL,CA,12,4 years,https://www.edmonton.ca/city_government/city_organization/city-councillors.aspx,2021-10-18 00:00:00+00,Mayor and 12 councillors,,False,False
+5223,5169,Delta City Council,BC,LOCAL,CA,6,4 years,http://www.delta.ca/your-government/mayor-council,2021-10-16 00:00:00+00,,,False,False
+5224,5168,Delta Mayor,BC,LOCAL,CA,1,4 years,http://www.delta.ca/your-government/mayor-council/council-members/mayor-george-v-harvie,2021-10-16 00:00:00+00,,,False,False
+4363,3266,Cary Town Council,NC,LOCAL,US,7,4 years,http://www.townofcary.org/mayor-council/town-council,2021-10-05 00:00:00+00,"1 At-large, A, C",,False,False
+5483,577,Raleigh City Council,NC,LOCAL,US,7,2 years,https://raleighnc.gov/city-council-office,2021-10-05 00:00:00+00,All seats.,,False,False
+5484,162,Raleigh Mayor,NC,LOCAL,US,1,2 years,https://raleighnc.gov/city-council-office,2021-10-05 00:00:00+00,All seats.,,False,False
+5163,5160,St. John's Mayor,NL,LOCAL,CA,1,4 years,http://www.stjohns.ca/council-member/Mayor,2021-09-01 00:00:00+00,,,False,False
+5222,5161,St. John's City Council,NL,LOCAL,CA,10,4 years,http://www.stjohns.ca/city-hall/about-city-hall/council,2021-09-01 00:00:00+00,,,False,False
+424,424,Mobile Mayor,AL,LOCAL,US,1,4 years,http://www.cityofmobile.org/cityofficials/mayor.php,2021-08-24 00:00:00+00,,,False,False
+3024,995,Birmingham Mayor,AL,LOCAL,US,1,4 years,http://www.birminghamal.gov/about/mayors-office/,2021-08-24 00:00:00+00,,,False,False
+5717,572,Mobile City Council,AL,LOCAL,US,7,4 years,https://www.cityofmobile.org/government/city-council/,2021-08-24 00:00:00+00,,,False,False
+6384,878,Birmingham City Council,AL,LOCAL,US,9,4 years,http://www.birminghamalcitycouncil.org/,2021-08-24 00:00:00+00,,,False,False
+5355,941,Alabama State Senate,AL,STATE,US,35,4 years,http://www.legislature.state.al.us/aliswww/ISD/Splash_Senate.aspx,2021-07-13 00:00:00+00,District 14,,False,False
+2222,662,Governor of Chihuahua,CHH,STATE,MX,1,6 years,,2021-07-04 00:00:00+00,,,False,False
+4698,2876,Jackson Mayor,MS,LOCAL,US,1,4 years,http://www.jacksonms.gov/index.aspx?NID=245,2021-06-08 00:00:00+00,,,False,False
+6189,2877,Jackson City Council,MS,LOCAL,US,7,4 years,http://www.jacksonms.gov/index.aspx?nid=111,2021-06-08 00:00:00+00,All districts are up for election.,"https://ballotpedia.org/City_elections_in_Jackson,_Mississippi_(2021)",False,False
+6234,619,Riverside City Council,CA,LOCAL,US,7,4 years,https://riversideca.gov/council/,2021-06-08 00:00:00+00,"Districts 2, 4, 6",,False,False
+2218,765,Governor of Baja California Sur,BCS,STATE,MX,1,6 years,http://www.bcs.gob.mx/gobernador.html,2021-06-06 00:00:00+00,,,False,False
+2219,988,Governor of Campeche,CAM,STATE,MX,1,6 years,,2021-06-06 00:00:00+00,All,,False,False
+2224,1070,Governor of Colima,COL,STATE,MX,1,6 years,,2021-06-06 00:00:00+00,All,,False,False
+2235,647,Governor of Michoacán,MIC,STATE,MX,1,6 years,http://michoacan.gob.mx/index.php/temas/gobierno-y-estado/gobernador,2021-06-06 00:00:00+00,All,,False,False
+2237,850,Governor of Nayarit,NAY,STATE,MX,1,6 years,,2021-06-06 00:00:00+00,All,,False,False
+2238,54,Governor of Nuevo León,NLE,STATE,MX,1,6 years,,2021-06-06 00:00:00+00,All,,False,False
+2241,854,Governor of Querétaro,QUE,STATE,MX,1,6 years,,2021-06-06 00:00:00+00,,,False,False
+2245,658,Governor of Sonora,SON,STATE,MX,1,6 years,http://www.sonora.gob.mx/swb/Sonora/Gobernador,2021-06-06 00:00:00+00,All,,False,False
+2247,1051,Governor of Tamaulipas,TAM,STATE,MX,1,6 years,http://tamaulipas.gob.mx/gobierno/gobernador/,2021-06-06 00:00:00+00,All,,False,False
+2248,495,Governor of Tlaxcala,TLA,STATE,MX,1,6 years,,2021-06-06 00:00:00+00,All,,False,False
+2251,846,Governor of Zacatecas,ZAC,STATE,MX,1,6 years,http://www.zacatecas.gob.mx/index.php/gobierno/gobernador/,2021-06-06 00:00:00+00,All; Election held one year early to meet new federal requirements. Term is still 6 years for Governor.,,False,False
+4691,135,Governor of San Luis Potosí,SLP,STATE,MX,1,6 years,http://www.slp.gob.mx/gobernador.aspx,2021-06-06 00:00:00+00,All,,False,False
+5655,475,Governor of Guerrero,GRO,STATE,MX,1,6 years,http://guerrero.gob.mx/gobierno/,2021-06-06 00:00:00+00,All,,False,False
+5668,923,Mexico Chamber of Deputies,,NATIONAL,MX,500,,http://www.diputados.gob.mx/,2021-06-06 00:00:00+00,All,,False,False
+4699,889,Omaha City Council,NE,LOCAL,US,7,4 years,https://citycouncil.cityofomaha.org/,2021-05-11 00:00:00+00,,,False,False
+4700,834,Omaha Mayor,NE,LOCAL,US,1,,https://mayors-office.cityofomaha.org/,2021-05-11 00:00:00+00,,,False,False
+6198,3285,Pearland City Council,TX,LOCAL,US,7,3 years,https://www.pearlandtx.gov/government/city-council,2021-05-08 00:00:00+00,2 and 4,,False,False
+2800,687,National Assembly of Wales,Wales,STATE,UK,60,5 years,http://www.assemblywales.org/,2021-05-06 00:00:00+00,,,False,False
+4787,879,Northern Ireland Assembly,Northern Ireland,STATE,UK,90,5 Years,http://www.niassembly.gov.uk/,2021-05-06 00:00:00+00,,,False,False
+4972,957,London Assembly,,LOCAL,UK,25,,https://www.london.gov.uk/about-us/london-assembly/about-london-assembly,2021-05-06 00:00:00+00,"25 seats in the London Assembly, rescheduled from 2020 due to COVID-19",https://en.wikipedia.org/wiki/2020_London_Assembly_election,False,False
+6047,436,Mayor of London,,LOCAL,UK,1,4 years,http://www.london.gov.uk/mayor/,2021-05-06 00:00:00+00,rescheduled from 2020 due to COVID-19,https://en.wikipedia.org/wiki/2020_London_mayoral_election,False,False
+6098,212,The Scottish Parliament,SCT,STATE,UK,129,4 years,http://www.scottish.parliament.uk/,2021-05-06 00:00:00+00,,,False,False
+3495,3328,San Angelo City Council,TX,LOCAL,US,7,4 years,http://www.cosatx.us/government/city-council,2021-05-04 00:00:00+00,,,False,False
+4557,3074,Lincoln City Council,NE,LOCAL,US,7,4 years,https://lincoln.ne.gov/city/council/index.htm,2021-05-04 00:00:00+00,,,False,False
+4098,3251,McAllen City Commission,TX,LOCAL,US,7,4 years,http://www.mcallen.net/departments/commission,2021-05-01 00:00:00+00,,,False,False
+4217,377,Fort Worth City Council,TX,LOCAL,US,8,2 years,http://fortworthtexas.gov/government/,2021-05-01 00:00:00+00,,,False,False
+4570,3127,Brownsville City Commission,TX,LOCAL,US,7,4 years,http://www.cob.us/807/City-Commission,2021-05-01 00:00:00+00,"AL-B, 3, 4",,False,False
+4617,4610,Lewisville Mayor,TX,LOCAL,US,1,3 years,,2021-05-01 00:00:00+00,Mayor and City Council positions,,False,False
+4625,789,Arlington City Council,TX,LOCAL,US,8,2 years,http://www.arlington-tx.gov/citycouncil/,2021-05-01 00:00:00+00,Mayor and 4 council seats.,,False,False
+4761,922,Dallas City Council,TX,LOCAL,US,14,2 years,http://dallascityhall.com/government/Pages/city-council.aspx,2021-05-01 00:00:00+00,,https://dallascityhall.com/government/citysecretary/elections/Pages/elections.aspx,False,False
+5218,3113,Amarillo City Council,TX,LOCAL,US,5,2 years,http://amarillo.gov/city-hall/city-government/mayor-council-members,2021-05-01 00:00:00+00,All,,False,False
+5247,422,San Antonio Mayor,TX,LOCAL,US,1,2 years,http://www.sanantonio.gov/mayor/,2021-05-01 00:00:00+00,Mayor and all council seats,https://www.sanantonio.gov/ElectionsCampaignFinance,False,False
+5258,1022,San Antonio City Council,TX,LOCAL,US,10,2 years,http://www.sanantonio.gov/council/,2021-05-01 00:00:00+00,Mayor and all council seats,https://www.sanantonio.gov/ElectionsCampaignFinance,False,False
+5365,498,Fort Worth Mayor,TX,LOCAL,US,1,2 years,http://fortworthtexas.gov/mayor/,2021-05-01 00:00:00+00,,,False,False
+5407,362,Arlington Mayor,TX,LOCAL,US,1,,https://www.arlingtontx.gov/city_hall/government/mayor,2021-05-01 00:00:00+00,Mayor and 4 council seats.,,False,False
+5559,3208,Pasadena City Council,TX,LOCAL,US,9,"2 years for Councilmembers, 4 years for Mayor",https://www.pasadenatx.gov/406/City-Council,2021-05-01 00:00:00+00,,,False,False
+5658,3169,Abilene City Council,TX,LOCAL,US,7,3 years,https://www.abilenetx.gov/526/City-Council,2021-05-01 00:00:00+00,Place 1 and Place 2,https://www.abilenetx.gov/943/2021-Elections,False,False
+5910,5836,Allen City Council,TX,LOCAL,US,7,3 years,https://www.cityofallen.org/917/Allen-City-Council,2021-05-01 00:00:00+00,"Places 1, 3, 5",,False,False
+5930,3612,Frisco City Council,TX,LOCAL,US,6,3 years,http://www.friscotexas.gov/585/City-Council,2021-05-01 00:00:00+00,"districts 1, 3",,False,False
+5934,2671,Irving City Council,TX,LOCAL,US,8,3 years,http://cityofirving.org/210/Meet-Your-Mayor-and-Council,2021-05-01 00:00:00+00,"Places 4, 6 and 8.",,False,False
+5936,3182,Round Rock City Council,TX,LOCAL,US,7,3 years,https://www.roundrocktexas.gov/about/city-council/,2021-05-01 00:00:00+00,Places 3 and 5,,False,False
+5939,3157,Carrollton City Council,TX,LOCAL,US,8,3 years,https://www.cityofcarrollton.com/government/city-manager-s-office/city-secretary/city-council-191,2021-05-01 00:00:00+00,"Places 1, 3, 5 and 7",http://www.cityofcarrollton.com/government/city-council/elections,False,False
+5942,523,Garland City Council,TX,LOCAL,US,9,2 years,https://www.garlandtx.gov/758/City-Council,2021-05-01 00:00:00+00,"Mayor, and Districts 1, 3, 6, 7 and 8",,False,False
+5943,3311,Lewisville City Council,TX,LOCAL,US,5,3 years,https://www.cityoflewisville.com/about-us/mayor-and-council/city-council-bios,2021-05-01 00:00:00+00,Mayor and City Council positions,,False,False
+5993,3155,Killeen City Council,TX,LOCAL,US,8,2 years,http://www.killeentexas.gov/153/City-Council,2021-05-01 00:00:00+00,district councilmembers,,False,False
+6064,3313,Tyler City Council,TX,LOCAL,US,7,2 years,https://www.cityoftyler.org/government/government/mayor-and-council,2021-05-01 00:00:00+00,"Districts 1, 3, and 5",https://www.cityoftyler.org/Departments/CityClerk/Elections.aspx,False,False
+6128,3262,Denton City Council,TX,LOCAL,US,7,2 years,https://www.cityofdenton.com/government/city-officials/city-council,2021-05-01 00:00:00+00,The four district councilpersons.,,False,False
+6141,883,Grand Prairie City Council,TX,LOCAL,US,9,3 years,https://www.gptx.org/city-government/mayor-and-city-council,2021-05-01 00:00:00+00,"Districts 5, 6 and 8",https://www.gptx.org/city-government/city-secretary/elections,False,False
+6194,5847,Sugar Land City Council,TX,LOCAL,US,7,2 years,https://www.sugarlandtx.gov/160/Mayor-City-Council,2021-05-01 00:00:00+00,"Districts 1, 2, 3, 4",,False,False
+6419,3218,Richardson City Council,TX,LOCAL,US,7,2 years,http://www.cor.net/index.aspx?page=112,2021-05-01 00:00:00+00,All seats,https://www.cor.net/government/city-secretary/elections,False,False
+6428,3260,Waco City Council,TX,LOCAL,US,6,2 years,http://www.waco-texas.com/council.asp,2021-05-01 00:00:00+00,"District II, IV and V",,False,False
+6434,3176,Beaumont City Council,TX,LOCAL,US,7,2 years,https://beaumonttexas.gov/city-council/,2021-05-01 00:00:00+00,,,False,False
+6435,3068,Plano City Council,TX,LOCAL,US,8,4 years,https://www.plano.gov/1786/Mayor-City-Council,2021-05-01 00:00:00+00,Even,,False,False
+6442,3147,McKinney City Council,TX,LOCAL,US,7,4 years,https://www.mckinneytexas.org/138/City-Council,2021-05-01 00:00:00+00,"Mayor, Council Member at-large 1, District 1, District 3",,False,False
+896,896,Anchorage Mayor,AK,LOCAL,US,1,3 years,http://www.muni.org/mayor/,2021-04-06 00:00:00+00,,,False,False
+2930,2847,Springfield City Council,MO,LOCAL,US,8,4 years,https://www.springfieldmo.gov/145/City-Council,2021-04-06 00:00:00+00,,,False,False
+3807,3204,Elgin City Council,IL,LOCAL,US,9,4 years,http://www.cityofelgin.org/index.aspx?nid=77,2021-04-06 00:00:00+00,,,False,False
+3851,3153,Rockford Mayor,IL,LOCAL,US,1,4 years,http://rockfordil.gov/mayors-office/,2021-04-06 00:00:00+00,Mayor and all 14 wards,,False,False
+3852,3152,Rockford City Council,IL,LOCAL,US,14,4 years,http://rockfordil.gov/city-council/,2021-04-06 00:00:00+00,Mayor and all 14 wards,,False,False
+4148,3154,Joliet City Council,IL,LOCAL,US,9,4 years,http://cityofjoliet.info/government/city-council,2021-04-06 00:00:00+00,All at-large seats,,False,False
+4547,3112,Aurora Mayor,IL,LOCAL,US,1,4 years,https://www.aurora-il.org/810/Mayors-Office,2021-04-06 00:00:00+00,,,False,False
+4676,110,Fort Collins City Council,CO,LOCAL,US,6,4 years,https://www.fcgov.com/council/,2021-04-06 00:00:00+00,,,False,False
+4762,610,Fort Collins Mayor,CO,LOCAL,US,1,2 years,https://www.fcgov.com/council/,2021-04-06 00:00:00+00,,,False,False
+4822,2853,Madison Common Council,WI,LOCAL,US,20,2 years,http://www.cityofmadison.com/council/,2021-04-06 00:00:00+00,All 20 seats,,False,False
+4945,870,Wichita City Council,KS,LOCAL,US,6,4 years,https://www.wichita.gov/Council/Pages/default.aspx,2021-04-06 00:00:00+00,"Districts 1, 3, 6",,False,False
+5105,3300,Broken Arrow City Council,OK,LOCAL,US,5,4 years,http://www.brokenarrowok.gov/142/City-Council,2021-04-06 00:00:00+00,2 seats,,False,False
+5197,823,Oklahoma City City Council,OK,LOCAL,US,8,4 years,http://www.okc.gov/council/,2021-04-06 00:00:00+00,"District 1, 3, 4, and 7.","https://ballotpedia.org/Oklahoma_City,_Oklahoma",False,False
+5430,2846,Springfield Mayor,MO,LOCAL,US,1,2 years,https://www.springfieldmo.gov/,2021-04-06 00:00:00+00,,,False,False
+5547,3309,Lakeland City Commission,FL,LOCAL,US,7,4 years,https://www.lakelandgov.net/government/mayor-city-commission/,2021-04-06 00:00:00+00,Southeast District. Scott Franklin ran successful bid for congress. Don Selvage is serving as interim commissioner until Special Election.,,False,False
+5659,3193,Peoria City Council,IL,LOCAL,US,11,4 years,http://www.peoriagov.org/city-council/,2021-04-06 00:00:00+00,Mayor and 5 numbered districts,,False,False
+5664,706,St. Louis Board of Aldermen,MO,LOCAL,US,29,4 years,https://www.stlouis-mo.gov/government/departments/aldermen/,2021-04-06 00:00:00+00,,,False,False
+5666,3173,Columbia City Council,MO,LOCAL,US,7,3 years,http://www.como.gov/council/council-members/,2021-04-06 00:00:00+00,Wards 2 and 6,,False,False
+6127,3232,Naperville City Council,IL,LOCAL,US,9,4 years,http://www.naperville.il.us/government/meet-your-city-council/,2021-04-06 00:00:00+00,4 seats,,False,False
+6224,590,Colorado Springs City Council,CO,LOCAL,US,9,4 years,https://coloradosprings.gov/city-council,2021-04-06 00:00:00+00,Districts 1-6,,False,False
+6237,2850,Jefferson City Council,MO,LOCAL,US,10,2 years,https://www.jeffersoncitymo.gov/government/council_members.php,2021-04-06 00:00:00+00,1 seat from each of 5 wards,,False,False
+6262,3111,Aurora City Council,IL,LOCAL,US,12,4 years,https://www.aurora-il.org/222/Aldermens-Office,2021-04-06 00:00:00+00,"2 at-large seats, districts 2, 4, 7, 9, 10",,False,False
+6415,1059,St. Louis Mayor,MO,LOCAL,US,1,,https://www.stlouis-mo.gov/government/departments/mayor/,2021-04-06 00:00:00+00,,,False,False
+5584,3240,Gainesville City Commission,FL,LOCAL,US,7,4 years,http://www.cityofgainesville.org/CityCommission.aspx,2021-03-16 00:00:00+00,"District 1, At Large 1",https://www.cityofgainesville.org/ClerkOfTheCommission/CityElections.aspx,False,False
+5487,804,Western Australian Legislative Assembly,WA,STATE,AS,59,maximum of 4 years,https://www.parliament.wa.gov.au/,2021-03-13 00:00:00+00,,,False,False
+5488,201,Western Australian Legislative Council,WA,STATE,AS,36,4 years,https://www.parliament.wa.gov.au/,2021-03-13 00:00:00+00,,,False,False

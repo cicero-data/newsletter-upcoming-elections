@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Canadian House of Commons",
+        "state": "",
+        "gov_type": "NATIONAL",
+        "country_code": "CA",
+        "official_count": "338",
+        "term_length": "4 years",
+        "url": "https://www.ourcommons.ca/Parliamentarians/en/members",
+        "upcoming_election": "2021-09-20 05:00:00+00:00",
+        "ue_remarks": "Snap election called by Prime Minister on 2021-08-15; 338 seats",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_Canadian_federal_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Sep 20, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5725470695648,
+          47.5262022938486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "St. John's City Council",
+        "state": "NL",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "11",
+        "term_length": "4 years",
+        "url": "http://www.stjohns.ca/city-hall/about-city-hall/council",
+        "upcoming_election": "2021-09-29 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Sep 29, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7644391608331,
+          47.5361038453207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Delta City Council & Mayor",
+        "state": "BC",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "http://www.delta.ca/your-government/mayor-council",
+        "upcoming_election": "2021-10-16 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Oct 16, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.015241905838,
+          49.1002103547699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Calgary City Council & Mayor",
+        "state": "AB",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "14",
+        "term_length": "4 years",
+        "url": "https://www.calgary.ca/CityCouncil/Pages/Councillors-and-Wards.aspx",
+        "upcoming_election": "2021-10-18 05:00:00+00:00",
+        "ue_remarks": "14 seats",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_Calgary_municipal_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Oct 18, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.07196736766,
+          51.0458022488228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Edmonton City Council & Mayor",
+        "state": "AB",
+        "gov_type": "LOCAL",
+        "country_code": "CA",
+        "official_count": "12",
+        "term_length": "4 years",
+        "url": "https://www.edmonton.ca/city_government/city_organization/city-councillors.aspx",
+        "upcoming_election": "2021-10-18 05:00:00+00:00",
+        "ue_remarks": "12 councillor seats",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2021_Edmonton_municipal_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Oct 18, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.505983717795,
+          53.5309702912211
+        ]
+      }
+    }
+  ]
+}

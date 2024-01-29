@@ -1,0 +1,1355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Anchorage Mayor",
+        "state": "AK",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "3 years",
+        "url": "http://www.muni.org/mayor/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.522707292232,
+          61.1603962811056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Colorado Springs City Council",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://coloradosprings.gov/city-council",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "Districts 1-6",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.773164383515,
+          38.8667595323147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Fort Collins City Council & Mayor",
+        "state": "CO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "https://www.fcgov.com/council/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.071385214141,
+          40.5488600550268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Gainesville City Commission",
+        "state": "FL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.cityofgainesville.org/CityCommission.aspx",
+        "upcoming_election": "2021-03-16 05:00:00+00:00",
+        "ue_remarks": "District 1, At Large 1",
+        "ue_url_1": "https://www.cityofgainesville.org/ClerkOfTheCommission/CityElections.aspx",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Mar 16, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3478373826244,
+          29.6715798705208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lakeland City Commission",
+        "state": "FL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.lakelandgov.net/government/mayor-city-commission/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "Southeast District. Scott Franklin ran successful bid for congress. Don Selvage is serving as interim commissioner until Special Election.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9647334416327,
+          28.0589720305287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Aurora City Council & Mayor",
+        "state": "IL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "12",
+        "term_length": "4 years",
+        "url": "https://www.aurora-il.org/222/Aldermens-Office",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "2 at-large seats, districts 2, 4, 7, 9, 10",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2909600072367,
+          41.7587434854743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Elgin City Council",
+        "state": "IL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.cityofelgin.org/index.aspx?nid=77",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3226718200273,
+          42.0384660263759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Joliet City Council",
+        "state": "IL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://cityofjoliet.info/government/city-council",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "All at-large seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1493915125661,
+          41.5327926422329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Naperville City Council",
+        "state": "IL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "http://www.naperville.il.us/government/meet-your-city-council/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "4 seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1656283789263,
+          41.7482618416274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Peoria City Council",
+        "state": "IL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "11",
+        "term_length": "4 years",
+        "url": "http://www.peoriagov.org/city-council/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "Mayor and 5 numbered districts",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6148261700478,
+          40.7399264893606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Rockford City Council & Mayor",
+        "state": "IL",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "14",
+        "term_length": "4 years",
+        "url": "http://rockfordil.gov/city-council/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "Mayor and all 14 wards",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0643607877167,
+          42.2686388711634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Wichita City Council",
+        "state": "KS",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "https://www.wichita.gov/Council/Pages/default.aspx",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 3, 6",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3431702348634,
+          37.6906947074228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Columbia City Council",
+        "state": "MO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "http://www.como.gov/council/council-members/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "Wards 2 and 6",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3343239415418,
+          38.9471441947662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Jefferson City Council",
+        "state": "MO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "2 years",
+        "url": "https://www.jeffersoncitymo.gov/government/council_members.php",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "1 seat from each of 5 wards",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1833109018448,
+          38.5591659521117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Springfield City Council & Mayor",
+        "state": "MO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "4 years",
+        "url": "https://www.springfieldmo.gov/145/City-Council",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2917575963546,
+          37.1920643535283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "St. Louis Board of Aldermen & Mayor",
+        "state": "MO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "29",
+        "term_length": "4 years",
+        "url": "https://www.stlouis-mo.gov/government/departments/aldermen/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2511858020497,
+          38.6255516941337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lincoln City Council",
+        "state": "NE",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://lincoln.ne.gov/city/council/index.htm",
+        "upcoming_election": "2021-05-04 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 04, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6794532512166,
+          40.8069659344282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Omaha City Council & Mayor",
+        "state": "NE",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://citycouncil.cityofomaha.org/",
+        "upcoming_election": "2021-05-11 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 11, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0457531240715,
+          41.2612636473216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Northern Ireland Assembly",
+        "state": "Northern Ireland",
+        "gov_type": "STATE",
+        "country_code": "UK",
+        "official_count": "90",
+        "term_length": "5 Years",
+        "url": "http://www.niassembly.gov.uk/",
+        "upcoming_election": "2021-05-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.33490254289451,
+          54.6209152978361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Broken Arrow City Council",
+        "state": "OK",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "4 years",
+        "url": "http://www.brokenarrowok.gov/142/City-Council",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "2 seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7809541460689,
+          36.0366184998802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Oklahoma City City Council",
+        "state": "OK",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "4 years",
+        "url": "http://www.okc.gov/council/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "District 1, 3, 4, and 7.",
+        "ue_url_1": "https://ballotpedia.org/Oklahoma_City,_Oklahoma",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5441795326117,
+          35.4786681256491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "The Scottish Parliament",
+        "state": "SCT",
+        "gov_type": "STATE",
+        "country_code": "UK",
+        "official_count": "129",
+        "term_length": "4 years",
+        "url": "http://www.scottish.parliament.uk/",
+        "upcoming_election": "2021-05-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76624341938479,
+          56.2501931387708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Abilene City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.abilenetx.gov/526/City-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Place 1 and Place 2",
+        "ue_url_1": "https://www.abilenetx.gov/943/2021-Elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7384004427919,
+          32.4542801997807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Allen City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.cityofallen.org/917/Allen-City-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Places 1, 3, 5",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6735151515369,
+          33.1087745711143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Amarillo City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "2 years",
+        "url": "http://amarillo.gov/city-hall/city-government/mayor-council-members",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.830787526227,
+          35.1988275098094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Arlington City Council & Mayor",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "2 years",
+        "url": "http://www.arlington-tx.gov/citycouncil/",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Mayor and 4 council seats.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1230952560109,
+          32.6980258617327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Beaumont City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://beaumonttexas.gov/city-council/",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.14725085631,
+          30.0870788549223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Brownsville City Commission",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.cob.us/807/City-Commission",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "AL-B, 3, 4",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4654320076307,
+          25.9678240131526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Carrollton City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "3 years",
+        "url": "https://www.cityofcarrollton.com/government/city-manager-s-office/city-secretary/city-council-191",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Places 1, 3, 5 and 7",
+        "ue_url_1": "http://www.cityofcarrollton.com/government/city-council/elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9000757206527,
+          32.9884518481436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Dallas City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "14",
+        "term_length": "2 years",
+        "url": "http://dallascityhall.com/government/Pages/city-council.aspx",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "https://dallascityhall.com/government/citysecretary/elections/Pages/elections.aspx",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7769857166466,
+          32.8107786220177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Denton City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://www.cityofdenton.com/government/city-officials/city-council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "The four district councilpersons.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1330246110292,
+          33.2086020423509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Fort Worth City Council & Mayor",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "2 years",
+        "url": "http://fortworthtexas.gov/government/",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.337464473253,
+          32.7602979947564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Frisco City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "3 years",
+        "url": "http://www.friscotexas.gov/585/City-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "districts 1, 3",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8218725949381,
+          33.1552603824622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Garland City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "2 years",
+        "url": "https://www.garlandtx.gov/758/City-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Mayor, and Districts 1, 3, 6, 7 and 8",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6344061985364,
+          32.9064597090776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Grand Prairie City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "3 years",
+        "url": "https://www.gptx.org/city-government/mayor-and-city-council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Districts 5, 6 and 8",
+        "ue_url_1": "https://www.gptx.org/city-government/city-secretary/elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0164148036854,
+          32.6928520180158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Irving City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "3 years",
+        "url": "http://cityofirving.org/210/Meet-Your-Mayor-and-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Places 4, 6 and 8.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9668791458442,
+          32.8537487920092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Killeen City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "2 years",
+        "url": "http://www.killeentexas.gov/153/City-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "district councilmembers",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7287514081938,
+          31.0772936820629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lewisville City Council & Mayor",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "3 years",
+        "url": "https://www.cityoflewisville.com/about-us/mayor-and-council/city-council-bios",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Mayor and City Council positions",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9823420093707,
+          33.0452700116252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "McAllen City Commission",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.mcallen.net/departments/commission",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2458789500349,
+          26.2269371614962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "McKinney City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.mckinneytexas.org/138/City-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Mayor, Council Member at-large 1, District 1, District 3",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6747468507355,
+          33.1977506332948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Pasadena City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "2 years for Councilmembers, 4 years for Mayor",
+        "url": "https://www.pasadenatx.gov/406/City-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1681413965139,
+          29.6709170915569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Pearland City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.pearlandtx.gov/government/city-council",
+        "upcoming_election": "2021-05-08 05:00:00+00:00",
+        "ue_remarks": "2 and 4",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 08, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3200788346492,
+          29.5585186607704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Plano City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "4 years",
+        "url": "https://www.plano.gov/1786/Mayor-City-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Even",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.748687524146,
+          33.0502364910076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Richardson City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "http://www.cor.net/index.aspx?page=112",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "All seats",
+        "ue_url_1": "https://www.cor.net/government/city-secretary/elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7093045479518,
+          32.9716569252982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Round Rock City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.roundrocktexas.gov/about/city-council/",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Places 3 and 5",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6661128683623,
+          30.5253925639165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "San Angelo City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.cosatx.us/government/city-council",
+        "upcoming_election": "2021-05-04 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 04, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.454121005081,
+          31.4491672049572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "San Antonio City Council & Mayor",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "2 years",
+        "url": "http://www.sanantonio.gov/council/",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Mayor and all council seats",
+        "ue_url_1": "https://www.sanantonio.gov/ElectionsCampaignFinance",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5284163026199,
+          29.4722067449588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Sugar Land City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://www.sugarlandtx.gov/160/Mayor-City-Council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 2, 3, 4",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6346210201523,
+          29.5929355489803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Tyler City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://www.cityoftyler.org/government/government/mayor-and-council",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 3, and 5",
+        "ue_url_1": "https://www.cityoftyler.org/Departments/CityClerk/Elections.aspx",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3033768831068,
+          32.3169112730971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Waco City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "2 years",
+        "url": "http://www.waco-texas.com/council.asp",
+        "upcoming_election": "2021-05-01 05:00:00+00:00",
+        "ue_remarks": "District II, IV and V",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 01, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1646209243079,
+          31.5529120321802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Western Australian Legislative Assembly & Legislative Council",
+        "state": "WA",
+        "gov_type": "STATE",
+        "country_code": "AS",
+        "official_count": "59",
+        "term_length": "maximum of 4 years",
+        "url": "https://www.parliament.wa.gov.au/",
+        "upcoming_election": "2021-03-13 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Mar 13, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.617425851809,
+          -31.4674503871324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "National Assembly of Wales",
+        "state": "Wales",
+        "gov_type": "STATE",
+        "country_code": "UK",
+        "official_count": "60",
+        "term_length": "5 years",
+        "url": "http://www.assemblywales.org/",
+        "upcoming_election": "2021-05-06 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.55424573132381,
+          52.066871216427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Madison Common Council",
+        "state": "WI",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "20",
+        "term_length": "2 years",
+        "url": "http://www.cityofmadison.com/council/",
+        "upcoming_election": "2021-04-06 05:00:00+00:00",
+        "ue_remarks": "All 20 seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4055655385773,
+          43.0742768109256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "London Assembly & Mayor of London",
+        "state": "",
+        "gov_type": "LOCAL",
+        "country_code": "UK",
+        "official_count": "25",
+        "term_length": "",
+        "url": "https://www.london.gov.uk/about-us/london-assembly/about-london-assembly",
+        "upcoming_election": "2021-05-06 05:00:00+00:00",
+        "ue_remarks": "25 seats in the London Assembly, rescheduled from 2020 due to COVID-19",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2020_London_Assembly_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 06, 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.116343593295927,
+          51.5053203168849
+        ]
+      }
+    }
+  ]
+}

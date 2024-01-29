@@ -1,0 +1,1055 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Abilene City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.abilenetx.gov/526/City-Council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "place 5, place 6",
+        "ue_url_1": "https://abilenetx.gov/309/Elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7384004427919,
+          32.4542801997807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Allen City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.cityofallen.org/917/Allen-City-Council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Places 4, 6",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6735151515369,
+          33.1087745711143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Anchorage Assembly",
+        "state": "AK",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "11",
+        "term_length": "3 years",
+        "url": "https://www.muni.org/departments/assembly/pages/default.aspx",
+        "upcoming_election": "2022-04-05 05:00:00+00:00",
+        "ue_remarks": "One seat each in districts 2-6.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 05, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.522707292232,
+          61.1603962811056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Arlington City Council & Mayor",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "2 years",
+        "url": "http://www.arlington-tx.gov/citycouncil/",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Council seats 1 and 2, and two at-large seats (6 and 7)",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1230952560109,
+          32.6980258617327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Australia Senate",
+        "state": "",
+        "gov_type": "NATIONAL",
+        "country_code": "AS",
+        "official_count": "76",
+        "term_length": "",
+        "url": "https://www.aph.gov.au/about_parliament/senate",
+        "upcoming_election": "2022-05-21 05:00:00+00:00",
+        "ue_remarks": "On or before 21 May 2022 (half-Senate)",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 21, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.421643150135,
+          -32.7889203234627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Cary Town Council",
+        "state": "NC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "http://www.townofcary.org/mayor-council/town-council",
+        "upcoming_election": "2022-05-17 05:00:00+00:00",
+        "ue_remarks": "1 At-large, A, C",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 17, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.816338536679,
+          35.781999917401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Charlotte City Council",
+        "state": "NC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "12",
+        "term_length": "2 years",
+        "url": "https://charlottenc.gov/citycouncil/Pages/default.aspx",
+        "upcoming_election": "2022-04-26 05:00:00+00:00",
+        "ue_remarks": "Mayor and all council seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 26, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8176772800361,
+          35.2067066337518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Chesapeake City Council",
+        "state": "VA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://www.cityofchesapeake.net/government/council.htm",
+        "upcoming_election": "2022-05-03 05:00:00+00:00",
+        "ue_remarks": "5 seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 03, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3024182871377,
+          36.677744495708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Columbia City Council",
+        "state": "MO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.como.gov/boards/city-council/",
+        "upcoming_election": "2022-04-05 05:00:00+00:00",
+        "ue_remarks": "Mayor, Ward 3, Ward 4",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 05, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3343239415418,
+          38.9471441947662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Columbus City Council & Mayor",
+        "state": "GA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "4 years",
+        "url": "http://www.columbusga.org/council/council.htm",
+        "upcoming_election": "2022-05-24 05:00:00+00:00",
+        "ue_remarks": "Mayor and odd district seats",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 24, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9239836558841,
+          32.5014504345666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Commission of Athens-Clarke County",
+        "state": "GA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "4 years",
+        "url": "https://www.accgov.com/168/Commission-Information-Biographies",
+        "upcoming_election": "2022-05-24 05:00:00+00:00",
+        "ue_remarks": "mayor + odd districts",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 24, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3770231499134,
+          33.9507099417212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Denton City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://www.cityofdenton.com/government/city-officials/city-council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Mayor, 2 At-large",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1330246110292,
+          33.2086020423509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Eugene City Council",
+        "state": "OR",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "4 years",
+        "url": "https://www.eugene-or.gov/537/Mayor-and-City-Council",
+        "upcoming_election": "2022-05-17 05:00:00+00:00",
+        "ue_remarks": "District 3, 4, 5, 6",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 17, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113007440258,
+          44.0570514942879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Fairfax City Council & Mayor",
+        "state": "VA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "2 years",
+        "url": "https://www.fairfaxva.gov/government/mayor-city-council",
+        "upcoming_election": "2022-05-03 05:00:00+00:00",
+        "ue_remarks": "All positions",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 03, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2999048511569,
+          38.8529885364839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Fayetteville City Council",
+        "state": "NC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "2 years",
+        "url": "https://www.fayettevillenc.gov/city-council",
+        "upcoming_election": "2022-04-26 05:00:00+00:00",
+        "ue_remarks": "All",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 26, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9679589524612,
+          35.0750426135383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Garland City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "2 years",
+        "url": "https://www.garlandtx.gov/758/City-Council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Mayor, and Districts 1, 2, 4, 5",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6344061985364,
+          32.9064597090776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Grand Prairie City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "3 years",
+        "url": "https://www.gptx.org/city-government/mayor-and-city-council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Districts 2, District 4, Mayor",
+        "ue_url_1": "https://www.gptx.org/city-government/city-secretary/elections",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0168625319254,
+          32.6931706574072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Green Bay Common Council",
+        "state": "WI",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "12",
+        "term_length": "2 years",
+        "url": "https://greenbaywi.gov/617/Common-Council",
+        "upcoming_election": "2022-04-05 05:00:00+00:00",
+        "ue_remarks": "All 12 seats.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 05, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0077570914884,
+          44.5127087433422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Greensboro City Council & Mayor",
+        "state": "NC",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "4 Years",
+        "url": "https://www.greensboro-nc.gov/government/city-council",
+        "upcoming_election": "2022-04-26 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 26, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8267342876305,
+          36.0940711589026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Hampton City Council",
+        "state": "VA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://hampton.gov/222/City-Council",
+        "upcoming_election": "2022-05-03 05:00:00+00:00",
+        "ue_remarks": "3 councilmembers",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 03, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2953598852645,
+          37.0487489658237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Independence City Council",
+        "state": "MO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.ci.independence.mo.us/CityCouncil",
+        "upcoming_election": "2022-04-05 05:00:00+00:00",
+        "ue_remarks": "mayor and 2 at-large councilmembers",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 05, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3746212381341,
+          39.0827401165903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Irving City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "3 years",
+        "url": "https://www.cityofirving.org/210/Meet-Your-Mayor-and-Council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Places 1, 2, and 7",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9668791458442,
+          32.8537487920092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Jefferson City Council",
+        "state": "MO",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "10",
+        "term_length": "2 years",
+        "url": "https://www.jeffersoncitymo.gov/government/council_members.php",
+        "upcoming_election": "2022-04-05 05:00:00+00:00",
+        "ue_remarks": "1 seat from each of 5 wards",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 05, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1833109018448,
+          38.5591659521117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Killeen City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "2 years",
+        "url": "http://www.killeentexas.gov/153/City-Council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "At-large + Mayor",
+        "ue_url_1": "http://killeentexas.gov/153/City-Council",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7287514081938,
+          31.0772936820629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lancaster City Council",
+        "state": "CA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "4 years",
+        "url": "https://www.cityoflancasterca.org/about-us/city-government/city-officials/city-council",
+        "upcoming_election": "2022-04-12 05:00:00+00:00",
+        "ue_remarks": "",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 12, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.175243299981,
+          34.6934351438792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lewisville City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "5",
+        "term_length": "3 years",
+        "url": "https://www.cityoflewisville.com/about-us/mayor-and-council/city-council-bios",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Places 4 and 5",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9823420093707,
+          33.0452700116252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Lubbock City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years (Mayor), 4 years (Council)",
+        "url": "https://ci.lubbock.tx.us/pages/city-government/city-council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 3, 5",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89059076105,
+          33.5609733311121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Mayor of Athens-Clarke County",
+        "state": "GA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "1",
+        "term_length": "4 years",
+        "url": "https://www.accgov.com/mayor",
+        "upcoming_election": "2022-05-24 05:00:00+00:00",
+        "ue_remarks": "mayor + odd districts",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 24, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3770231499134,
+          33.9507099417212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Newark City Council & Mayor",
+        "state": "NJ",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://www.newarknj.gov/council-members",
+        "upcoming_election": "2022-05-10 05:00:00+00:00",
+        "ue_remarks": "Mayor and all seats",
+        "ue_url_1": "http://www.essexclerk.com/Election/",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 10, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1811140572954,
+          40.7332712295179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Newport News City Council",
+        "state": "VA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.nnva.gov/465/Elected-Officials",
+        "upcoming_election": "2022-05-03 05:00:00+00:00",
+        "ue_remarks": "Mayor, 1B, 2B, 3B",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 03, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5060294095786,
+          37.0856913577331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Norfolk City Council",
+        "state": "VA",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "4 years",
+        "url": "http://www.norfolk.gov/Index.aspx?NID=200",
+        "upcoming_election": "2022-05-03 05:00:00+00:00",
+        "ue_remarks": "Superwards 1-5",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 03, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2611409571368,
+          36.8970942350275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Northern Ireland Assembly",
+        "state": "NIR",
+        "gov_type": "STATE",
+        "country_code": "UK",
+        "official_count": "90",
+        "term_length": "5 Years",
+        "url": "http://www.niassembly.gov.uk/",
+        "upcoming_election": "2022-05-05 05:00:00+00:00",
+        "ue_remarks": "This election was originally scheduled for May 6, 2021, but was pushed to 2022 after a snap election in March 2017.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 05, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.33490254289451,
+          54.6209152978361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Oregon Metro Council & President",
+        "state": "OR",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "4 years",
+        "url": "https://www.oregonmetro.gov/regional-leadership/metro-council",
+        "upcoming_election": "2022-05-03 05:00:00+00:00",
+        "ue_remarks": "District 1, 2, and 4.",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 03, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681638327952,
+          45.4832904391094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Paterson City Council & Mayor",
+        "state": "NJ",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "9",
+        "term_length": "4 years",
+        "url": "https://www.patersonnj.gov/council/",
+        "upcoming_election": "2022-05-10 05:00:00+00:00",
+        "ue_remarks": "at large council seats and Mayor",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 10, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1626110900364,
+          40.9147162810891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Pearland City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.pearlandtx.gov/government/city-council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Districts 3, 7 and Mayor",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3200788346492,
+          29.5585186607704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Round Rock City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "3 years",
+        "url": "https://www.roundrocktexas.gov/about/city-council/",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Place 2 and Place 6",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6661128683623,
+          30.5253925639165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Sioux Falls City Council & Mayor",
+        "state": "SD",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "8",
+        "term_length": "4 years",
+        "url": "https://www.siouxfalls.org/council/",
+        "upcoming_election": "2022-04-12 05:00:00+00:00",
+        "ue_remarks": "Mayor, At-Large Council Member â€œA,â€ At-Large Council Member â€œB,â€ Southeast (SE) District Council Member, and Central (CE) District Council Member",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "Apr 12, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7321205827573,
+          43.5335394126486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Sugar Land City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://www.sugarlandtx.gov/160/Mayor-City-Council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Mayor and 2 at-large positions",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6346210201523,
+          29.5929355489803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Tasmania Legislative Council",
+        "state": "TAS",
+        "gov_type": "STATE",
+        "country_code": "AS",
+        "official_count": "15",
+        "term_length": "6 years",
+        "url": "http://www.parliament.tas.gov.au/",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "2 divisions: Elwick and McIntyre",
+        "ue_url_1": "https://en.wikipedia.org/wiki/2022_Tasmanian_Legislative_Council_periodic_election",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.911317933651,
+          -42.1400753872429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Tempe City Council",
+        "state": "AZ",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "4 years",
+        "url": "https://www.tempe.gov/government/mayor-and-city-council",
+        "upcoming_election": "2022-05-10 05:00:00+00:00",
+        "ue_remarks": "3 councilmembers",
+        "ue_url_1": "https://www.tempe.gov/government/city-clerk-s-office/election-information",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 10, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93177782,
+          33.388119567562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Tyler City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "7",
+        "term_length": "2 years",
+        "url": "https://www.cityoftyler.org/government/government/mayor-and-council",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Districts 2, 4, 6 and Mayor",
+        "ue_url_1": "https://www.cityoftyler.org/Departments/CityClerk/Elections.aspx",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3033768831068,
+          32.3169112730971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_formal": "Waco City Council",
+        "state": "TX",
+        "gov_type": "LOCAL",
+        "country_code": "US",
+        "official_count": "6",
+        "term_length": "2 years",
+        "url": "http://www.waco-texas.com/council.asp",
+        "upcoming_election": "2022-05-07 05:00:00+00:00",
+        "ue_remarks": "Districts 1, 3 and Mayor",
+        "ue_url_1": "",
+        "special": "False",
+        "runoff": "False",
+        "next_election_display": "May 07, 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1646209243079,
+          31.5529120321802
+        ]
+      }
+    }
+  ]
+}
